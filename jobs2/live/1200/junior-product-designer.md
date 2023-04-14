@@ -17,7 +17,7 @@ title:
       - Junior UX Designer
       - Junior UI Designer
       - Junior Software Designer
-description: <p>At TSB, we're all here to give money confidence to our customers and communities. Wherever you work in TSB, you can make a real difference to your career, our business, and the wider community". we're looking for a Junior Product Designer who is passionate about customer centric design and innovation</p>
+description: > <p>At TSB, we're all here to give money confidence to our customers and communities. Wherever you work in TSB, you can make a real difference to your career, our business, and the wider community". we're looking for a Junior Product Designer who is passionate about customer centric design and innovation</p>
 <h2 id="what-we-need-today">What we need today</h2>
 <p>To make sure you're set up for success you'll already have these skills and experience:</p>
 <ul>
@@ -45,7 +45,7 @@ description: <p>At TSB, we're all here to give money confidence to our customers
 <p> Inclusion matters at TSB. We want our colleagues to feel at home here, no matter their background . Diverse teams are what helps us deliver Money Confidence. For everyone, Every day.</p>
 <p>Did our job advert catch you eye, but you don't meet all the requirements? Don't let that put you off. If you meet some of the requirements and have an open curious mindset, we'd love to hear from you. </p>
 
-postedDate: 2023-03-24T00:00:00.000Z
+postedDate: "2023-03-24T00:00:00.000Z"
 directApply: false
 jobLocation: 
   original: London
@@ -61,7 +61,7 @@ jobLocation:
   workplace: undefined
 hiringOrganization:
   name: TSB
-  logo: //uxbri.org/jobs/logos/TSBlogo.svg
+  logo: "//uxbri.org/jobs/logos/TSBlogo.svg"
   id: 255
   shortId: 8V87kPej
   uuid: 85e491b0-098a-4868-b635-52df1a72f09a
@@ -71,8 +71,8 @@ employmentType:
   textDescription: undefined
 applicationUrl: https://career2.successfactors.eu/career?career_ns=job_listing&company=tsbukprod&navBarLevel=JOB_SEARCH&rcm_site_locale=en_GB&site=VjItSmFoc1VqUEliN25XSmxwcnB4TjZ5QT09&career_job_req_id=29191
 applicationType: link
-closedDate: 2023-04-24T00:00:00.000Z
+closedDate: "2023-04-24T00:00:00.000Z"
 status: LIVE
-permalink: /jobs2/1200/junior-product-designer.html
+permalink: "/jobs2/1200/junior-product-designer.html"
 layout: job
 ---
