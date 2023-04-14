@@ -12,10 +12,10 @@ title:
     canonicalTitle: Junior Product Designer
     expandedTitle: Junior Product Designer
     similiarTitles: 
-      - Junior Product Developer,
-      - Junior Product Manager,
-      - Junior UX Designer,
-      - Junior UI Designer,
+      - Junior Product Developer
+      - Junior Product Manager
+      - Junior UX Designer
+      - Junior UI Designer
       - Junior Software Designer
 description: <p>At TSB, we're all here to give money confidence to our customers and communities. Wherever you work in TSB, you can make a real difference to your career, our business, and the wider community". we're looking for a Junior Product Designer who is passionate about customer centric design and innovation</p>
 <h2 id="what-we-need-today">What we need today</h2>
