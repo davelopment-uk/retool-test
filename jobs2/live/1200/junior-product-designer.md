@@ -1,5 +1,5 @@
 
-      ---
+---
     _id: 6422c2554576a1bbc6095e5e 
     id: 1200
     shortId: huefuh87
@@ -70,5 +70,5 @@
     status: LIVE
     permalink: /jobs2/1200/junior-product-designer.html
     layout: job
-    ---
+---
     
