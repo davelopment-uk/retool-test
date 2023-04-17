@@ -1,1 +1,79 @@
-Ci0tLQpfaWQ6IDY0MjJjMjU1NDU3NmExYmJjNjA5NWU1ZSAKaWQ6IDEyMDAKc2hvcnRJZDogaHVlZnVoODcKdXVpZDogNTQxZWUzODQtZGUzOC00M2I1LWFlYjgtZGNkMGYwMGZmMTE2CnRpdGxlOgogIG9yaWdpbmFsOiBKdW5pb3IgUHJvZHVjdCBEZXNpZ25lcgogIHRleHREZXNjcmlwdGlvbjogSnVuaW9yIFByb2R1Y3QgRGVzaWduZXIKICB1cmxTbHVnOiBqdW5pb3ItcHJvZHVjdC1kZXNpZ25lcgogIGluZmVycmVkOgogICAgY2Fub25pY2FsVGl0bGU6IEp1bmlvciBQcm9kdWN0IERlc2lnbmVyCiAgICBleHBhbmRlZFRpdGxlOiBKdW5pb3IgUHJvZHVjdCBEZXNpZ25lcgogICAgc2ltaWxpYXJUaXRsZXM6IAogICAgICAtIEp1bmlvciBQcm9kdWN0IERldmVsb3BlcgogICAgICAtIEp1bmlvciBQcm9kdWN0IE1hbmFnZXIKICAgICAgLSBKdW5pb3IgVVggRGVzaWduZXIKICAgICAgLSBKdW5pb3IgVUkgRGVzaWduZXIKICAgICAgLSBKdW5pb3IgU29mdHdhcmUgRGVzaWduZXIKZGVzY3JpcHRpb246IHwgCiAgPHA+QXQgVFNCLCB3ZSdyZSBhbGwgaGVyZSB0byBnaXZlIG1vbmV5IGNvbmZpZGVuY2UgdG8gb3VyIGN1c3RvbWVycyBhbmQgY29tbXVuaXRpZXMuIFdoZXJldmVyIHlvdSB3b3JrIGluIFRTQiwgeW91IGNhbiBtYWtlIGEgcmVhbCBkaWZmZXJlbmNlIHRvIHlvdXIgY2FyZWVyLCBvdXIgYnVzaW5lc3MsIGFuZCB0aGUgd2lkZXIgY29tbXVuaXR5Ii4gd2UncmUgbG9va2luZyBmb3IgYSBKdW5pb3IgUHJvZHVjdCBEZXNpZ25lciB3aG8gaXMgcGFzc2lvbmF0ZSBhYm91dCBjdXN0b21lciBjZW50cmljIGRlc2lnbiBhbmQgaW5ub3ZhdGlvbjwvcD4KPGgyIGlkPSJ3aGF0LXdlLW5lZWQtdG9kYXkiPldoYXQgd2UgbmVlZCB0b2RheTwvaDI+CjxwPlRvIG1ha2Ugc3VyZSB5b3UncmUgc2V0IHVwIGZvciBzdWNjZXNzIHlvdSdsbCBhbHJlYWR5IGhhdmUgdGhlc2Ugc2tpbGxzIGFuZCBleHBlcmllbmNlOjwvcD4KPHVsPgo8bGk+RXhwZXJpZW5jZSBvZiB3b3JraW5nIGluIHByb2R1Y3QvVVggZGVzaWduPC9saT4KPGxpPkhhdmUgcHJhY3RpY2FsIGV4cGVyaWVuY2UgZGVzaWduaW5nIHdlYnNpdGVzIG9yIGFwcHMgKGUuZy4gcGFzdCByb2xlLCBwbGFjZW1lbnQgeWVhciwgcGVyc29uYWwgcHJvamVjdHMsIG9yIGZyZWVsYW5jZSB3b3JrKTwvbGk+CjxsaT5Tb21lIGV4cGVyaWVuY2UgaW4gY3JlYXRpbmcgdXNlciBmbG93cyBhbmQvb3Igam91cm5leSBtYXBzPC9saT4KPGxpPkNhcmUgZGVlcGx5IGFib3V0IHByb2R1Y2luZyBkZXNpZ25zIHRoYXQgaGF2ZSBhIHBvc2l0aXZlIGltcGFjdCBvbiB1c2VyczwvbGk+CjxsaT5IZWxwaW5nIHRvIHBsYW4gYW5kIGV4ZWN1dGUgdXNlciBpbnRlcnZpZXdzIGFuZCBjby1jcmVhdGlvbnMgdG8gdW5kZXJzdGFuZCBob3cgd2UgY2FuIGJlc3QgbWVldCB1c2VyIG5lZWRzPC9saT4KPGxpPlN0cm9uZyBjb21tdW5pY2F0aW9ucyBza2lsbHMgYW5kIGFiaWxpdHkgdG8gZWZmZWN0aXZlbHkgc2VsbCBhIGNvbmNlcHQgdG8gc3Rha2Vob2xkZXJzPC9saT4KPGxpPkEga2VlbiBpbnRlcmVzdCBpbiBzZXJ2aWNlIGRlc2lnbjwvbGk+CjwvdWw+CjxoMiBpZD0id2hhdC15b3VsbC1iZWNvbWUtdG9tb3Jyb3ciPldoYXQgeW91J2xsIGJlY29tZSB0b21vcnJvdy48L2gyPgo8cD5JdCB0YWtlcyBtb3JlIHRoYW4gZXhwZXJpZW5jZSB0byBiZSBzdWNjZXNzZnVsIGluIHRoZSByb2xlLCB3aXRoIGRldmVsb3BtZW50IGFuZCBjb2FjaGluZyB5b3Ugd2lsbDo8L3A+Cjx1bD4KPGxpPkhlbHBpbmcgdG8gc2hhcGUgZnV0dXJlIGlubm92YXRpb24gYXQgVFNCIHRocm91Z2ggYSBtZXRob2RpY2FsIGRlc2lnbiB0aGlua2luZyBhcHByb2FjaDwvbGk+CjxsaT5Xb3JraW5nIGRpcmVjdGx5IHdpdGggc3Rha2Vob2xkZXJzIHRvIHVuZGVyc3RhbmQgYnVzaW5lc3MgcmVxdWlyZW1lbnRzIGFuZCBoZWxwIHNoYXBlIHRoZSBmdXR1cmUgb2YgdGhlaXIgcHJvZHVjdHM8L2xpPgo8bGk+R2VuZXJhdGUgbXVsdGlwbGUgc29sdXRpb25zIGZyb20gc2NyYXRjaCBiYXNlZCBvbiBjdXN0b21lciBuZWVkczwvbGk+CjxsaT5CZSBhYmxlIHRvIHJ1biB5b3VyIG93biB1c2VyIHRlc3RzIGFuZCBlZmZlY3RpdmVseSByZXBvcnQgdGhlIHJlc3VsdHMgYmFjayB0byBzdGFrZWhvbGRlcnM8L2xpPgo8bGk+QmUgYWJsZSB0byBtYXAgb3V0IGpvdXJuZXlzIGFuZCBpZGVudGlmeSBwYWlucyBhbmQgZ2FpbnMgZm9yIGN1c3RvbWVycyBhbmQgdGhlIGJ1c2luZXNzPC9saT4KPGxpPkJlIGFibGUgdG8gZWZmZWN0aXZlbHkgY3JlYXRlIGZ1dHVyZSB2YWx1ZSBwcm9wb3NpdGlvbnM8L2xpPgo8L3VsPgo8cD5TbyBpZiB0aGlzIHNvdW5kcyB1cCB5b3VyIHN0cmVldCwgY29tZSBqb2luIG91ciB0ZWFtLCB3ZSBtYWtlIHRoaW5ncyBoYXBwZW4hPC9wPgo8cD48c3Ryb25nPlRTQi4gTGlmZSBNYWRlIE1vcmU8L3N0cm9uZz48L3A+CjxwPiNMSS1HTjE8L3A+CjxwPiBJbmNsdXNpb24gbWF0dGVycyBhdCBUU0IuIFdlIHdhbnQgb3VyIGNvbGxlYWd1ZXMgdG8gZmVlbCBhdCBob21lIGhlcmUsIG5vIG1hdHRlciB0aGVpciBiYWNrZ3JvdW5kIC4gRGl2ZXJzZSB0ZWFtcyBhcmUgd2hhdCBoZWxwcyB1cyBkZWxpdmVyIE1vbmV5IENvbmZpZGVuY2UuIEZvciBldmVyeW9uZSwgRXZlcnkgZGF5LjwvcD4KPHA+RGlkIG91ciBqb2IgYWR2ZXJ0IGNhdGNoIHlvdSBleWUsIGJ1dCB5b3UgZG9uJ3QgbWVldCBhbGwgdGhlIHJlcXVpcmVtZW50cz8gRG9uJ3QgbGV0IHRoYXQgcHV0IHlvdSBvZmYuIElmIHlvdSBtZWV0IHNvbWUgb2YgdGhlIHJlcXVpcmVtZW50cyBhbmQgaGF2ZSBhbiBvcGVuIGN1cmlvdXMgbWluZHNldCwgd2UnZCBsb3ZlIHRvIGhlYXIgZnJvbSB5b3UuIDwvcD4KCnBvc3RlZERhdGU6ICIyMDIzLTAzLTI0VDAwOjAwOjAwLjAwMFoiCmRpcmVjdEFwcGx5OiB0cnVlCmpvYkxvY2F0aW9uOiAKICBvcmlnaW5hbDogTG9uZG9uCiAgdGV4dERlc2NyaXB0aW9uOiBMb25kb24KICBsb2NhdGlvbnM6CiAgLSB0ZXh0RGVzY3JpcHRpb246IExvbmRvbgogICAgbG9jYWxpdHk6IExvbmRvbgogICAgY291bnRyeU5hbWU6IFVuaXRlZCBLaW5nZG9tCiAgICBjb3VudHJ5Q29kZTogR0IKICAgIGxhdGl0dWRlOiA1MS41MDc0CiAgICBsb25naXR1ZGU6IC0wLjEyNzgKICAKICB3b3JrcGxhY2U6IHVuZGVmaW5lZApoaXJpbmdPcmdhbml6YXRpb246CiAgbmFtZTogVFNCCiAgbG9nbzogIi8vdXhicmkub3JnL2pvYnMvbG9nb3MvVFNCbG9nby5zdmciCiAgaWQ6IDI1NQogIHNob3J0SWQ6IDhWODdrUGVqCiAgdXVpZDogODVlNDkxYjAtMDk4YS00ODY4LWI2MzUtNTJkZjFhNzJmMDlhCmVtcGxveW1lbnRUeXBlOgogIHR5cGVJbmZvOnVuZGVmaW5lZAogIG9yaWdpbmFsOiB1bmRlZmluZWQKICB0ZXh0RGVzY3JpcHRpb246IHVuZGVmaW5lZAphcHBsaWNhdGlvblVybDogaHR0cHM6Ly9jYXJlZXIyLnN1Y2Nlc3NmYWN0b3JzLmV1L2NhcmVlcj9jYXJlZXJfbnM9am9iX2xpc3RpbmcmY29tcGFueT10c2J1a3Byb2QmbmF2QmFyTGV2ZWw9Sk9CX1NFQVJDSCZyY21fc2l0ZV9sb2NhbGU9ZW5fR0Imc2l0ZT1Wakl0U21Gb2MxVnFVRWxpTjI1WFNteHdjbkI0VGpaNVFUMDkmY2FyZWVyX2pvYl9yZXFfaWQ9MjkxOTEKYXBwbGljYXRpb25UeXBlOiBsaW5rCmNsb3NlZERhdGU6ICIyMDIzLTA0LTI0VDAwOjAwOjAwLjAwMFoiCnN0YXR1czogTElWRQpwZXJtYWxpbms6ICIvam9iczIvMTIwMC9qdW5pb3ItcHJvZHVjdC1kZXNpZ25lci5odG1sIgpsYXlvdXQ6IGpvYgotLS0K
+
+---
+_id: 6422c2554576a1bbc6095e5e 
+id: 1200
+shortId: huefuh87
+uuid: 541ee384-de38-43b5-aeb8-dcd0f00ff116
+title:
+  original: Junior Product Designer
+  textDescription: Junior Product Designer
+  urlSlug: junior-product-designer
+  inferred:
+    canonicalTitle: Junior Product Designer
+    expandedTitle: Junior Product Designer
+    similiarTitles: 
+      - Junior Product Developer
+      - Junior Product Manager
+      - Junior UX Designer
+      - Junior UI Designer
+      - Junior Software Designer
+description: | 
+  <p>At TSB, we're all here to give money confidence to our customers and communities. Wherever you work in TSB, you can make a real difference to your career, our business, and the wider community". we're looking for a Junior Product Designer who is passionate about customer centric design and innovation</p>
+<h2 id="what-we-need-today">What we need today</h2>
+<p>To make sure you're set up for success you'll already have these skills and experience:</p>
+<ul>
+<li>Experience of working in product/UX design</li>
+<li>Have practical experience designing websites or apps (e.g. past role, placement year, personal projects, or freelance work)</li>
+<li>Some experience in creating user flows and/or journey maps</li>
+<li>Care deeply about producing designs that have a positive impact on users</li>
+<li>Helping to plan and execute user interviews and co-creations to understand how we can best meet user needs</li>
+<li>Strong communications skills and ability to effectively sell a concept to stakeholders</li>
+<li>A keen interest in service design</li>
+</ul>
+<h2 id="what-youll-become-tomorrow">What you'll become tomorrow.</h2>
+<p>It takes more than experience to be successful in the role, with development and coaching you will:</p>
+<ul>
+<li>Helping to shape future innovation at TSB through a methodical design thinking approach</li>
+<li>Working directly with stakeholders to understand business requirements and help shape the future of their products</li>
+<li>Generate multiple solutions from scratch based on customer needs</li>
+<li>Be able to run your own user tests and effectively report the results back to stakeholders</li>
+<li>Be able to map out journeys and identify pains and gains for customers and the business</li>
+<li>Be able to effectively create future value propositions</li>
+</ul>
+<p>So if this sounds up your street, come join our team, we make things happen!</p>
+<p><strong>TSB. Life Made More</strong></p>
+<p>#LI-GN1</p>
+<p> Inclusion matters at TSB. We want our colleagues to feel at home here, no matter their background . Diverse teams are what helps us deliver Money Confidence. For everyone, Every day.</p>
+<p>Did our job advert catch you eye, but you don't meet all the requirements? Don't let that put you off. If you meet some of the requirements and have an open curious mindset, we'd love to hear from you. </p>
+
+postedDate: "2023-03-24T00:00:00.000Z"
+directApply: true
+jobLocation: 
+  original: London
+  textDescription: London
+  locations:
+  - textDescription: London
+    locality: London
+    countryName: United Kingdom
+    countryCode: GB
+    latitude: 51.5074
+    longitude: -0.1278
+  
+  workplace: undefined
+hiringOrganization:
+  name: TSB
+  logo: "//uxbri.org/jobs/logos/TSBlogo.svg"
+  id: 255
+  shortId: 8V87kPej
+  uuid: 85e491b0-098a-4868-b635-52df1a72f09a
+employmentType:
+  typeInfo:undefined
+  original: undefined
+  textDescription: undefined
+applicationUrl: https://career2.successfactors.eu/career?career_ns=job_listing&company=tsbukprod&navBarLevel=JOB_SEARCH&rcm_site_locale=en_GB&site=VjItSmFoc1VqUEliN25XSmxwcnB4TjZ5QT09&career_job_req_id=29191
+applicationType: link
+closedDate: "2023-04-24T00:00:00.000Z"
+status: LIVE
+permalink: "/jobs2/1200/junior-product-designer.html"
+layout: job
+---

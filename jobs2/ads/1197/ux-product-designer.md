@@ -1,1 +1,140 @@
-Ci0tLQpfaWQ6IDY0MjJjMjRmNDU3NmExYmJjNjA5NWU1YSAKaWQ6IDExOTcKc2hvcnRJZDogb2R3d3BwbGk4OAp1dWlkOiA0ZDIyZjZjOS0yMDc4LTQ1MTItODdmMi1kZTc1OGQ3Nzk4ODUKdGl0bGU6CiAgb3JpZ2luYWw6IFVYIFByb2R1Y3QgRGVzaWduZXIKICB0ZXh0RGVzY3JpcHRpb246IFVzZXIgRXhwZXJpZW5jZSBEZXNpZ25lcgogIHVybFNsdWc6IHV4LXByb2R1Y3QtZGVzaWduZXIKICBpbmZlcnJlZDoKICAgIGNhbm9uaWNhbFRpdGxlOiBVWCBEZXNpZ25lcgogICAgZXhwYW5kZWRUaXRsZTogVXNlciBFeHBlcmllbmNlIERlc2lnbmVyCiAgICBzaW1pbGlhclRpdGxlczogCiAgICAgIC0gVXNlciBJbnRlcmZhY2UgRGVzaWduZXIKICAgICAgLSBJbnRlcmFjdGlvbiBEZXNpZ25lcgogICAgICAtIFZpc3VhbCBEZXNpZ25lcgogICAgICAtIFByb2R1Y3QgU3RyYXRlZ2lzdAogICAgICAtIFVzZXIgUmVzZWFyY2hlcgpkZXNjcmlwdGlvbjogfCAKICA8aDIgaWQ9ImFib3V0LXRoZS1yb2xlIj5BYm91dCBUaGUgUm9sZTwvaDI+CjxwPldlIGFyZSBsb29raW5nIGZvciBhIHNraWxsZWQgYW5kIHBhc3Npb25hdGUgbWlkLWxldmVsIFByb2R1Y3QgRGVzaWduZXIgdG8gaGVscCBndWlkZSB0aGUgZXZvbHV0aW9uIG9mIG91ciBwcm9kdWN0LiBBcyBhIGtleSBtZW1iZXIgb2Ygb3VyIFByb2R1Y3QgVGVhbSwgeW91IHdpbGwgd29yayBjbG9zZWx5IHdpdGggUHJvZHVjdCBNYW5hZ2VycywgRGVzaWduZXJzLCBhbmQgRW5naW5lZXJzIHRvIGRlZmluZSByZXF1aXJlbWVudHMgYnkgY29uZHVjdGluZyByZXNlYXJjaCBhbmQgYW5hbHl6aW5nIGluc2lnaHRzLiBUaGlzIHJvbGUgd2lsbCByZXF1aXJlIGJvdGggZGVzaWduIGFuZCByZXNlYXJjaCBza2lsbHMgYnV0IHdlIGFwcHJlY2lhdGUgeW91IG1heSBub3QgYmUgYSBtYXN0ZXIgb2YgYWxsIG9mIHRoZXNlLiAKQ3VycmVudGx5LCB3ZSB3b3JrIGluIGEgaHlicmlkIGVudmlyb25tZW50IHdpdGggMS0yIGRheXMgaW4gdGhlIEJyaWdodG9uIG9mZmljZSBzbyB5b3Ugd2lsbCBuZWVkIHRvIGxpdmUgd2l0aGluIGEgY29tbXV0YWJsZSBkaXN0YW5jZS4KUGxlYXNlIGFwcGx5IHZpYSBvdXIgb25saW5lIGFwcGxpY2F0aW9uIHN5c3RlbSBhbmQgaW5jbHVkZSB5b3VyIENWLCBhIGxpbmsgdG8gZXhhbXBsZXMgb2YgeW91ciB3b3JrICgrIGFueSBwYXNzd29yZCksIGFuZCBzdGF0ZSB5b3VyIHNhbGFyeSBleHBlY3RhdGlvbnMgb24gdGhlIGFwcGxpY2F0aW9uLiBXZSB3aWxsIGJlIHJldmlld2luZyBhcHBsaWNhdGlvbnMgYXMgdGhleSBhcnJpdmUuPC9wPgo8aDIgaWQ9InJlc3BvbnNpYmlsaXRpZXMiPlJlc3BvbnNpYmlsaXRpZXM8L2gyPgo8dWw+CjxsaT5Xb3JraW5nIG9uIG91ciBMb2NhbCBTRU8gcHJvZHVjdCB0byBoZWxwIGlkZW50aWZ5IGFuZCBkZXZlbG9wIGV4cGVyaWVuY2UgaW1wcm92ZW1lbnRzPC9saT4KPGxpPkJlIGludm9sdmVkIGluIHRoZSBmdWxsIGRlc2lnbiBwcm9jZXNzIGVuZC10by1lbmQgZnJvbSBkaXNjb3ZlcnkgdGhyb3VnaCB0byBpZGVhIGdlbmVyYXRpb24gYW5kIGhpZ2gtZmlkZWxpdHkgZGVzaWduczwvbGk+CjxsaT5Db2xsYWJvcmF0aW5nIHdpdGggRGVzaWduZXJzLCBQcm9kdWN0IE1hbmFnZXJzLCBFbmdpbmVlcnMsIGFuZCBvdGhlciBzdGFrZWhvbGRlcnMuPC9saT4KPGxpPkNvbnRyaWJ1dGluZyB0byBvdXIgZGVzaWduIHN5c3RlbTwvbGk+CjxsaT5QYXJ0aWNpcGF0aW5nIGluIGdlbmVyYXRpdmUgcmVzZWFyY2ggYWN0aXZpdGllcyB0byBsZWFybiBtb3JlIGFib3V0IG91ciBjdXN0b21lcjwvbGk+CjwvdWw+CjxoMiBpZD0iZXhwZXJpZW5jZSI+RXhwZXJpZW5jZTwvaDI+Cjx1bD4KPGxpPkV4cGVyaWVuY2UgdXNpbmcgRmlnbWEgb3Igc2ltaWxhciB0b29scyBmb3IgaGktZmlkZWxpdHkgVUkgZGVzaWduczwvbGk+CjxsaT5UaGUgYWJpbGl0eSB0byBnZW5lcmF0ZSBpZGVhcyBmYXN0IHRvIHNvbHZlIHByb2JsZW1zIGVmZmljaWVudGx5PC9saT4KPGxpPkV4cGVyaWVuY2UgY3JlYXRpbmcgcHJvdG90eXBlcyBmb3IgdGVzdGluZzwvbGk+CjxsaT5FeHBlcmllbmNlIGluIGNvbmR1Y3RpbmcgdXNhYmlsaXR5IHRlc3Rpbmc8L2xpPgo8bGk+RmFtaWxpYXJpdHkgd2l0aCB1c2VyLWNlbnRyZWQgZGVzaWduIHByb2Nlc3NlcyA8L2xpPgo8bGk+QW4gdW5kZXJzdGFuZGluZyBvZiB3ZWIgYWNjZXNzaWJpbGl0eTwvbGk+CjxsaT5IYXBweSB0byB0YWtlIG9uIGZlZWRiYWNrL2RpcmVjdGlvbiBmcm9tIG90aGVycyBhbmQgdm9pY2UgeW91ciBvd24gb3BpbmlvbnM8L2xpPgo8bGk+U2VsZi1vcmdhbml6ZWQgYW5kIGdvb2QgdGltZSBtYW5hZ2VtZW50IHRvIHdvcmsgYXV0b25vbW91c2x5PC9saT4KPGxpPkFiaWxpdHkgdG8gd29yayBjb2xsYWJvcmF0aXZlbHkgYW5kIGJ1aWxkIHJhcHBvcnQ8L2xpPgo8bGk+SGlnaCBhdHRlbnRpb24gdG8gZGV0YWlsPC9saT4KPGxpPkVkdWNhdGlvbmFsIGJhY2tncm91bmQgaW4gVVgsIEhDSSwgb3Igc2ltaWxhcjwvbGk+CjwvdWw+CjxoMyBpZD0iZGVzaXJhYmxlLWJ1dC1ub3QtZXNzZW50aWFsIj5EZXNpcmFibGUgYnV0IG5vdCBlc3NlbnRpYWw8L2gzPgo8dWw+CjxsaT5Hb29kIHVuZGVyc3RhbmRpbmcgb2YgVVggd3JpdGluZyAtIHdl4oCZcmUgcHJlcGFyZWQgdG8gb2ZmZXIgdHJhaW5pbmcgZm9yIHRoZSByaWdodCBwZXJzb248L2xpPgo8bGk+RXhwZXJpZW5jZSB3b3JraW5nIHdpdGhpbiBhIFNhYVMgY29tcGFueSBvciB3aXRoIGFwcHM8L2xpPgo8bGk+RXhwZXJpZW5jZSBpbiBkZXNpZ24gZm9yIG1hcmtldGVycy9TRU9zL2FuYWx5c3RzPC9saT4KPC91bD4KPGgyIGlkPSJiZW5lZml0cyI+QmVuZWZpdHM8L2gyPgo8dWw+CjxsaT48c3Ryb25nPkNvbXBldGl0aXZlIFNhbGFyeTwvc3Ryb25nPjx1bD4KPGxpPldlIHByaWRlIG91cnNlbHZlcyBvbiBwYXlpbmcgb3VyIGVtcGxveWVlcyB3ZWxsLiBXZSBtb25pdG9yIHRoZSBtYXJrZXQgc2FsYXJ5IGxldmVscyB0byBlbnN1cmUgdGhhdCB5b3Uga2VlcCB5b3VyIHNhbGFyeSBpbiBsaW5lIHdpdGggdGhlIG1hcmtldCAmYW1wOyBvdGhlciBlbXBsb3llcnMuPC9saT4KPGxpPldlIGNvbmR1Y3Qgc2FsYXJ5IHJldmlld3MgZXZlcnkgMTIgbW9udGhzIGFuZCBhZGp1c3QgdGVhbSBtZW1iZXJzIHBheSBiYXNlZCBvbiBwZXJzb25hbCBwZXJmb3JtYW5jZSBhbmQgdG8ga2VlcCBzYWxhcmllcyBpbiBsaW5lIHdpdGggdGhlIG1hcmtldC48L2xpPgo8L3VsPgo8L2xpPgo8bGk+PHN0cm9uZz5Db21wYW55IEJvbnVzPC9zdHJvbmc+PHVsPgo8bGk+RXZlcnkgdGVhbSBtZW1iZXIgZW50ZXJzIGludG8gb3VyIGNvbXBhbnkgYm9udXMgc2NoZW1lIHdoaWNoIGlzIHdvcnRoIHVwIHRvIDIwJSBvZiB5b3VyIGFubnVhbCBzYWxhcnkuPC9saT4KPC91bD4KPC9saT4KPGxpPjxzdHJvbmc+VHJhaW5pbmc8L3N0cm9uZz48dWw+CjxsaT5XZeKAmXJlIGtlZW4gdG8gaW52ZXN0IGluIG91ciB0ZWFt4oCZcyBjb250aW51ZWQgc3VjY2VzcyB3aXRoIHJlZ3VsYXIgdHJhaW5pbmcgYW5kIGNvbmZlcmVuY2Ugb3Bwb3J0dW5pdGllcywgd2UgYWxzbyBsaWtlIHRvIGhhdmUgZnVuIHdpdGggcmVndWxhciB0ZWFtIGJ1aWxkaW5nIGRheXMgd2hpY2ggaW5jbHVkZSBhY3Rpdml0aWVzIGxpa2UgcGFyYWdsaWRpbmcsIHF1YWQgYmlraW5nIGFuZCBzYWlsaW5nIHRvIG5hbWUgYnV0IGEgZmV3ITwvbGk+CjwvdWw+CjwvbGk+CjxsaT48c3Ryb25nPkhvbGlkYXlzPC9zdHJvbmc+PHVsPgo8bGk+WW91IGdldCAyNSBkYXlzIG9mIGhvbGlkYXkgKyBuYXRpb25hbCBob2xpZGF5cyArIHlvdXIgYmlydGhkYXkgb2ZmIC0gYmlydGhkYXlzIGFyZSBzcGVjaWFsIGRheXMsIG5vdCB3b3JrIGRheXMhPC9saT4KPC91bD4KPC9saT4KPGxpPjxzdHJvbmc+UGFpZCBTaWNrIExlYXZlPC9zdHJvbmc+PHVsPgo8bGk+V2Ugd2FudCBhbGwgdGVhbSBtZW1iZXJzIHRvIGxvb2sgYWZ0ZXIgdGhlbXNlbHZlcyBhbmQgYmUgaGVhbHRoeS4gV2UgZ2l2ZSB5b3UgMTAgZGF5cyBvZiBzaWNrIGxlYXZlL3BlciB5ZWFyIGFuZCB3b27igJl0IGFzayB5b3UgdG8gd29yayB1bnRpbCB5b3UgYXJlIDEwMCUgYmV0dGVyLjwvbGk+CjwvdWw+CjwvbGk+CjxsaT48c3Ryb25nPlByaXZhdGUgSGVhbHRoY2FyZTwvc3Ryb25nPjx1bD4KPGxpPldlIGNvdmVyIHRoZSBjb3N0IG9mIHByaXZhdGUgaGVhbHRoY2FyZSB3aXRoIGFuIGFwcHJvdmVkIHByb3ZpZGVyLjwvbGk+CjwvdWw+CjwvbGk+CjxsaT48c3Ryb25nPkNoYXJpdHkgRGF5czwvc3Ryb25nPjx1bD4KPGxpPllvdSBoYXZlIHRoZSBvcHRpb24gdG8gc3BlbmQgc2l4IHdvcmtpbmcgZGF5cyBlYWNoIHllYXIgdm9sdW50ZWVyaW5nIGF0IGEgY2hhcml0eSBvZiB5b3VyIGNob2ljZS48L2xpPgo8L3VsPgo8L2xpPgo8bGk+PHN0cm9uZz5GYXN0LCBwb3dlcmZ1bCBQQyBvciBMYXB0b3A8L3N0cm9uZz48dWw+CjxsaT5Zb3UgY2FuIGNob29zZSB0aGUgcmlnaHQgZXF1aXBtZW50IGFuZCBzZXR1cCB0aGF0IHdvcmtzIGZvciB5b3UgYW5kIG1ha2VzIGl0IGVhc3kgZm9yIHlvdSB0byBkbyB5b3VyIGJlc3Qgd29yay48L2xpPgo8L3VsPgo8L2xpPgo8bGk+PHN0cm9uZz5GbGV4aWJsZSwgaHlicmlkIHdvcmtpbmc8L3N0cm9uZz48dWw+CjxsaT5XZSBvZmZlciBmbGV4aWJsZSBob3VycyBhbmQgd29ya2luZyBhcnJhbmdlbWVudHMgdG8gc3VpdCB5b3VyIGxpZmUgYW5kIHlvdXIgcm9sZS4gWW91IGNhbiBjaG9vc2Ugd2hlcmUgeW91IHdhbnQgdG8gd29yayAtIGluIHRoZSBvZmZpY2Ugb3IgZnJvbSB0aGUgY29tZm9ydCBvZiB5b3VyIGhvbWUuPC9saT4KPGxpPldvcmsgZnJvbSBhbnl3aGVyZTwvbGk+CjxsaT5XYW50IHRvIHRyYXZlbCB0byB2aXNpdCBmYW1pbHkgb3IgZXhwbG9yZSB0aGUgd29ybGQ/IEdvIGZvciBpdCEgV2UgZW5jb3VyYWdlIHdvcmstbGlmZSBiYWxhbmNlIGJ5IGVuYWJsaW5nIHRlYW0gbWVtYmVycyB0byB3b3JrIGFicm9hZCBmb3IgdXAgdG8gdGhyZWUgd2Vla3MgcGVyIHllYXIuPC9saT4KPC91bD4KPC9saT4KPC91bD4KPGgyIGlkPSJhYm91dC1icmlnaHRsb2NhbCI+QWJvdXQgQnJpZ2h0TG9jYWw8L2gyPgo8cD5BdCBCcmlnaHRMb2NhbCBvdXIgbWlzc2lvbiBpcyB0byBoZWxwIGV2ZXJ5IG1hcmtldGVyIGJlY29tZSBicmlsbGlhbnQgYXQgbG9jYWwgU0VPLgpXZSBkbyB0aGlzIHRocm91Z2ggYSB1bmlxdWUgY29tYmluYXRpb24gb2YgcG93ZXJmdWwgc29mdHdhcmUsIGRvbmUtZm9yLXlvdSBzZXJ2aWNlcywgYW5kIGV4dGVuc2l2ZSBrbm93bGVkZ2Utc2hhcmluZyBhbmQgdHJhaW5pbmcgcmVzb3VyY2VzLCBpbmNsdWRpbmcgb3VyIHZlcnkgb3duIEJyaWdodExvY2FsIEFjYWRlbXkuPC9wPgo8cD5XZSBiZWxpZXZlIHRoZSBiZXN0IHdheSB0byBhY2hpZXZlIG91ciBtaXNzaW9uIGlzIHRvIGVuc3VyZSBldmVyeSB0ZWFtIG1lbWJlciBpcyBoYXBweSwgcGFzc2lvbmF0ZSwgbW90aXZhdGVkLCBhbmQgY29tbWl0dGVkIHRvIGhlbHBpbmcgb3VyIGN1c3RvbWVycy4gV2UgZG8gdGhpcyBieSBjcmVhdGluZyB0aGUgbW9zdCBwb3NpdGl2ZSB3b3JrIGV4cGVyaWVuY2UgcG9zc2libGUgZm9yIHlvdS4gWW914oCZbGwgZ2V0IGJvdW5kbGVzcyBvcHBvcnR1bml0aWVzIHRvIGxlYXJuLCBkZXZlbG9wLCBzdWNjZWVkIGFuZCB0aHJpdmUgaW4gYSBjdWx0dXJlIHRoYXQgY2hlcmlzaGVzIGluZGl2aWR1YWxpdHkgYW5kIGNoYW1waW9ucyB0ZWFtd29yayBhbmQgY29sbGFib3JhdGlvbi48L3A+CjxwPldl4oCZdmUgYmVlbiB3b3JraW5nIHRoaXMgd2F5IGZvciAxMiB5ZWFycyBhbmQgc28gZmFyIGl04oCZcyB3b3JrZWQgd2VsbC4gV2XigJl2ZSBncm93biBmcm9tIGEgZmxlZGdsaW5nIG9wZXJhdGlvbiBvZiBqdXN0IE15bGVzIGFuZCBFZCAob3VyIHR3byBmb3VuZGVycywgd2hvIHN0aWxsIGxlYWQgdGhlIGJ1c2luZXNzIHRvZGF5KSB0byBhIGdsb2JhbCB0ZWFtIG9mIDE5MCB3aXRoIG9mZmljZXMgaW4gQnJpZ2h0b24gKFVLKSwgS3lpdiAoVWtyYWluZSkgYW5kIFZhbGVuY2lhIChQaGlsaXBwaW5lcykuPC9wPgo8cD5Ub2RheSB3ZSBzZXJ2ZSBvdmVyIDE1LDAwMCBjdXN0b21lcnMgYW5kIGhhdmUgY29uc2lzdGVudGx5IGdyb3duIGJ5IDIwJSBlYWNoIHllYXIuIFlvdeKAmWxsIGdldCB0byB3b3JrIHdpdGggYnVzaW5lc3NlcyBvZiBhbGwgc2l6ZXMgZnJvbSBzbWFsbCBtYXJrZXRpbmcgYWdlbmNpZXMsIHJpZ2h0IHVwIHRvIGJpZyBicmFuZHMgc3VjaCBhcyBDby1vcCwgS3Jpc3B5IEtyZW1lLCBIYWxmb3JkcyBhbmQgSUtFQS48L3A+CjxwPuKAmEVuam95aW5nIHdvcmvigJkgaXMgYSBjb3JlIGNvbXBhbnkgYmVsaWVmLiBZb3XigJlsbCBleHBlcmllbmNlIHRoaXMgdGhyb3VnaCBvdXIgZmxleGlibGUgd29ya2luZyBvcHRpb25zIChlLmcuIHJlbW90ZSwgY29yZSBob3VycyksIG91ciB2aWJyYW50LCBlbmVyZ2lzaW5nIGFuZCBjb21mb3J0YWJsZSBvZmZpY2VzIGFuZCByZWd1bGFyIHRlYW0gZXZlbnRzLiBXZSBiZWxpZXZlIHRoYXQgd2XigJlyZSBub3RoaW5nIHdpdGhvdXQgc3Ryb25nLCBwZXJzb25hbCByZWxhdGlvbnNoaXBzIGFuZCB3ZSBjYXJlZnVsbHkgbnVydHVyZSB0aGVzZSB0aHJvdWdoIGEgcmFuZ2Ugb2YgYWN0aXZpdGllcyB0aGF0IGNhdGVyIHRvIHRoZSBpbnRlcmVzdHMgb2Ygb3VyIGRpdmVyc2UgdGVhbSAtIGUuZy4gdGVhbSBsdW5jaGVzLCBzb2NpYWwgbmlnaHRzLCBlc2NhcGUgcm9vbXMsIGNvY2t0YWlsIG1ha2luZywgbGVhcm5pbmcgdG8gc2FpbCwgc2NhdmVuZ2VyIGh1bnRzLCBwYWRkbGUgYm9hcmRpbmcgZXRj4oCmPC9wPgo8cD5XZeKAmXJlIHByb3VkIHRvIGJlIGEgV29ya2luZyBGYW1pbGllcyBhbmQgTGl2aW5nIFdhZ2UgZW1wbG95ZXIsIGFuZCBpbiAyMDIxIHdlIHdlcmUgc2VsZWN0ZWQgYXMgYSDigJhDdWx0dXJlIExlYWRlcuKAmSBpbiB0aGUgQnJlYXRoZUhS4oCZcyBDdWx0dXJlIExlYWRlcnMgQXdhcmRzICh3ZSB3ZXJlIDl0aCBvdXQgb2YgMTUwIGNvbXBhbmllcyBhbmQgd2XigJlyZSBhaW1pbmcgbXVjaCBoaWdoZXIgaW4gMjAyMikuPC9wPgo8cD5Zb3UgY2FuIGZpbmQgb3V0IG1vcmUgYWJvdXQgbGlmZSBhdCBCcmlnaHRMb2NhbCBvbiBvdXIg4oCYV29ya2luZyBhdCBCcmlnaHRMb2NhbOKAmSBwYWdlLCBhbmQgY2hlY2sgb3V0IG91ciByZXZpZXdzIGFuZCBwaG90b3Mgb24gPGEgaHJlZj0iaHR0cHM6Ly93d3cuZ2xhc3Nkb29yLmNvLnVrL0pvYnMvQnJpZ2h0TG9jYWwtSm9icy1FMjA5NjQ2OC5odG0iPkdsYXNzZG9vcjwvYT4gd2hpY2ggc2hvd3MgeW91IHdoYXQgaXTigJlzIGxpa2UgdG8gYmUgYSBtZW1iZXIgb2Ygb3VyIHRlYW0uPC9wPgo8cD5XZSBrbm93IHRoYXQgb3VyIGZ1dHVyZSBpcyBwYWNrZWQgd2l0aCBiaWcgY2hhbGxlbmdlcyBhbmQgZXhjaXRpbmcgb3Bwb3J0dW5pdGllczsgYW5kIHdlIG5lZWQgc21hcnQsIHBhc3Npb25hdGUgYW5kIGNvbW1pdHRlZCBwZW9wbGUgbGlrZSB5b3UgdG8gaGVscCB1cyByZWFsaXNlIHRoZW0hPC9wPgoKcG9zdGVkRGF0ZTogIjIwMjMtMDMtMjBUMDA6MDA6MDAuMDAwWiIKZGlyZWN0QXBwbHk6IGZhbHNlCmpvYkxvY2F0aW9uOiAKICBvcmlnaW5hbDogQnJpZ2h0b24sIEh5YnJpZAogIHRleHREZXNjcmlwdGlvbjogSHlicmlkLCBCcmlnaHRvbgogIGxvY2F0aW9uczoKICAtIHRleHREZXNjcmlwdGlvbjogQnJpZ2h0b24KICAgIGxvY2FsaXR5OiBCcmlnaHRvbgogICAgY291bnRyeU5hbWU6IFVuaXRlZCBLaW5nZG9tCiAgICBjb3VudHJ5Q29kZTogR0IKICAgIGxhdGl0dWRlOiA1MC44MjgzOAogICAgbG9uZ2l0dWRlOiAtMC4xMzk0NwogIAogIHdvcmtwbGFjZTogUEFSVF9SRU1PVEUKaGlyaW5nT3JnYW5pemF0aW9uOgogIG5hbWU6IEJyaWdodGxvY2FsCiAgbG9nbzogIi8vdXhicmkub3JnL2pvYnMvbG9nb3MvQkxfbG9nb19ncmVlbi5zdmciCiAgaWQ6IDY2NQogIHNob3J0SWQ6IFAxVWc5d0NuCiAgdXVpZDogYWM4OWQxMzMtZDU1Ny00YzJhLTkxM2ItNDI0M2RjY2IzMDQ1CmVtcGxveW1lbnRUeXBlOgogIHR5cGVJbmZvOgogIC0gdGV4dDogUGVybWFuZW50CiAgICBjb2RlOiBQRVJNQU5FTlQKICAgIHR5cGU6IGNvbnRyYWN0CiAgCiAgb3JpZ2luYWw6IFBlcm1hbmVudAogIHRleHREZXNjcmlwdGlvbjogUGVybWFuZW50CmFwcGxpY2F0aW9uVXJsOiBodHRwczovL3d3dy5icmlnaHRsb2NhbC5jb20vY2FyZWVycy8jam9iZm9ybS0xMjYxNDg0CmFwcGxpY2F0aW9uVHlwZTogbGluawpjbG9zZWREYXRlOiAiMjAyMy0wNC0yMFQwMDowMDowMC4wMDBaIgpzdGF0dXM6IExJVkUKcGVybWFsaW5rOiAiL2pvYnMyLzExOTcvdXgtcHJvZHVjdC1kZXNpZ25lci5odG1sIgpsYXlvdXQ6IGpvYgotLS0K
+
+---
+_id: 6422c24f4576a1bbc6095e5a 
+id: 1197
+shortId: odwwppli88
+uuid: 4d22f6c9-2078-4512-87f2-de758d779885
+title:
+  original: UX Product Designer
+  textDescription: User Experience Designer
+  urlSlug: ux-product-designer
+  inferred:
+    canonicalTitle: UX Designer
+    expandedTitle: User Experience Designer
+    similiarTitles: 
+      - User Interface Designer
+      - Interaction Designer
+      - Visual Designer
+      - Product Strategist
+      - User Researcher
+description: | 
+  <h2 id="about-the-role">About The Role</h2>
+<p>We are looking for a skilled and passionate mid-level Product Designer to help guide the evolution of our product. As a key member of our Product Team, you will work closely with Product Managers, Designers, and Engineers to define requirements by conducting research and analyzing insights. This role will require both design and research skills but we appreciate you may not be a master of all of these. 
+Currently, we work in a hybrid environment with 1-2 days in the Brighton office so you will need to live within a commutable distance.
+Please apply via our online application system and include your CV, a link to examples of your work (+ any password), and state your salary expectations on the application. We will be reviewing applications as they arrive.</p>
+<h2 id="responsibilities">Responsibilities</h2>
+<ul>
+<li>Working on our Local SEO product to help identify and develop experience improvements</li>
+<li>Be involved in the full design process end-to-end from discovery through to idea generation and high-fidelity designs</li>
+<li>Collaborating with Designers, Product Managers, Engineers, and other stakeholders.</li>
+<li>Contributing to our design system</li>
+<li>Participating in generative research activities to learn more about our customer</li>
+</ul>
+<h2 id="experience">Experience</h2>
+<ul>
+<li>Experience using Figma or similar tools for hi-fidelity UI designs</li>
+<li>The ability to generate ideas fast to solve problems efficiently</li>
+<li>Experience creating prototypes for testing</li>
+<li>Experience in conducting usability testing</li>
+<li>Familiarity with user-centred design processes </li>
+<li>An understanding of web accessibility</li>
+<li>Happy to take on feedback/direction from others and voice your own opinions</li>
+<li>Self-organized and good time management to work autonomously</li>
+<li>Ability to work collaboratively and build rapport</li>
+<li>High attention to detail</li>
+<li>Educational background in UX, HCI, or similar</li>
+</ul>
+<h3 id="desirable-but-not-essential">Desirable but not essential</h3>
+<ul>
+<li>Good understanding of UX writing - we’re prepared to offer training for the right person</li>
+<li>Experience working within a SaaS company or with apps</li>
+<li>Experience in design for marketers/SEOs/analysts</li>
+</ul>
+<h2 id="benefits">Benefits</h2>
+<ul>
+<li><strong>Competitive Salary</strong><ul>
+<li>We pride ourselves on paying our employees well. We monitor the market salary levels to ensure that you keep your salary in line with the market &amp; other employers.</li>
+<li>We conduct salary reviews every 12 months and adjust team members pay based on personal performance and to keep salaries in line with the market.</li>
+</ul>
+</li>
+<li><strong>Company Bonus</strong><ul>
+<li>Every team member enters into our company bonus scheme which is worth up to 20% of your annual salary.</li>
+</ul>
+</li>
+<li><strong>Training</strong><ul>
+<li>We’re keen to invest in our team’s continued success with regular training and conference opportunities, we also like to have fun with regular team building days which include activities like paragliding, quad biking and sailing to name but a few!</li>
+</ul>
+</li>
+<li><strong>Holidays</strong><ul>
+<li>You get 25 days of holiday + national holidays + your birthday off - birthdays are special days, not work days!</li>
+</ul>
+</li>
+<li><strong>Paid Sick Leave</strong><ul>
+<li>We want all team members to look after themselves and be healthy. We give you 10 days of sick leave/per year and won’t ask you to work until you are 100% better.</li>
+</ul>
+</li>
+<li><strong>Private Healthcare</strong><ul>
+<li>We cover the cost of private healthcare with an approved provider.</li>
+</ul>
+</li>
+<li><strong>Charity Days</strong><ul>
+<li>You have the option to spend six working days each year volunteering at a charity of your choice.</li>
+</ul>
+</li>
+<li><strong>Fast, powerful PC or Laptop</strong><ul>
+<li>You can choose the right equipment and setup that works for you and makes it easy for you to do your best work.</li>
+</ul>
+</li>
+<li><strong>Flexible, hybrid working</strong><ul>
+<li>We offer flexible hours and working arrangements to suit your life and your role. You can choose where you want to work - in the office or from the comfort of your home.</li>
+<li>Work from anywhere</li>
+<li>Want to travel to visit family or explore the world? Go for it! We encourage work-life balance by enabling team members to work abroad for up to three weeks per year.</li>
+</ul>
+</li>
+</ul>
+<h2 id="about-brightlocal">About BrightLocal</h2>
+<p>At BrightLocal our mission is to help every marketer become brilliant at local SEO.
+We do this through a unique combination of powerful software, done-for-you services, and extensive knowledge-sharing and training resources, including our very own BrightLocal Academy.</p>
+<p>We believe the best way to achieve our mission is to ensure every team member is happy, passionate, motivated, and committed to helping our customers. We do this by creating the most positive work experience possible for you. You’ll get boundless opportunities to learn, develop, succeed and thrive in a culture that cherishes individuality and champions teamwork and collaboration.</p>
+<p>We’ve been working this way for 12 years and so far it’s worked well. We’ve grown from a fledgling operation of just Myles and Ed (our two founders, who still lead the business today) to a global team of 190 with offices in Brighton (UK), Kyiv (Ukraine) and Valencia (Philippines).</p>
+<p>Today we serve over 15,000 customers and have consistently grown by 20% each year. You’ll get to work with businesses of all sizes from small marketing agencies, right up to big brands such as Co-op, Krispy Kreme, Halfords and IKEA.</p>
+<p>‘Enjoying work’ is a core company belief. You’ll experience this through our flexible working options (e.g. remote, core hours), our vibrant, energising and comfortable offices and regular team events. We believe that we’re nothing without strong, personal relationships and we carefully nurture these through a range of activities that cater to the interests of our diverse team - e.g. team lunches, social nights, escape rooms, cocktail making, learning to sail, scavenger hunts, paddle boarding etc…</p>
+<p>We’re proud to be a Working Families and Living Wage employer, and in 2021 we were selected as a ‘Culture Leader’ in the BreatheHR’s Culture Leaders Awards (we were 9th out of 150 companies and we’re aiming much higher in 2022).</p>
+<p>You can find out more about life at BrightLocal on our ‘Working at BrightLocal’ page, and check out our reviews and photos on <a href="https://www.glassdoor.co.uk/Jobs/BrightLocal-Jobs-E2096468.htm">Glassdoor</a> which shows you what it’s like to be a member of our team.</p>
+<p>We know that our future is packed with big challenges and exciting opportunities; and we need smart, passionate and committed people like you to help us realise them!</p>
+
+postedDate: "2023-03-20T00:00:00.000Z"
+directApply: false
+jobLocation: 
+  original: Brighton, Hybrid
+  textDescription: Hybrid, Brighton
+  locations:
+  - textDescription: Brighton
+    locality: Brighton
+    countryName: United Kingdom
+    countryCode: GB
+    latitude: 50.82838
+    longitude: -0.13947
+  
+  workplace: PART_REMOTE
+hiringOrganization:
+  name: Brightlocal
+  logo: "//uxbri.org/jobs/logos/BL_logo_green.svg"
+  id: 665
+  shortId: P1Ug9wCn
+  uuid: ac89d133-d557-4c2a-913b-4243dccb3045
+employmentType:
+  typeInfo:
+  - text: Permanent
+    code: PERMANENT
+    type: contract
+  
+  original: Permanent
+  textDescription: Permanent
+applicationUrl: https://www.brightlocal.com/careers/#jobform-1261484
+applicationType: link
+closedDate: "2023-04-20T00:00:00.000Z"
+status: LIVE
+permalink: "/jobs2/1197/ux-product-designer.html"
+layout: job
+---

@@ -1,1 +1,104 @@
-Ci0tLQpfaWQ6IDY0MjJjMjYyNDU3NmExYmJjNjA5NWU2NyAKaWQ6IDEyMDMKc2hvcnRJZDogamZoeWh5eXk3Nwp1dWlkOiA2YzI5OTViYi02ZjhmLTQ4ZmEtOTIyZS1lOTBkOTEwZGE3NjMKdGl0bGU6CiAgb3JpZ2luYWw6IEhlYWQgb2YgVVggYW5kIFJlc2VhcmNoCiAgdGV4dERlc2NyaXB0aW9uOiBIZWFkIG9mIFVYIGFuZCBSZXNlYXJjaAogIHVybFNsdWc6IGhlYWQtb2YtdXgtYW5kLXJlc2VhcmNoCiAgaW5mZXJyZWQ6CiAgICBjYW5vbmljYWxUaXRsZTogdW5kZWZpbmVkCiAgICBleHBhbmRlZFRpdGxlOiB1bmRlZmluZWQKICAgIHNpbWlsaWFyVGl0bGVzOiB1bmRlZmluZWQKZGVzY3JpcHRpb246IHwgCiAgPGgyIGlkPSJyb2xlLXB1cnBvc2UiPlJvbGUgcHVycG9zZTwvaDI+CjxwPlRoZSBIZWFkIG9mIFVYICZhbXA7IFJlc2VhcmNoIGlzIHJlc3BvbnNpYmxlIGZvciBlbnN1cmluZyB0aGF0IHRoZSB1c2VyIGV4cGVyaWVuY2UgYWNyb3NzIGFsbCBkaWdpdGFsIHBsYXRmb3JtcyBpcyBleGNlcHRpb25hbC4gVGhleSBhcmUgdGhlIGd1YXJkaWFuIG9mIHRoZSBTdGF5c3VyZSBncm91cCBjdXN0b21lciBqb3VybmV5IGFuZCB3aWxsIGNyZWF0ZSBjb21wbGltZW50YXJ5IHlldCBkaXN0aW5jdCBkZXNpZ24gc3lzdGVtcyBhY3Jvc3MgYWxsIG9mIHRoZSBncm91cOKAmXMgbWFqb3IgYnJhbmRzLiBUaGlzIHJvbGUgZXhpc3RzIHRvIGNoYW1waW9uIFVYICZhbXA7IFJlc2VhcmNoIGJlc3QgcHJhY3RpY2UgYW5kIGltcGxlbWVudCB0aGlzIG5ldyBkaXNjaXBsaW5lIGludG8gdGhlIGJ1c2luZXNzLiBUaGUgSGVhZCBvZiBVWCBhbmQgUmVzZWFyY2ggd2lsbCBwbGF5IGEga2V5IHJvbGUgaW4gbWFuYWdpbmcgQ1JPIGFuZCBpbmNyZWFzZSBjb252ZXJzaW9uIHRocm91Z2ggYmVhdXRpZnVsIGN1c3RvbWVyIGpvdXJuZXlzLjwvcD4KPGgyIGlkPSJrZXktcmVzcG9uc2liaWxpdGllcyI+S2V5IFJlc3BvbnNpYmlsaXRpZXM8L2gyPgo8dWw+CjxsaT5EZXZlbG9wIGFuZCBpbXBsZW1lbnQgYSBVWCBzdHJhdGVneSB0aGF0IGFsaWducyB3aXRoIHRoZSBjb21wYW55J3Mgb3ZlcmFsbCBkaWdpdGFsIHRyYW5zZm9ybWF0aW9uIGdvYWxzLjwvbGk+CjxsaT5MZWFkIGFuZCBtYW5hZ2UgYSB0ZWFtIG9mIFVYIGRlc2lnbmVycywgcmVzZWFyY2hlcnMsIGFuZCBhbmFseXN0cyB0byBlbnN1cmUgYSBjb25zaXN0ZW50IHVzZXIgZXhwZXJpZW5jZSBhY3Jvc3MgYWxsIGJyYW5kcy48L2xpPgo8bGk+SW50cm9kdWNlIHJlc2VhcmNoIGFzIGEgZGlzY2lwbGluZSB3aXRoaW4gdGhlIGJ1c2luZXNzIGFuZCBkZXZlbG9wIGEgcGxhbiBmb3IgY29uZHVjdGluZyB1c2VyIHJlc2VhcmNoIHRvIGluZm9ybSBwcm9kdWN0IGRlY2lzaW9uczwvbGk+CjxsaT5Db2xsYWJvcmF0ZSB3aXRoIGNyb3NzLWZ1bmN0aW9uYWwgdGVhbXMsIGluY2x1ZGluZyBwcm9kdWN0IG1hbmFnZW1lbnQsIG1hcmtldGluZywgYW5kIGVuZ2luZWVyaW5nLCB0byBkZWxpdmVyIGhpZ2gtcXVhbGl0eSB1c2VyIGV4cGVyaWVuY2VzIHRoYXQgbWVldCBidXNpbmVzcyBvYmplY3RpdmVzLjwvbGk+CjxsaT5EZXZlbG9wIGFuZCBtYWludGFpbiBhIENSTyByb2FkbWFwIHRvIGltcHJvdmUgY29udmVyc2lvbiByYXRlcyBhY3Jvc3MgYWxsIGRpZ2l0YWwgdG91Y2hwb2ludHMuPC9saT4KPGxpPk1vbml0b3IgYW5kIGFuYWx5emUgdXNlciBiZWhhdmlvciB0byBpZGVudGlmeSBvcHBvcnR1bml0aWVzIGZvciBvcHRpbWl6YXRpb24gYW5kIGltcHJvdmVtZW50PC9saT4KPGxpPkVuc3VyZSB0aGF0IGFsbCBkaWdpdGFsIGV4cGVyaWVuY2VzIG1lZXQgYWNjZXNzaWJpbGl0eSBhbmQgY29tcGxpYW5jZSBzdGFuZGFyZHM8L2xpPgo8bGk+TGluZSBtYW5hZ2VtZW50IGFuZCBkZXZlbG9wbWVudCBvZiBpbiBob3VzZSBVWCB0YWxlbnQ8L2xpPgo8bGk+Q29vcmRpbmF0aW5nIHdpdGggdGhpcmQgcGFydHkgYWdlbmNpZXMgd2hlcmUgcmVsZXZhbnQ8L2xpPgo8bGk+U3RheSB1cC10by1kYXRlIHdpdGggaW5kdXN0cnkgdHJlbmRzLCBiZXN0IHByYWN0aWNlcywgYW5kIGVtZXJnaW5nIHRlY2hub2xvZ2llcyBpbiBVWCBhbmQgcmVzZWFyY2g8L2xpPgo8L3VsPgo8aDIgaWQ9InF1YWxpZmljYXRpb25zIj5RdWFsaWZpY2F0aW9uczwvaDI+Cjx1bD4KPGxpPkV4dGVuc2l2ZSBleHBlcmllbmNlIGluIFVYIGRlc2lnbiwgcmVzZWFyY2gsIG9yIGEgcmVsYXRlZCBmaWVsZC48L2xpPgo8bGk+RXhwZXJpZW5jZSBtYW5hZ2luZyBhbmQgZGV2ZWxvcGluZyBhIHRlYW0gb2YgVVggZGVzaWduZXJzLCByZXNlYXJjaGVycywgYW5kIGFuYWx5c3RzLjwvbGk+CjxsaT5TdHJvbmcgdW5kZXJzdGFuZGluZyBvZiB1c2VyLWNlbnRlcmVkIGRlc2lnbiBwcmluY2lwbGVzLCBpbmNsdWRpbmcgZGVzaWduIHRoaW5raW5nIGFuZCB1c2VyIHJlc2VhcmNoIG1ldGhvZG9sb2dpZXMuPC9saT4KPGxpPlRyYWNrIHJlY29yZCBvZiBwcm9kdWNpbmcgYmVhdXRpZnVsIGFuZCBlZmZlY3RpdmUgY3VzdG9tZXIgam91cm5leXMg4oCTIGlkZWFsbHkgZm9yIHdlbGwga25vd24gY29uc3VtZXIgYnJhbmRzPC9saT4KPGxpPklkZWFsbHkgYWNyb3NzIGEgcmFuZ2Ugb2YgdGFyZ2V0IGF1ZGllbmNlczwvbGk+CjxsaT5FeHBlcmllbmNlIHdpdGggQ1JPIGFuZCBhIHRyYWNrIHJlY29yZCBvZiBpbXByb3ZpbmcgY29udmVyc2lvbiByYXRlcyB3aXRoIGRlc2lnbiBiZXN0IHByYWN0aWNlPC9saT4KPGxpPlN0cm9uZyBjb21tdW5pY2F0aW9uIGFuZCBjb2xsYWJvcmF0aW9uIHNraWxscywgd2l0aCB0aGUgYWJpbGl0eSB0byB3b3JrIGVmZmVjdGl2ZWx5IHdpdGggY3Jvc3MtZnVuY3Rpb25hbCB0ZWFtczwvbGk+CjxsaT5FeHBlcmllbmNlIHdpdGggYWdpbGUgZGV2ZWxvcG1lbnQgbWV0aG9kb2xvZ2llcy48L2xpPgo8bGk+S25vd2xlZGdlIG9mIGFjY2Vzc2liaWxpdHkgYW5kIGNvbXBsaWFuY2Ugc3RhbmRhcmRzLCBpbmNsdWRpbmcgV0NBRyBhbmQgQURBLjwvbGk+CjwvdWw+CjxoMiBpZD0iYXQtc3RheXN1cmUtZ3JvdXAtd2UtbGlrZS10by1zdGFuZC1vdXQtZnJvbS10aGUtY3Jvd2QiPkF0IFN0YXlzdXJlIEdyb3VwIHdlIGxpa2UgdG8gc3RhbmQgb3V0IGZyb20gdGhlIGNyb3dkITwvaDI+CjxwPlN0YXlzdXJlIEdyb3VwIGlzIGFuIGF3YXJkIHdpbm5pbmcgaW5zdXJ0ZWNoIG9yZ2FuaXNhdGlvbiBjaGFuZ2luZyB0aGUgd2F5IGN1c3RvbWVycyB3b3JrIHdpdGggaW5zdXJlcnMuIFdl4oCZdmUgYmVlbiBzZWxsaW5nIGF3YXJkLXdpbm5pbmcgaW5zdXJhbmNlIHByb2R1Y3RzIGFuZCBzZXJ2aWNlcyBzaW5jZSAyMDA0IGFuZCB3ZSBoYXZlIGFuIGV4Y2l0aW5nIHBvcnRmb2xpbyBvZiBtYXJrZXQgbGVhZGluZyBicmFuZHMgaW5jbHVkaW5nIFN0YXlzdXJlLCBBdmFudGksIFBheWluZyBUb28gTXVjaCwgUGV0c3VyZSwgUk9DSyBhbmQgdGhlIG5ld2VzdCBhZGRpdGlvbiBXYXBwITwvcD4KPHA+V2Ugd2FudCB0byB0YWtlIHRoYXQgZmFmZiBvdXQgb2YgaW5zdXJhbmNlIGFuZCBldmVuIGJyaW5nIGEgYml0IG9mIGpveSB0byBvdXIgY3VzdG9tZXJzLCBzb21ldGhpbmcgeW91IG5ldmVyIHRob3VnaHQgeW91J2QgaGVhciBhbiBpbnN1cmVyIHNheSE8L3A+CjxwPldl4oCZdmUgYmVlbiBib2xkLCBpbm5vdmF0aXZlIGFuZCBhZGFwdGFibGUgYWxsb3dpbmcgdXMgdG8gc2V0IG91cnNlbHZlcyBldmVuIGZ1cnRoZXIgYWhlYWQgb2YgdGhlIHBhY2ssIGJ1aWxkaW5nIG9uIG91ciBzdHJvbmcgZm91bmRhdGlvbnMgZm9yIGFuIGV4Y2l0aW5nIGZ1dHVyZS48L3A+CjxoMiBpZD0id2h5LXN0YXlzdXJlIj5XaHkgU3RheXN1cmU/PC9oMj4KPHA+WW91IHdpbGwgZ2V0IHRvIHdvcmsgaW4gYSBmYXN0LXBhY2VkIGFuZCBjaGFuZ2UgZW1icmFjaW5nIGVudmlyb25tZW50LCBhbmQgd2UgdHJ1bHkgY2FyZSBhYm91dCBvdXIgY3VzdG9tZXJzIGFuZCBvdXIgcGVvcGxlLiBXZSBhcmUgdGhlIHByb3VkIG93bmVycyBvZiBtYW55IGF3YXJkcyBNb25leXdpc2UgLSBCZXN0IFRyYXZlbCBJbnN1cmFuY2UgUHJvdmlkZXIsIEJyaXRpc2ggVHJhdmVsIEF3YXJkcyDigJMgQmVzdCBUcmF2ZWwgSW5zdXJhbmNlIFByb3ZpZGVyIGFuZCBFbXBsb3llZSBFeHBlcmllbmNlIEF3YXJkcyDigJMgRW1wbG95ZWUgRW5nYWdlbWVudCBhbmQgVm9pY2Ugb2YgdGhlIEVtcGxveWVlLCB0byBuYW1lIGJ1dCBhIGZldyE8L3A+CjxwPkFzIHdlbGwgYXMgd29ya2luZyB3aXRoIGEgZ3JlYXQgdGVhbSBhbmQgcmVjZWl2aW5nIGEgY29tcGV0aXRpdmUgcmV3YXJkcyBwYWNrYWdlLCB5b3Ugd2lsbCBiZSBwYXJ0IG9mIGEgaGlnaC1ncm93dGggc3RydWN0dXJlIHdoZXJlIHlvdSB3aWxsIGJlIGNvbnN0YW50bHkgY2hhbGxlbmdlZCBhbmQgdXNpbmcgYW4gT0tSIG1ldGhvZG9sb2d5LCB5b3Ugd2lsbCBoYXZlIHRoZSBhdXRvbm9teSB0byBoaXQgeW91ciBvd24gb2JqZWN0aXZlcyBhbmQgc3VycGFzcyB0aGVtLjwvcD4KPHA+SWYgeW91IGFyZSBpbnRlcmVzdGVkIGluIGpvaW5pbmcgYW4gYXdhcmQgd2lubmluZywgbWFya2V0IGxlYWRpbmcgYnVzaW5lc3MgcGxlYXNlIGFwcGx5IHRvZGF5LiA8L3A+CjxoMiBpZD0iYmVuZWZpdHMtb2Ytd29ya2luZy13aXRoLXVzIj5CZW5lZml0cyBvZiB3b3JraW5nIHdpdGggdXM8L2gyPgo8dWw+CjxsaT48c3Ryb25nPlBlcmtib3ggZnJvbSBkYXkgMSE8L3N0cm9uZz4KRGlzY291bnRzLCBib251c2VzIGFuZCBhd2FyZHMhIApQZXJrYm94IGFsc28gaW5jbHVkZXMgYSBmYW50YXN0aWMgc3VpdGUgb2YgdG9vbHMgZm9yIGxvb2tpbmcgYWZ0ZXIgeW91ciBtZW50YWwgd2VsbGJlaW5nPC9saT4KPGxpPjxzdHJvbmc+VGFrZSBzb21lIHRpbWUgZm9yIHlvdXJzZWxmPC9zdHJvbmc+IPCfm6sKMjUgZGF5cyBob2xpZGF5IHBlciB5ZWFyLiBQbHVzIHRoZSBvcHRpb24gdG8gYnV5IGFuZCBzZWxsIHlvdXIgaG9saWRheS48L2xpPgo8bGk+PHN0cm9uZz5Xb3JrIGhhcmQsIHBsYXkgaGFyZDwvc3Ryb25nPiDwn5KDCkZhbnRhc3RpYyB0ZWFtIHNvY2lhbCBldmVudHMsIGluY2x1ZGluZyBhIGxlZ2VuZGFyeSBDaHJpc3RtYXMgcGFydHkgYW5kIG9uLXNpdGUgc29jaWFsIEZyaWRheXMuPC9saT4KPGxpPjxzdHJvbmc+R2V0IHN0YXJ0ZWQgb24geW91ciBoZWFsdGggYW5kIGZpdG5lc3M8L3N0cm9uZz4g8J+SqgpPbmNlIHlvdSd2ZSBwYXNzZWQgcHJvYmF0aW9uIHlvdSdsbCBnZXQgYSBmcmVlIG1lbWJlcnNoaXAgYXQgUHVyZSBHeW0sIFZpcmdpbiBBY3RpdmUgb3IgTnVmZmllbGQgSGVhbHRoITwvbGk+CjxsaT48c3Ryb25nPkZhbmN5IGEgY29mZmVlPzwvc3Ryb25nPiDimJXvuI8KQSBzdWJzaWRpc2VkIG9uIHNpdGUgY2FudGVlbiBpbmNsdWRpbmcgc3Vic2lkaXNlZCBDb3N0YSBDb2ZmZWUuIDwvbGk+CjxsaT48c3Ryb25nPkN5Y2xlIHRvIHdvcms8L3N0cm9uZz4g8J+atOKAjeKZgO+4jwpXZSdsbCBzdXBwb3J0IHlvdSB3aXRoIGNvc3RzIGlmIHlvdSdyZSBzb21lb25lIHdobyBsaWtlcyB0byBjeWNsZSB0byB3b3JrPC9saT4KPGxpPjxzdHJvbmc+UHJpdmF0ZSBtZWRpY2FsIGluc3VyYW5jZTwvc3Ryb25nPiDwn4+lClBhc3MgcHJvYmF0aW9uIGFuZCBnZXQgYSBwcml2YXRlIG1lZGljYWwgcG9saWN5PC9saT4KPC91bD4KCnBvc3RlZERhdGU6ICIyMDIzLTAzLTI2VDIzOjAwOjAwLjAwMFoiCmRpcmVjdEFwcGx5OiBmYWxzZQpqb2JMb2NhdGlvbjogCiAgb3JpZ2luYWw6IExvbmRvbiwgSHlicmlkCiAgdGV4dERlc2NyaXB0aW9uOiBIeWJyaWQsIExvbmRvbgogIGxvY2F0aW9uczoKICAtIHRleHREZXNjcmlwdGlvbjogTG9uZG9uCiAgICBsb2NhbGl0eTogTG9uZG9uCiAgICBjb3VudHJ5TmFtZTogVW5pdGVkIEtpbmdkb20KICAgIGNvdW50cnlDb2RlOiBHQgogICAgbGF0aXR1ZGU6IDUxLjUwNzQKICAgIGxvbmdpdHVkZTogLTAuMTI3OAogIAogIHdvcmtwbGFjZTogUEFSVF9SRU1PVEUKaGlyaW5nT3JnYW5pemF0aW9uOgogIG5hbWU6IFN0YXlzdXJlIGdyb3VwCiAgbG9nbzogIi8vdXhicmkub3JnL2pvYnMvbG9nb3Mvc3RheXN1cmUtZ3JvdXAtbG9nby5wbmciCiAgaWQ6IDY2NwogIHNob3J0SWQ6IEFhMTZ5dXA2CiAgdXVpZDogODI5ODg5M2ItNTM3ZC00ZjZhLTk4MDYtZjBmOTk0YTgxMjZjCmVtcGxveW1lbnRUeXBlOgogIHR5cGVJbmZvOgogIC0gdGV4dDogUGVybWFuZW50CiAgICBjb2RlOiBQRVJNQU5FTlQKICAgIHR5cGU6IGNvbnRyYWN0CiAgCiAgb3JpZ2luYWw6IFBlcm1hbmVudAogIHRleHREZXNjcmlwdGlvbjogUGVybWFuZW50CmFwcGxpY2F0aW9uVXJsOiBodHRwczovL2NhcmVlcnMuc3RheXN1cmUuY28udWsvam9icy8yNTg3OTQxLWhlYWQtb2YtdXgtYW5kLXJlc2VhcmNoCmFwcGxpY2F0aW9uVHlwZTogbGluawpjbG9zZWREYXRlOiAiMjAyMy0wNC0yOFQwMDowMDowMC4wMDBaIgpzdGF0dXM6IExJVkUKcGVybWFsaW5rOiAiL2pvYnMyLzEyMDMvaGVhZC1vZi11eC1hbmQtcmVzZWFyY2guaHRtbCIKbGF5b3V0OiBqb2IKLS0tCg==
+
+---
+_id: 6422c2624576a1bbc6095e67 
+id: 1203
+shortId: jfhyhyyy77
+uuid: 6c2995bb-6f8f-48fa-922e-e90d910da763
+title:
+  original: Head of UX and Research
+  textDescription: Head of UX and Research
+  urlSlug: head-of-ux-and-research
+  inferred:
+    canonicalTitle: undefined
+    expandedTitle: undefined
+    similiarTitles: undefined
+description: | 
+  <h2 id="role-purpose">Role purpose</h2>
+<p>The Head of UX &amp; Research is responsible for ensuring that the user experience across all digital platforms is exceptional. They are the guardian of the Staysure group customer journey and will create complimentary yet distinct design systems across all of the group’s major brands. This role exists to champion UX &amp; Research best practice and implement this new discipline into the business. The Head of UX and Research will play a key role in managing CRO and increase conversion through beautiful customer journeys.</p>
+<h2 id="key-responsibilities">Key Responsibilities</h2>
+<ul>
+<li>Develop and implement a UX strategy that aligns with the company's overall digital transformation goals.</li>
+<li>Lead and manage a team of UX designers, researchers, and analysts to ensure a consistent user experience across all brands.</li>
+<li>Introduce research as a discipline within the business and develop a plan for conducting user research to inform product decisions</li>
+<li>Collaborate with cross-functional teams, including product management, marketing, and engineering, to deliver high-quality user experiences that meet business objectives.</li>
+<li>Develop and maintain a CRO roadmap to improve conversion rates across all digital touchpoints.</li>
+<li>Monitor and analyze user behavior to identify opportunities for optimization and improvement</li>
+<li>Ensure that all digital experiences meet accessibility and compliance standards</li>
+<li>Line management and development of in house UX talent</li>
+<li>Coordinating with third party agencies where relevant</li>
+<li>Stay up-to-date with industry trends, best practices, and emerging technologies in UX and research</li>
+</ul>
+<h2 id="qualifications">Qualifications</h2>
+<ul>
+<li>Extensive experience in UX design, research, or a related field.</li>
+<li>Experience managing and developing a team of UX designers, researchers, and analysts.</li>
+<li>Strong understanding of user-centered design principles, including design thinking and user research methodologies.</li>
+<li>Track record of producing beautiful and effective customer journeys – ideally for well known consumer brands</li>
+<li>Ideally across a range of target audiences</li>
+<li>Experience with CRO and a track record of improving conversion rates with design best practice</li>
+<li>Strong communication and collaboration skills, with the ability to work effectively with cross-functional teams</li>
+<li>Experience with agile development methodologies.</li>
+<li>Knowledge of accessibility and compliance standards, including WCAG and ADA.</li>
+</ul>
+<h2 id="at-staysure-group-we-like-to-stand-out-from-the-crowd">At Staysure Group we like to stand out from the crowd!</h2>
+<p>Staysure Group is an award winning insurtech organisation changing the way customers work with insurers. We’ve been selling award-winning insurance products and services since 2004 and we have an exciting portfolio of market leading brands including Staysure, Avanti, Paying Too Much, Petsure, ROCK and the newest addition Wapp!</p>
+<p>We want to take that faff out of insurance and even bring a bit of joy to our customers, something you never thought you'd hear an insurer say!</p>
+<p>We’ve been bold, innovative and adaptable allowing us to set ourselves even further ahead of the pack, building on our strong foundations for an exciting future.</p>
+<h2 id="why-staysure">Why Staysure?</h2>
+<p>You will get to work in a fast-paced and change embracing environment, and we truly care about our customers and our people. We are the proud owners of many awards Moneywise - Best Travel Insurance Provider, British Travel Awards – Best Travel Insurance Provider and Employee Experience Awards – Employee Engagement and Voice of the Employee, to name but a few!</p>
+<p>As well as working with a great team and receiving a competitive rewards package, you will be part of a high-growth structure where you will be constantly challenged and using an OKR methodology, you will have the autonomy to hit your own objectives and surpass them.</p>
+<p>If you are interested in joining an award winning, market leading business please apply today. </p>
+<h2 id="benefits-of-working-with-us">Benefits of working with us</h2>
+<ul>
+<li><strong>Perkbox from day 1!</strong>
+Discounts, bonuses and awards! 
+Perkbox also includes a fantastic suite of tools for looking after your mental wellbeing</li>
+<li><strong>Take some time for yourself</strong> 🛫
+25 days holiday per year. Plus the option to buy and sell your holiday.</li>
+<li><strong>Work hard, play hard</strong> 💃
+Fantastic team social events, including a legendary Christmas party and on-site social Fridays.</li>
+<li><strong>Get started on your health and fitness</strong> 💪
+Once you've passed probation you'll get a free membership at Pure Gym, Virgin Active or Nuffield Health!</li>
+<li><strong>Fancy a coffee?</strong> ☕️
+A subsidised on site canteen including subsidised Costa Coffee. </li>
+<li><strong>Cycle to work</strong> 🚴‍♀️
+We'll support you with costs if you're someone who likes to cycle to work</li>
+<li><strong>Private medical insurance</strong> 🏥
+Pass probation and get a private medical policy</li>
+</ul>
+
+postedDate: "2023-03-26T23:00:00.000Z"
+directApply: false
+jobLocation: 
+  original: London, Hybrid
+  textDescription: Hybrid, London
+  locations:
+  - textDescription: London
+    locality: London
+    countryName: United Kingdom
+    countryCode: GB
+    latitude: 51.5074
+    longitude: -0.1278
+  
+  workplace: PART_REMOTE
+hiringOrganization:
+  name: Staysure group
+  logo: "//uxbri.org/jobs/logos/staysure-group-logo.png"
+  id: 667
+  shortId: Aa16yup6
+  uuid: 8298893b-537d-4f6a-9806-f0f994a8126c
+employmentType:
+  typeInfo:
+  - text: Permanent
+    code: PERMANENT
+    type: contract
+  
+  original: Permanent
+  textDescription: Permanent
+applicationUrl: https://careers.staysure.co.uk/jobs/2587941-head-of-ux-and-research
+applicationType: link
+closedDate: "2023-04-28T00:00:00.000Z"
+status: LIVE
+permalink: "/jobs2/1203/head-of-ux-and-research.html"
+layout: job
+---

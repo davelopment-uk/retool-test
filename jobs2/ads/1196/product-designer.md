@@ -1,1 +1,96 @@
-Ci0tLQpfaWQ6IDY0MjJjMjQ4NDU3NmExYmJjNjA5NWU1NiAKaWQ6IDExOTYKc2hvcnRJZDogc2JjZ3R0MzYKdXVpZDogY2YyNzA2NzItYjk3OC00ZTA5LTk2MTMtNTdmZjRhMzQzMjgwCnRpdGxlOgogIG9yaWdpbmFsOiBQcm9kdWN0IERlc2lnbmVyCiAgdGV4dERlc2NyaXB0aW9uOiBQcm9kdWN0IERlc2lnbmVyCiAgdXJsU2x1ZzogcHJvZHVjdC1kZXNpZ25lcgogIGluZmVycmVkOgogICAgY2Fub25pY2FsVGl0bGU6IFByb2R1Y3QgRGVzaWduZXIKICAgIGV4cGFuZGVkVGl0bGU6IFByb2R1Y3QgRGVzaWduZXIKICAgIHNpbWlsaWFyVGl0bGVzOiAKICAgICAgLSBQcm9kdWN0IERldmVsb3BlcgogICAgICAtIFByb2R1Y3QgTWFuYWdlcgogICAgICAtIFVYIERlc2lnbmVyCiAgICAgIC0gVUkgRGVzaWduZXIKICAgICAgLSBTb2Z0d2FyZSBEZXNpZ25lcgpkZXNjcmlwdGlvbjogfCAKICA8cD48c3Ryb25nPkxhd28gZGVzaWducywgbWFudWZhY3R1cmVzLCBhbmQgc2VsbHMgY3V0dGluZy1lZGdlIG5ldHdvcmtlZCB2aWRlbywgYXVkaW8sIGFuZCBjb250cm9sIHN5c3RlbXMgZm9yIHRlbGV2aXNpb24sIHJhZGlvLCBhbmQgbGl2ZSBwZXJmb3JtYW5jZSBhcHBsaWNhdGlvbnMgYWxsIG92ZXIgdGhlIHdvcmxkLiBDaGFuY2VzIGFyZSwgaWYgeW91J3ZlIHdhdGNoZWQgYSBsaXZlIGV2ZW50IG9uIFRWLCBsaXN0ZW5lZCB0byB0aGUgcmFkaW8sIG9yIGJlZW4gdG8gYSBsaXZlIHBlcmZvcm1hbmNlLCB0aGVuIExhd28gcHJvZHVjdHMgaGF2ZSBoZWxwZWQgY3JlYXRlIHRoZSBzb3VuZCBhbmQgcGljdHVyZXMuIENoZWNrIHVzIG91dCBhdCA8YSBocmVmPSJodHRwczovL2xhd28uY29tLyI+aHR0cHM6Ly9sYXdvLmNvbS88L2E+PC9zdHJvbmc+PC9wPgo8cD5MYXdvJ3MgY3VzdG9tZXJzIGJyaW5nIHRoZSBhdG1vc3BoZXJlIG9mIHNwb3J0aW5nIGV2ZW50cyBpbnRvIHN1cHBvcnRlcnMnIGxpdmluZyByb29tcywgdGhleSBxdWlja2x5IGFuZCBjbGVhcmx5IGRlbGl2ZXIgYnJlYWtpbmcgbmV3cywgYW5kIHRoZXkgcHJvZHVjZSBpbmNyZWRpYmxlIGxpdmUgZXZlbnRzIHRoYXQgZmFucyB3aWxsIHJlbWVtYmVyIGZvciB0aGUgcmVzdCBvZiB0aGVpciBsaXZlcy4gT3VyIGdvYWwgaXMgdG8gbWFrZSBvdXIgc29sdXRpb25zIGVmZm9ydGxlc3MgYW5kIGludmlzaWJsZSwgZ2V0dGluZyB0aGVtIG91dCBvZiB0aGUgd2F5LCBzbyBvdXIgY3VzdG9tZXJzIGNhbiBzcGVuZCBsZXNzIHRpbWUgdGhpbmtpbmcgYWJvdXQgaG93IHRvIGRvIHNvbWV0aGluZyBhbmQgZm9jdXMgYWxsIHRoZWlyIGVmZm9ydCBvbiB0aGUgcHJvZHVjdCB0aGV5J3JlIGRlbGl2ZXJpbmcuPC9wPgo8aDIgaWQ9IndoZXJlLXlvdS1maXQtaW4iPldoZXJlIHlvdSBmaXQgaW48L2gyPgo8cD5UbyBzdHJlbmd0aGVuIG91ciB0ZWFtIGluIHRoZSBVSywgd2UgaGF2ZSBhbiBpbW1lZGlhdGUgb3BlbmluZyBmb3IgYSA8c3Ryb25nPlByb2R1Y3QgRGVzaWduZXI8L3N0cm9uZz4gdG8gam9pbiB0aGUgRXhwZXJpZW5jZSAmYW1wOyBEZXNpZ24gdGVhbSwgd29ya2luZyBvbiBVSSwgVVgsIHdvcmtmbG93cywgYW5kIGRlc2lnbiBzeXN0ZW1zIGFjcm9zcyBvdXIgcG9ydGZvbGlvIG9mIGF1ZGlvIG1peGVycywgdmlkZW8gcHJvY2Vzc29ycywgcm91dGVycywgbXVsdGktdmlld2VycywgbmV0d29yayBtYW5hZ2VtZW50IHRvb2xzLCBmYWNpbGl0eSBjb250cm9sIHN5c3RlbXMsIGFuZCBzbyBtdWNoIG1vcmUuIEl0J3MgYSByYXJlIGFuZCB1bmlxdWUgb3Bwb3J0dW5pdHkhPC9wPgo8cD5BcmUgeW91IGEgbXVzaWNpYW4/IEhhdmUgeW91IHByb2R1Y2VkIGEgcG9kY2FzdCwgYSBsaXZlc3RyZWFtLCBvciBydW4gYSByYWRpbyBzaG93PyBNYXliZSB5b3UgbWl4IGxpdmUgb3IgcmVjb3JkZWQgbXVzaWM/IEhhdmUgeW91IGRlc2lnbmVkIGF1ZGlvIHBsdWdpbnM/IEhhdmUgeW91IHdvcmtlZCBvbiBodWdlIGdsb2JhbCBsaXZlIGV2ZW50cz8gSWYgeW914oCZcmUgYSBkZXNpZ25lciB3aXRoIGV4cGVyaWVuY2UgaW4gYXVkaW8sIHZpZGVvLCBvciBwcm9kdWN0aW9uIGluIGFueSBzZW5zZSwgaXQgd291bGQgYmUgZ3JlYXQgdG8gaGVhciBmcm9tIHlvdS4gSWYgeW91IGRvbuKAmXQgaGF2ZSB0aGF0IGV4cGVyaWVuY2UgYnV0IHlvdSB3YW50IHRvIGdldCBvdXQgdGhlcmUgYW5kIGxlYXJuLCB0aGVuIGdldCBpbiB0b3VjaCBhbnl3YXkuIE1heWJlIHlvdXIgYXR0aXR1ZGUgYW5kIGRlc2lnbiBjaG9wcyB3aWxsIGJsb3cgdXMgYXdheS48L3A+CjxoMiBpZD0ieW91ci1yZXNwb25zaWJpbGl0aWVzIj5Zb3VyIHJlc3BvbnNpYmlsaXRpZXM8L2gyPgo8cD5Zb3Ugd2lsbDo8L3A+Cjx1bD4KPGxpPlVuZGVyc3RhbmQgY3VzdG9tZXIgZ29hbHMgYW5kIHByb2JsZW1zLCBhbmQgdHJhbnNsYXRlIHRoZW0gaW50byBjbGVhciBvYmplY3RpdmVzIGZvciB0aGUgTGF3byB0ZWFtIHRvIHNvbHZlLjwvbGk+CjxsaT5Db25jZWl2ZSBhbmQgZGVzaWduIHByb2R1Y3RzLCB3b3JrZmxvd3MsIGFuZCBpbnRlcmZhY2VzLCBlbnN1cmluZyBjdXN0b21lciBvYmplY3RpdmVzIGFyZSByZXByZXNlbnRlZCBpbiB0aGUgZGV2ZWxvcG1lbnQgcHJvY2Vzcy48L2xpPgo8bGk+RG9jdW1lbnQgYW5kIGNvbW11bmljYXRlIHlvdXIgZGVzaWducyB0byBSJmFtcDtELCB3b3JraW5nIHdpdGggdGhlbSB0byBlbnN1cmUgdGhhdCB3aGF0IHdlIGRlbGl2ZXIgbWVldHMgZXhwZWN0YXRpb25zLjwvbGk+CjxsaT5FeHBhbmQgYW5kIGRvY3VtZW50IG91ciBkZXNpZ24gc3lzdGVtLCBMVVgsIG1ha2luZyBpdCBtb3JlIHNlbGYtc3VmZmljaWVudCBhbmQgbW9yZSBlYXNpbHkgYWRvcHRlZCBhY3Jvc3MgdGhlIG9yZ2FuaXNhdGlvbi48L2xpPgo8L3VsPgo8aDIgaWQ9InlvdXItcHJvZmlsZSI+WW91ciBwcm9maWxlPC9oMj4KPHVsPgo8bGk+WW91IGhhdmUgYW4gaW5zYXRpYWJsZSBjdXJpb3NpdHkgYWJvdXQgb3VyIGN1c3RvbWVycy4gWW91IGRvbid0IGJyaW5nIHByZS1jb25jZWl2ZWQgbm90aW9ucyBhYm91dCBhIHNvbHV0aW9uLiBJbnN0ZWFkLCB5b3UgZm9jdXMgb24gdW5kZXJzdGFuZGluZyBwZW9wbGUgYW5kIHRoZWlyIHByb2JsZW1zIGFuZCBsZXQgdGhlIHJpZ2h0IHNvbHV0aW9uIHByZXNlbnQgaXRzZWxmLjwvbGk+CjxsaT5Zb3UgaGF2ZSBhIHN0cm9uZyBzZW5zZSBvZiB2aXN1YWwgZGVzaWduLCBhbmQgaGF2ZSBwbGVudHkgb2YgZXhhbXBsZXMgdG8gZGVtb25zdHJhdGUgdGhpcy4gV2UgZG9uJ3QgZXhwZWN0IHlvdSB0byBiZSBhIGNyZWF0aXZlIGFydGlzdCwgYnV0IHdlIGRvIGV4cGVjdCB5b3UgdG8gdW5kZXJzdGFuZCBhbmQgYmUgYWJsZSB0byBhcHBseSB2aXN1YWwgZGVzaWduIHByaW5jaXBsZXMgdGhhdCBwcm92aWRlIGNsYXJpdHksIHN0cnVjdHVyZSwgYW5kIGdvb2QgdGFzdGUuPC9saT4KPGxpPllvdSBiZWxpZXZlIGRlc2lnbiBpcyBtb3JlIHRoYW4ganVzdCB2aXN1YWxzIG9uIGEgdXNlciBpbnRlcmZhY2UsIGFuZCB0aGF0IHNvbWV0aW1lcyB0aGUgYmVzdCBzb2x1dGlvbiBpcyBubyBpbnRlcmZhY2UgYXQgYWxsLiBZb3UgY2FuIHNob3cgdXMgZXhhbXBsZXMgb2YgaG93IHlvdXIgd29yayBoYXMgbWFkZSBwZW9wbGUncyBqb2JzIGVhc2llciBvciBtb3JlIHByb2R1Y3RpdmUsIGFuZCBob3cgeW91ciB3b3JrIGhhcyBpbmZsdWVuY2VkIHRlY2hub2xvZ3kgYW5kIGluZm9ybWVkIHRoZSB3YXkgdGhpbmdzIHdvcmsuPC9saT4KPGxpPllvdSB0aGluayBpbiBzeXN0ZW1zLiBXaGV0aGVyIGl0J3MgYSBicm9hZGNhc3QgZmFjaWxpdHksIHRoZWF0cmUsIG9yIG11c2ljIHByb2R1Y3Rpb24gc3R1ZGlvLCBhbGwgdGhlIHBlb3BsZSBhbmQgZXF1aXBtZW50IGludm9sdmVkIGFyZSBkZXBlbmRlbnQgb24gZWFjaCBvdGhlciwgYW5kIGludGVyYWN0IHdpdGggZWFjaCBvdGhlci4gQSB0aW55IGFjdGlvbiBieSBvbmUgcGVyc29uIGNhbiBoYXZlIGEgaHVnZSBpbmZsdWVuY2Ugb24gdGhlIHdob2xlIHN5c3RlbS4gWW91IG5lZWQgdG8gYmUgYWJsZSB0byBmb2N1cyBvbiB0aGUgdGlueSBkZXRhaWxzLCBidXQgYWx3YXlzIGtlZXAgdGhlIGJpZ2dlciBzeXN0ZW1zIGluIG1pbmQuPC9saT4KPGxpPllvdSBoYXZlIGV4cGVyaWVuY2UgY3JlYXRpbmcsIGRvY3VtZW50aW5nLCBhbmQgbWFpbnRhaW5pbmcgZGVzaWduIHN5c3RlbXMsIGFuZCBoZWxwaW5nIHRoZW0gYmUgYWRvcHRlZCBhY3Jvc3MgYW4gb3JnYW5pc2F0aW9uLjwvbGk+CjxsaT5Zb3UgaGF2ZSBleHBlcmllbmNlIGRvY3VtZW50aW5nIHlvdXIgZGVzaWducywgY29tbXVuaWNhdGluZyB0aGVtIHRvIHN0YWtlaG9sZGVycywgYW5kIHdvcmtpbmcgaXRlcmF0aXZlbHkgd2l0aCBkZXZlbG9wZXJzIHRvIGRlbGl2ZXIgdGhlbS48L2xpPgo8bGk+WW91IGFyZSBoYXBweSB0byB3b3JrIHdpdGhpbiBhbiBlc3RhYmxpc2hlZCBkZXNpZ24gc3lzdGVtLiBUaGVyZSBpcyBsb3RzIG9mIG9wcG9ydHVuaXR5IHRvIGJlIGNyZWF0aXZlIGFuZCBtYWtlIHlvdXIgbWFyaywgYnV0IGl0IGlzIGVzc2VudGlhbCB0byBkZWxpdmVyIGNvbnNpc3RlbmN5IGFjcm9zcyB0aGUgcG9ydGZvbGlvLjwvbGk+CjwvdWw+CjxwPkl0J3Mgbm90IGVzc2VudGlhbCwgYnV0IGl0IHdvdWxkIGJlIGdyZWF0IGlmOjwvcD4KPHVsPgo8bGk+WW91IGFscmVhZHkgaGF2ZSBhbiB1bmRlcnN0YW5kaW5nIG9mIGF1ZGlvIGFuZCB2aWRlbyBwcm9kdWN0aW9uIHdvcmtmbG93cyBhbmQgdGhlIHVuZGVybHlpbmcgdGVjaG5pY2FsIGNvbmNlcHRzLjwvbGk+CjxsaT5Zb3Uga25vdyBGaWdtYSBpbnNpZGUgb3V0IGFuZCBoYXZlIGV4cGVyaWVuY2UgdXNpbmcgaXQgdG8gY3JlYXRlIGFuZCBtYWludGFpbiBkZXNpZ24gc3lzdGVtcy48L2xpPgo8bGk+WW91IGhhdmUgc29tZSBkZXZlbG9wbWVudCBleHBlcmllbmNlLCBvciBhbiB1bmRlcnN0YW5kaW5nIG9mIGJhc2ljIGRldmVsb3BtZW50IHByaW5jaXBsZXMuIFdlIGRvbid0IGV4cGVjdCB5b3UgdG8gYmUgYSBkZXZlbG9wZXIsIGJ1dCBiZWluZyBhYmxlIHRvIGNvbW11bmljYXRlIGNsZWFybHkgd2l0aCBkZXZlbG9wZXJzIGluIHRoZWlyIG93biBsYW5ndWFnZSBpcyBoZWxwZnVsLjwvbGk+CjwvdWw+CjxwPldlIHZhbHVlIGEgZmxleGlibGUgd29yayBlbnZpcm9ubWVudCBhbmQgaGF2ZSBhIGRpc3RyaWJ1dGVkIHdvcmxkd2lkZSB0ZWFtLiBUaGlzIHJvbGUgaXMgYmFzZWQgaW4gdGhlIFVLLiBZb3Ugd2lsbCBuZWVkIHRvIHRyYXZlbCB0byBMYXdvIG9mZmljZXMgaW4gdGhlIFVLIChDaGljaGVzdGVyKSBhbmQgR2VybWFueSAoUmFzdGF0dCBhbmQgV2llc2JhZGVuKSB0byB3b3JrIHdpdGggaGFyZHdhcmUgcHJvZHVjdHMgYW5kIHRlc3Qgc3lzdGVtcywgYW5kIHRvIGdsb2JhbCBjdXN0b21lciBzaXRlcyB3aGVuIG5lY2Vzc2FyeS48L3A+CjxoMiBpZD0id2Utb2ZmZXIiPldlIG9mZmVyPC9oMj4KPHVsPgo8bGk+V29ya2luZyBpbiBhIGhpZ2hseSBtb3RpdmF0ZWQgaW50ZXJuYXRpb25hbCB0ZWFtPC9saT4KPGxpPkZsZXhpYmxlIHdvcmtpbmcgaG91cnMgYW5kIGhvbWUtYmFzZWQgb2ZmaWNlIGRheXM8L2xpPgo8bGk+QXR0cmFjdGl2ZSBzYWxhcnkgd2l0aCBhY2Nlc3MgdG8gYWRkaXRpb25hbCBjb21wYW55IGJlbmVmaXRzPC9saT4KPGxpPkNvbXBhbnkgcGVuc2lvbiBzY2hlbWUgYW5kIHByaXZhdGUgbWVkaWNhbCBwbGFuPC9saT4KPGxpPkxhbmd1YWdlIGNvdXJzZXMgYW5kIG90aGVyIHRyYWluaW5nIG9wcG9ydHVuaXRpZXMgdmlhIExhd28gQWNhZGVteTwvbGk+CjxsaT5FbXBsb3llZSBhY3Rpdml0aWVzIGFuZCBldmVudHM8L2xpPgo8L3VsPgo8cD5XZSBsb29rIGZvcndhcmQgdG8gaGVhcmluZyBmcm9tIHlvdSE8L3A+Cgpwb3N0ZWREYXRlOiAiMjAyMy0wMy0yMFQwMDowMDowMC4wMDBaIgpkaXJlY3RBcHBseTogZmFsc2UKam9iTG9jYXRpb246IAogIG9yaWdpbmFsOiBDaGljaGVzdGVyLCBGbGV4aWJsZSwgc29tZSB0cmF2ZWwgdG8gR2VybWFueQogIHRleHREZXNjcmlwdGlvbjogQ2hpY2hlc3RlcgogIGxvY2F0aW9uczoKICAtIHRleHREZXNjcmlwdGlvbjogQ2hpY2hlc3RlcgogICAgbG9jYWxpdHk6IENoaWNoZXN0ZXIKICAgIGNvdW50cnlOYW1lOiBHZXJtYW55CiAgICBjb3VudHJ5Q29kZTogREUKICAgIGxhdGl0dWRlOiB1bmRlZmluZWQKICAgIGxvbmdpdHVkZTogdW5kZWZpbmVkCiAgCiAgd29ya3BsYWNlOiB1bmRlZmluZWQKaGlyaW5nT3JnYW5pemF0aW9uOgogIG5hbWU6IExhd28KICBsb2dvOiAiLy91eGJyaS5vcmcvam9icy9sb2dvcy9MYXdvLnN2ZyIKICBpZDogNjY0CiAgc2hvcnRJZDogUDc5aGcyVW0KICB1dWlkOiA0Y2FjYTBjNi1kOTAzLTQzOTYtODMwNS1kZGJjODkzMzQxMjEKZW1wbG95bWVudFR5cGU6CiAgdHlwZUluZm86CiAgLSB0ZXh0OiBQZXJtYW5lbnQKICAgIGNvZGU6IFBFUk1BTkVOVAogICAgdHlwZTogY29udHJhY3QKICAKICBvcmlnaW5hbDogUGVybWFuZW50CiAgdGV4dERlc2NyaXB0aW9uOiBQZXJtYW5lbnQKYXBwbGljYXRpb25Vcmw6IGh0dHBzOi8vc2hvcnQuc2cvYS8yNzkyMjU0MQphcHBsaWNhdGlvblR5cGU6IGxpbmsKY2xvc2VkRGF0ZTogIjIwMjMtMDQtMjBUMDA6MDA6MDAuMDAwWiIKc3RhdHVzOiBMSVZFCnBlcm1hbGluazogIi9qb2JzMi8xMTk2L3Byb2R1Y3QtZGVzaWduZXIuaHRtbCIKbGF5b3V0OiBqb2IKLS0tCg==
+
+---
+_id: 6422c2484576a1bbc6095e56 
+id: 1196
+shortId: sbcgtt36
+uuid: cf270672-b978-4e09-9613-57ff4a343280
+title:
+  original: Product Designer
+  textDescription: Product Designer
+  urlSlug: product-designer
+  inferred:
+    canonicalTitle: Product Designer
+    expandedTitle: Product Designer
+    similiarTitles: 
+      - Product Developer
+      - Product Manager
+      - UX Designer
+      - UI Designer
+      - Software Designer
+description: | 
+  <p><strong>Lawo designs, manufactures, and sells cutting-edge networked video, audio, and control systems for television, radio, and live performance applications all over the world. Chances are, if you've watched a live event on TV, listened to the radio, or been to a live performance, then Lawo products have helped create the sound and pictures. Check us out at <a href="https://lawo.com/">https://lawo.com/</a></strong></p>
+<p>Lawo's customers bring the atmosphere of sporting events into supporters' living rooms, they quickly and clearly deliver breaking news, and they produce incredible live events that fans will remember for the rest of their lives. Our goal is to make our solutions effortless and invisible, getting them out of the way, so our customers can spend less time thinking about how to do something and focus all their effort on the product they're delivering.</p>
+<h2 id="where-you-fit-in">Where you fit in</h2>
+<p>To strengthen our team in the UK, we have an immediate opening for a <strong>Product Designer</strong> to join the Experience &amp; Design team, working on UI, UX, workflows, and design systems across our portfolio of audio mixers, video processors, routers, multi-viewers, network management tools, facility control systems, and so much more. It's a rare and unique opportunity!</p>
+<p>Are you a musician? Have you produced a podcast, a livestream, or run a radio show? Maybe you mix live or recorded music? Have you designed audio plugins? Have you worked on huge global live events? If you’re a designer with experience in audio, video, or production in any sense, it would be great to hear from you. If you don’t have that experience but you want to get out there and learn, then get in touch anyway. Maybe your attitude and design chops will blow us away.</p>
+<h2 id="your-responsibilities">Your responsibilities</h2>
+<p>You will:</p>
+<ul>
+<li>Understand customer goals and problems, and translate them into clear objectives for the Lawo team to solve.</li>
+<li>Conceive and design products, workflows, and interfaces, ensuring customer objectives are represented in the development process.</li>
+<li>Document and communicate your designs to R&amp;D, working with them to ensure that what we deliver meets expectations.</li>
+<li>Expand and document our design system, LUX, making it more self-sufficient and more easily adopted across the organisation.</li>
+</ul>
+<h2 id="your-profile">Your profile</h2>
+<ul>
+<li>You have an insatiable curiosity about our customers. You don't bring pre-conceived notions about a solution. Instead, you focus on understanding people and their problems and let the right solution present itself.</li>
+<li>You have a strong sense of visual design, and have plenty of examples to demonstrate this. We don't expect you to be a creative artist, but we do expect you to understand and be able to apply visual design principles that provide clarity, structure, and good taste.</li>
+<li>You believe design is more than just visuals on a user interface, and that sometimes the best solution is no interface at all. You can show us examples of how your work has made people's jobs easier or more productive, and how your work has influenced technology and informed the way things work.</li>
+<li>You think in systems. Whether it's a broadcast facility, theatre, or music production studio, all the people and equipment involved are dependent on each other, and interact with each other. A tiny action by one person can have a huge influence on the whole system. You need to be able to focus on the tiny details, but always keep the bigger systems in mind.</li>
+<li>You have experience creating, documenting, and maintaining design systems, and helping them be adopted across an organisation.</li>
+<li>You have experience documenting your designs, communicating them to stakeholders, and working iteratively with developers to deliver them.</li>
+<li>You are happy to work within an established design system. There is lots of opportunity to be creative and make your mark, but it is essential to deliver consistency across the portfolio.</li>
+</ul>
+<p>It's not essential, but it would be great if:</p>
+<ul>
+<li>You already have an understanding of audio and video production workflows and the underlying technical concepts.</li>
+<li>You know Figma inside out and have experience using it to create and maintain design systems.</li>
+<li>You have some development experience, or an understanding of basic development principles. We don't expect you to be a developer, but being able to communicate clearly with developers in their own language is helpful.</li>
+</ul>
+<p>We value a flexible work environment and have a distributed worldwide team. This role is based in the UK. You will need to travel to Lawo offices in the UK (Chichester) and Germany (Rastatt and Wiesbaden) to work with hardware products and test systems, and to global customer sites when necessary.</p>
+<h2 id="we-offer">We offer</h2>
+<ul>
+<li>Working in a highly motivated international team</li>
+<li>Flexible working hours and home-based office days</li>
+<li>Attractive salary with access to additional company benefits</li>
+<li>Company pension scheme and private medical plan</li>
+<li>Language courses and other training opportunities via Lawo Academy</li>
+<li>Employee activities and events</li>
+</ul>
+<p>We look forward to hearing from you!</p>
+
+postedDate: "2023-03-20T00:00:00.000Z"
+directApply: false
+jobLocation: 
+  original: Chichester, Flexible, some travel to Germany
+  textDescription: Chichester
+  locations:
+  - textDescription: Chichester
+    locality: Chichester
+    countryName: Germany
+    countryCode: DE
+    latitude: undefined
+    longitude: undefined
+  
+  workplace: undefined
+hiringOrganization:
+  name: Lawo
+  logo: "//uxbri.org/jobs/logos/Lawo.svg"
+  id: 664
+  shortId: P79hg2Um
+  uuid: 4caca0c6-d903-4396-8305-ddbc89334121
+employmentType:
+  typeInfo:
+  - text: Permanent
+    code: PERMANENT
+    type: contract
+  
+  original: Permanent
+  textDescription: Permanent
+applicationUrl: https://short.sg/a/27922541
+applicationType: link
+closedDate: "2023-04-20T00:00:00.000Z"
+status: LIVE
+permalink: "/jobs2/1196/product-designer.html"
+layout: job
+---

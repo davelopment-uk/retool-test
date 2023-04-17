@@ -1,1 +1,141 @@
-Ci0tLQpfaWQ6IDY0MjJjMjUwNDU3NmExYmJjNjA5NWU1YiAKaWQ6IDExOTgKc2hvcnRJZDogYmJjeXloZzg3CnV1aWQ6IGM1OWVkNzMxLThiMDAtNGJmOS1hNDIxLTc0Nzk2MzZlZDE0ZAp0aXRsZToKICBvcmlnaW5hbDogU2VuaW9yIFVYIERlc2lnbmVyCiAgdGV4dERlc2NyaXB0aW9uOiBTZW5pb3IgVXNlciBFeHBlcmllbmNlIERlc2lnbmVyCiAgdXJsU2x1Zzogc2VuaW9yLXV4LWRlc2lnbmVyCiAgaW5mZXJyZWQ6CiAgICBjYW5vbmljYWxUaXRsZTogU2VuaW9yIFVYIERlc2lnbmVyCiAgICBleHBhbmRlZFRpdGxlOiBTZW5pb3IgVXNlciBFeHBlcmllbmNlIERlc2lnbmVyCiAgICBzaW1pbGlhclRpdGxlczogCiAgICAgIC0gU2VuaW9yIFVzZXIgSW50ZXJmYWNlIERlc2lnbmVyCiAgICAgIC0gU2VuaW9yIEludGVyYWN0aW9uIERlc2lnbmVyCiAgICAgIC0gU2VuaW9yIFZpc3VhbCBEZXNpZ25lcgogICAgICAtIFNlbmlvciBQcm9kdWN0IERlc2lnbmVyCiAgICAgIC0gU2VuaW9yIFVYIFJlc2VhcmNoZXIKZGVzY3JpcHRpb246IHwgCiAgPGgyIGlkPSJwYWNrYWdlLWRlc2NyaXB0aW9uIj5QYWNrYWdlIERlc2NyaXB0aW9uPC9oMj4KPHA+PHN0cm9uZz5VbmZvcnR1bmF0ZWx5IHdlJ3JlIHVuYWJsZSB0byBjb25zaWRlciBhbnlvbmUgd2l0aG91dCB0aGUgZWxpZ2liaWxpdHkvcmlnaHQgdG8gd29yayBpbiB0aGUgVUsgYW5kIHdlIGNhbm5vdCBvZmZlciBzcG9uc29yc2hpcDwvc3Ryb25nPjwvcD4KPHVsPgo8bGk+PHA+QmFuZDogRDwvcD4KPC9saT4KPGxpPjxwPkFuIGVtcGxveWVyIHBlbnNpb24gY29udHJpYnV0aW9uIG9mIHVwIHRvIDEwJS48L3A+CjwvbGk+CjxsaT48cD5Bbm51YWwgbGVhdmUgMjYgZGF5cywgKGJhc2VkIG9uIHlvdXIgd29ya2luZyBwYXR0ZXJuIDEgb2Ygd2hpY2ggaXMgYSBjb3Jwb3JhdGlvbiBkYXkpICsgYmFuayBob2xpZGF5cyBvZiBjb3Vyc2Ugd2l0aCB0aGUgb3B0aW9uIHRvIGJ1eSBhbiBleHRyYSA1IGRheXMsIGEgZGVmaW5lZCBwZW5zaW9uIHNjaGVtZSBhbmQgZGlzY291bnRlZCBkZW50YWwsIGhlYWx0aCBjYXJlLCBneW0gYW5kIG11Y2ggbW9yZS48L3A+CjwvbGk+CjxsaT48cD5GYW1pbHkgZnJpZW5kbHkgZmxleGlibGUgd29ya2luZyBhcnJhbmdlbWVudHMsIHN1Y2ggYXMgaHlicmlkIHdvcmtpbmcsIGpvYiBzaGFyaW5nLCBmbGV4aS10aW1lIGFuZCBjb21wcmVzc2VkIGhvdXJzLjwvcD4KPC9saT4KPGxpPjxwPkxlYXJuaW5nIGFuZCBkZXZlbG9wbWVudCB0YWlsb3JlZCB0byB5b3VyIHJvbGUgdGhpcyBjb3VsZCBpbmNsdWRlIGluZHVzdHJ5IHJlY29nbmlzZWQgcXVhbGlmaWNhdGlvbnMsIGNvYWNoaW5nIGFuZCBtZW50b3JpbmcuPC9wPgo8L2xpPgo8bGk+PHA+QW4gaW5jbHVzaXZlIGFuZCBkaXZlcnNlIGVudmlyb25tZW50IHdpdGggb3Bwb3J0dW5pdGllcyB0byBqb2luIHN0YWZmIG5ldHdvcmtzIGluY2x1ZGluZzogV29tZW7igJlzIE5ldHdvcmssIE5hdGlvbmFsIERpc2FiaWxpdHkgTmV0d29ya3MgYW5kIG1hbnkgbW9yZS48L3A+CjwvbGk+CjwvdWw+CjxwPlRoaXMgam9iIHJvbGUgbWF5IGJlIHN1aXRhYmxlIGZvciBoeWJyaWQgd29ya2luZywgd2hpY2ggaXMgd2hlcmUgYW4gZW1wbG95ZWUgd29ya3MgcGFydCBvZiB0aGUgd2VlayBpbiB0aGVpciBCQkMgb2ZmaWNlIGFuZCBwYXJ0IG9mIHRoZSB3ZWVrIGZyb20gaG9tZS4gVGhpcyBpcyBhIHZvbHVudGFyeSwgbm9uLWNvbnRyYWN0dWFsIGFycmFuZ2VtZW50IGFuZCB5b3VyIG9mZmljZSB3aWxsIGJlIHlvdXIgY29udHJhY3R1YWwgcGxhY2Ugb2Ygd29yay4gVGhlIG51bWJlciBvZiBkYXlzIHRoYXQgYW55b25lIHdpbGwgYmUgYWJsZSB0byB3b3JrIGF0IGhvbWUgd2lsbCBiZSBkZXRlcm1pbmVkIHByaW1hcmlseSBieSBidXNpbmVzcyBuZWVkIGJ1dCBwZXJzb25hbCBjaXJjdW1zdGFuY2VzIGFuZCBvdGhlciByZWxldmFudCBjaXJjdW1zdGFuY2VzIHdpbGwgYWxzbyBiZSB0YWtlbiBpbnRvIGFjY291bnQuIElmIHlvdSBhcmUgc3VjY2Vzc2Z1bCwgYW55IG9wcG9ydHVuaXRpZXMgZm9yIGh5YnJpZCB3b3JraW5nLCBpbmNsdWRpbmcgd2hldGhlciBhIGh5YnJpZCB3b3JraW5nIGFycmFuZ2VtZW50IGlzIHN1aXRhYmxlIGZvciB5b3UsIHdpbGwgYmUgZGlzY3Vzc2VkIHdpdGggeW91IHByaW9yIHRvIHlvdSB0YWtpbmcgdXAgeW91ciBwb3N0LjwvcD4KPGgzIGlkPSJ3aGF0LXRvLWV4cGVjdCI+V2hhdCBUbyBFeHBlY3Q8L2gzPgo8dWw+CjxsaT48c3Ryb25nPlN0YWdlIDE6IEFwcGxpY2F0aW9uPC9zdHJvbmc+PHVsPgo8bGk+WW91IHdpbGwgYmUgYXNrZWQgdG8gYXR0YWNoIHlvdXIgQ1YgYW5kIGNhbiBzdWJtaXQgYSBzdXBwb3J0aW5nIHN0YXRlbWVudCAob3B0aW9uYWwgYnV0IGNhbiBiZSB1c2VmdWwgKSBvdXRsaW5pbmcgaG93IHlvdXIgc2tpbGxzLCBleHBlcmllbmNlIGFuZCBhY2hpZXZlbWVudHMgYWxpZ24gd2l0aCB0aGUgZXNzZW50aWFsIGNyaXRlcmlhIGJlbG93IGFuZCBwcm92aWRlIGV2aWRlbmNlIG9mIHlvdXIgc3VpdGFiaWxpdHkgZm9yIHRoZSByb2xlLjwvbGk+CjxsaT5Zb3XigJlsbCBmaWxsIG91dCBzb21lIGVsaWdpYmlsaXR5IGNyaXRlcmlhIGFzIHdlbGwuPC9saT4KPGxpPkd1ZXN0aW1hdGlvbiB0aW1lIGZvciBhcHBsaWNhdGlvbiDiiaQgMTAgbWlucy48L2xpPgo8L3VsPgo8L2xpPgo8bGk+PHN0cm9uZz5TdGFnZSAyOiBJbnRlcnZpZXc8L3N0cm9uZz48dWw+CjxsaT5JZiB5b3XigJlyZSBzdWNjZXNzZnVsIGFuZCBtYWtlIGl0IHRocm91Z2ggdG8gaW50ZXJ2aWV3LCB5b3XigJlsbCBiZSBpbnZpdGVkIHRvIGEgdmlkZW8gaW50ZXJ2aWV3IHZpYSBab29tLiBUaGVyZSwgeW91IHdpbGwgYmUgYXNzZXNzZWQgYWdhaW5zdCB0aGUgY3JpdGVyaWEgbGlzdGVkIGluIOKAmEFyZSB5b3UgdGhlIHJpZ2h0IGNhbmRpZGF0ZT/igJkgc2VjdGlvbi48L2xpPgo8bGk+WW91IHdpbGwgYWxzbyBiZSBhc3Nlc3NlZCBvbiBzdHJlbmd0aHMvY29tcGV0ZW5jeSBiYXNlZCBxdWVzdGlvbnMuPC9saT4KPC91bD4KPC9saT4KPGxpPjxzdHJvbmc+U3RhZ2UgMzogT2ZmZXI8L3N0cm9uZz48dWw+CjxsaT5JZiB3ZSBoYXZlIG1vcmUgc3VjY2Vzc2Z1bCBjYW5kaWRhdGVzIHRoYW4gcm9sZXMgdGhlbiBhIHJlc2VydmUgbGlzdCBtYXkgYmUgaGVsZCBmb3IgYSBwZXJpb2Qgb2YgMyBtb250aHMgZnJvbSB3aGljaCBmdXJ0aGVyIGFwcG9pbnRtZW50cyBjYW4gYmUgbWFkZS48L2xpPgo8L3VsPgo8L2xpPgo8L3VsPgo8cD48c3Ryb25nPkNMSUNLIEFQUExZIGZvciBmdXJ0aGVyIGluZm9ybWF0aW9uIGFuZCB0byBzdGFydCBhbiBhcHBsaWNhdGlvbiBvbiBvdXIgQkJDIENhcmVlcnMgcGFnZS48L3N0cm9uZz48L3A+CjxwPiNMSS1NRTE8L3A+CjxoMiBpZD0iam9iLWludHJvZHVjdGlvbiI+Sm9iIEludHJvZHVjdGlvbjwvaDI+CjxwPjxzdHJvbmc+4oCcVGhlcmXigJlzIG5vIHBvaW50IGluIGJlaW5nIGdyb3duIHVwIGlmIHlvdSBjYW7igJl0IGFjdCBjaGlsZGlzaCBzb21ldGltZXMu4oCdIOKAkyA0dGggRG9jdG9yPC9zdHJvbmc+PC9wPgo8cD48c3Ryb25nPkRlc2lnbmluZyBhIGRpZ2l0YWwgcHVibGljIHNlcnZpY2UgdXNlZCBieSBldmVyeW9uZSwgZXZlcnkgZGF5LiBUaGlzIGlzIE9VUiBCQkMuIEpvaW4gdXMgYW5kIGRlc2lnbiB5b3VyIGZ1dHVyZSE8L3N0cm9uZz48L3A+Cjx1bD4KPGxpPkFyZSB5b3UgYSBwYXNzaW9uYXRlIGFuZCBlbXBhdGhldGljIGRlc2lnbmVyIHdpdGggYSB1c2VyIGNlbnRyaWMgYXBwcm9hY2g/PC9saT4KPGxpPkRvIHlvdSBsaWtlIHRvIGhhdmUgZnVuIHdoaWxzdCB5b3Ugd29yaz8gQmVpbmcgYWJsZSB0byBleHBsb3JlLCBkaXNjb3ZlciBhbmQgZmFpbCBmb3J3YXJkLiA8L2xpPgo8bGk+QXJlIHlvdSBhbiBhbGwgcm91bmRlciBVWCBwcmFjdGl0aW9uZXIgd2l0aCBzdHJlbmd0aHMgaW4gVVgsIFVJIGFuZCB1c2VyIHJlc2VhcmNoPzwvbGk+CjwvdWw+CjxwPlRoZSBCQkMgaGFzIHByb2R1Y2VkIHNvbWUgb2YgdGhlIG1vc3QgbWVtb3JhYmxlIGNvbnRlbnQgYW5kIGJyYW5kcyAodGhpbmsgRG9jdG9yIFdobykgdGhhdCBoYXZlIHVuaWZpZWQgZ2VuZXJhdGlvbnMgb2YgcGVvcGxlIGFuZCBjb250cmlidXRlZCB0byB0aGUgY3VsdHVyZS4gU2lkZSBub3RlLCB3aG8ncyBleGNpdGVkIGZvciB0aGUgbmV3IHNlcmllcz88L3A+CjxwPldoaWxzdCB3ZSB1bmRlcnN0YW5kIHRoZSBsZWdhY3ksIHBvd2VyIGFuZCBwdWxsIG9mIG91ciBicmFuZHMsIHdlIGtub3cgd2UgaGF2ZSBzb21lIHdvcmsgdG8gZG8gaW4gcHJvdmlkaW5nIHVzZXIgY2VudHJlZCBhbmQgcHJvZHVjdCBsZWQgZXhwZXJpZW5jZS4gPC9wPgo8cD5UbyBsZWFybiBtb3JlIGFib3V0IFVYJmFtcDtEIGF0IHRoZSBCQkMgY2hlY2sgb3V0IG91ciA8YSBocmVmPSJodHRwczovL3d3dy5iYmMuY28udWsvZ2VsL2ZlYXR1cmVzL2Fib3V0LWJiYy11eGQiPkdsb2JhbCBFeHBlcmllbmNlIExhbmd1YWdlIChHRUwpIHdlYnNpdGU8L2E+LiBXZSBoYXZlIHNvbWUgZ3JlYXQgdmlkZW9zIGZlYXR1cmluZyB0aGUgZGlmZmVyZW50IHRlYW1zIGFjcm9zcyB0aGUgQkJDLjwvcD4KPGgyIGlkPSJtYWluLXJlc3BvbnNpYmlsaXRpZXMiPk1haW4gUmVzcG9uc2liaWxpdGllczwvaDI+CjxwPllvdeKAmWxsIGJlIGxlYWRpbmcgdGhlIFVYIFJlc2VhcmNoIGFuZCBEZXNpZ24gaW4gYSBuZXcgcHJvZHVjdCBncm91cCAoY29udGFpbiB5b3VyIGV4Y2l0ZW1lbnQpIHRoYXQgc2l0cyBhY3Jvc3MgYSBudW1iZXIgb2Ygb3VyIGJyYW5kc+KAmSB3ZWJzaXRlcywgZm9yIGV4YW1wbGUgQmx1ZXksIERvY3RvciBXaG8gYW5kIEJCQyBFYXJ0aC4gVGhpcyBpcyBhIHJlYWwgb3Bwb3J0dW5pdHksIG9mIGNvdXJzZSwgdG8gbWFrZSB5b3VyIG1hcmsuPC9wPgo8cD5XZeKAmXJlIGp1c3Qgc3RhcnRpbmcgYSBkZWRpY2F0ZWQgVVggcHJhY3RpY2UgaW4gdGhpcyBwcm9kdWN0IGFyZWEgYW5kIGFzIHN1Y2ggdGhlIHN1Y2Nlc3NmdWwgY2FuZGlkYXRlIHdpbGwgYmUgYWJsZSB0byBtYWtlIGEgc2lnbmlmaWNhbnQgZGlmZmVyZW5jZSBpbiB0aGUgd2F5IHBlb3BsZSBleHBlcmllbmNlIHRoZXNlIHdlYnNpdGVzLiBCeSB1bmRlcnN0YW5kaW5nIG91ciB1c2Vyc+KAmSBuZWVkcywgdGhlIG5ldyBkZXNpZ25lciB3aWxsIGJlIGFibGUgdG8gaW1wcm92ZSB0aGUgb3ZlcmFsbCB1c2VyIGV4cGVyaWVuY2UgZm9yIG1pbGxpb25zIG9mIHBlb3BsZSB3aG8gdmlzaXQgdGhlc2UgZ2xvYmFsIHdlYnNpdGVzLjwvcD4KPHA+SW4gYnVpbGRpbmcgb3V0IG91ciBVWCBwcmFjdGljZSwgd2Ugd2FudCB0byBjcmVhdGUgZXhwZXJpZW5jZXMgd2l0aCBvdXIgYnJhbmRzIHRoYXQgYXJlIGludHVpdGl2ZSwgZW5nYWdpbmcsIGFuZCBlYXN5IHRvIHVzZSwgYW5kIHRoYXQgZ2l2ZSBvdXIgdXNlcnMgYSBzZWFtbGVzcyBhbmQgZW5qb3lhYmxlIGV4cGVyaWVuY2UuIFRoaXMgaXMgYW4gZXhjaXRpbmcgb3Bwb3J0dW5pdHkgZm9yIGEgdGFsZW50ZWQgVVggRGVzaWduZXIgdG8gcGxheSBhIGtleSByb2xlIGluIHNoYXBpbmcgdGhlIGZ1dHVyZSBvZiB0aGVzZSBpY29uaWMgYnJhbmRzIGFuZCB0byBoYXZlIGEgc2lnbmlmaWNhbnQgaW1wYWN0IG9uIHRoZSBvdmVyYWxsIHVzZXIgZXhwZXJpZW5jZSBvZiBtaWxsaW9ucyBvZiBwZW9wbGUgd2hvIHZpc2l0IHRoZXNlIHdlYnNpdGVzLjwvcD4KPHA+SGVyZSBAIHRoZSBCQkMgd2UgbWl0aWdhdGUgYWdhaW5zdCBtaWNyby1tYW5hZ2VtZW50IGFuZCBudXJ0dXJlIGFuIGVudmlyb25tZW50IG9mIHBzeWNob2xvZ2ljYWwgc2FmZXR5IGFuZCBjb250aW51b3VzIHZhbGlkYXRpb24uPC9wPgo8aDIgaWQ9Indoby13ZS1hcmUiPldobyB3ZSBhcmU8L2gyPgo8cD5IaSEgV2UncmUgdGhlIEJCQyBVWCBUZWFtIGFuZCB3ZSdyZSBhIG11bHRpLWRpc2NpcGxpbmFyeSB0ZWFtIHVuaXRlZCBieSBhIGh1bWFuLWNlbnRyZWQgYXBwcm9hY2gsIHdlIHdvcmsgdG9nZXRoZXIgdG8gZGVzaWduIHRoZSBCQkPigJlzIGRpZ2l0YWwgZXhwZXJpZW5jZS48L3A+CjxwPldlIHRoaW5rIHRoaXMgaXMgYW4gYW1hemluZyBvcHBvcnR1bml0eSBhbmQgaGVyZSdzIHdoeS4gPC9wPgo8cD5XZSBkZXNpZ24gdGhlIEJCQ+KAmXMgYW1hemluZyBkaWdpdGFsIGV4cGVyaWVuY2VzLCBmcm9tIGFwcHMgdG8gd2Vic2l0ZXMsIGZyb20gaVBsYXllciB0byBUb3BHZWFyLmNvbS48L3A+CjxwPk91ciBhY2UgdGVhbSBvZiBVWCBkZXNpZ25lcnMsIGFyY2hpdGVjdHMgYW5kIHJlc2VhcmNoZXJzIGNvbGxhYm9yYXRlIGNsb3NlbHkgd2l0aCBwcm9kdWN0LCBlZGl0b3JpYWwgYW5kIHRlY2huaWNhbCB0ZWFtcyBmcm9tIGFjcm9zcyB0aGUgQkJDIGFuZCBCQkMgU3R1ZGlvcy4gQkJDIFN0dWRpb3MgaXMgYSBnbG9iYWwgY29udGVudCBjb21wYW55IHdpdGggYm9sZCBCcml0aXNoIGNyZWF0aXZpdHkgYXQgaXRzIGhlYXJ0LiBXZSd2ZSBiZWVuIHJlc3BvbnNpYmxlIGZvciBjcmVhdGluZyBoaWdoIHF1YWxpdHksIGF3YXJkLXdpbm5pbmcgY29udGVudCBhY3Jvc3MgYW4gZXh0cmFvcmRpbmFyeSByYW5nZSBvZiBnZW5yZXMgYW5kIHNwZWNpYWxpc21zLiBSZWNlbnQgY3JlZGl0cywgbWFkZSBieSBCQkMgU3R1ZGlvcyBQcm9kdWN0aW9ucyBhbmQgaXRzIGluZGllIGxhYmVscywgaW5jbHVkZSBIYXBweSBWYWxsZXkgMywgRXh0cmFvcmRpbmFyeSwgRnJvemVuIFBsYW5ldCBJSSwgU3RyaWN0bHkgQ29tZSBEYW5jaW5nL0RhbmNpbmcgd2l0aCB0aGUgU3RhcnMsIEtpbGxpbmcgRXZlLCBTb21ld2hlcmUgQm95LCBGaWdodCB0aGUgUG93ZXI6IEhvdyBIaXAgSG9wIENoYW5nZWQgdGhlIFdvcmxkLCBHcmVuZmVsbDogVGhlIFVudG9sZCBTdG9yeSwgUHJlaGlzdG9yaWMgUGxhbmV0LCBMaWZlIGluIFRlbiBQaWN0dXJlcywgSHVuZ3J5IEZvciBJdCwgIFRvcCBHZWFyLCBUaGUgT25lIFNob3cgYW5kIHJveWFsIGFuZCBjZXJlbW9uaWFsIGV2ZW50cy4gPHN0cm9uZz5Ub2dldGhlcjwvc3Ryb25nPiB3ZSBjcmVhdGUgZWxlZ2FudCwgZGVsaWdodGZ1bCAobm90IHRvIG1lbnRpb24gYXdhcmQtd2lubmluZykgZGlnaXRhbCBleHBlcmllbmNlcyBvbiBhIHJhbmdlIG9mIGRpZmZlcmVudCBwbGF0Zm9ybXMuPC9wPgo8cD5XZeKAmXJlIGxvb2tpbmcgZm9yIGRlc2lnbmVycyB3aG8gY2FuIGJyaW5nIGltYWdpbmF0aW9uIGFuZCBjdXJpb3NpdHkgdG8gaGVscCBicmluZyBzb21lIG9mIHRoZSBCQkPigJlzIHN0cm9uZ2VzdCBicmFuZHMgYW5kIHNob3dzIHRvIGF1ZGllbmNlcyB0aGF0IGxvdmUgdGhlbS48L3A+CjxoMyBpZD0iZGF5LXRvLWRheS15b3VyLXJvbGUtaXMtdmFyaWVkLWFuZC15b3UtY2FuLWV4cGVjdC10byI+RGF5IHRvIGRheSwgeW91ciByb2xlIGlzIHZhcmllZCBhbmQgeW91IGNhbiBleHBlY3QgdG88L2gzPgo8dWw+CjxsaT5FbmdhZ2UgdGhlIHdpZGVyIHRlYW0gYW5kIGtleSBzdGFrZWhvbGRlcnMgaW4gdGhlIHVzZXItY2VudHJlZCBkZXNpZ24gcHJvY2VzczwvbGk+CjxsaT5Zb3UgdGFrZSBhIGJyb2FkZXIgdmlldyDigJMgY29uc2lkZXJpbmcgZGVzaWduIGNvbmNlcHR1YWxseSBhbmQgbG9va2luZyBlbmQgdG8gZW5kLCBub3QganVzdCBkb3dud2FyZHMuPC9saT4KPGxpPkluc3RpZ2F0ZSBwcm9qZWN0cywgcHJpb3JpdGlzZSB5b3VyIG93biB3b3JrbG9hZCwgYW5kIHBsYW4geW91ciB3b3JrPC9saT4KPGxpPlN1cHBvcnRpbmcgdGhlIGRldmVsb3BtZW50IG9mIG90aGVyIG1vcmUganVuaW9yIFVYIHByYWN0aXRpb25lcnM8L2xpPgo8bGk+UHJvYWN0aXZlbHkgdHJ5IG91dCBpZGVhcywgbWV0aG9kcyBhbmQgZGVzaWducyB3aXRoIHVzZXJzIGFuZCB3aXRoIHRoZSB0ZWFtIHRvIGVuc3VyZSB3ZeKAmXJlIHNvbHZpbmcgdGhlIHJpZ2h0IHByb2JsZW1zLCB0aGUgcmlnaHQgd2F5LjwvbGk+CjxsaT5TdXBwb3J0IGEgcG9zaXRpdmUgd29ya2luZyBlbnZpcm9ubWVudCB0aGF0IGNvbnNpZGVycyB0aGUgbmVlZHMgb2YgYSBkaXZlcnNlIHRlYW0uPC9saT4KPC91bD4KPGgyIGlkPSJhcmUteW91LXRoZS1yaWdodC1jYW5kaWRhdGUiPkFyZSB5b3UgdGhlIHJpZ2h0IGNhbmRpZGF0ZT88L2gyPgo8dWw+CjxsaT5Zb3UgY2FyZSBhYm91dCBtYWtpbmcgZ3JlYXQgZXhwZXJpZW5jZSBmb3IgcGVvcGxlIGFuZCBhcmUgZHJpdmVuIHRvIGxlYXJuIGFuZCBncm93IHRvIHN1cHBvcnQgdGhpcy48L2xpPgo8bGk+WW91ciBwb3J0Zm9saW8gdGVsbHMgeW91ciBzdG9yeSBhbmQgaW5mb3JtcyBvZiBob3cgeW91IGdvIGFib3V0IHlvdXIgZGVzaWduIHByb2Nlc3MgZnJvbSBpZGVhdGlvbi9jb25jZXB0IHRvIGRlbGl2ZXJ5LiBHcmVhdCBVSSBpcyBuaWNlIGJ1dCB3ZeKAmXJlIG1vcmUgaW50ZXJlc3RlZCBpbiB5b3VyIGRlc2lnbiBwcm9jZXNzIOKAkyB0ZWxsIHVzIHlvdXIgc3RvcnkhPC9saT4KPGxpPldl4oCZcmUgbG9va2luZyBmb3Igc29tZW9uZSB3aG8gY2FuIHNob3cgdGhleSBoYXZlIHRoZSBwYXNzaW9uIGFuZCBleHBlcmllbmNlIHRvIHRha2UgdGhlIGxlYWQgb24gVVggZGVzaWduLjwvbGk+CjxsaT5Zb3VyIHBvcnRmb2xpbyBpcyBmdWxsIG9mIGNvbnNpc3RlbnRseSBncmVhdCB3b3JrIGFjcm9zcyBkaWZmZXJlbnQgc2NyZWVucyBhbmQgZXhwZXJpZW5jZXMg4oCTIGJlIHRoZXkgb24gbW9iaWxlLCBjb25uZWN0ZWQgVFYsIHRhYmxldCwgZGVza3RvcCBvciBjb25uZWN0ZWQgZGV2aWNlLiA8L2xpPgo8bGk+U3Ryb25nIHNraWxscyBpbiB1c2VyIHJlc2VhcmNoLCBpbnRlcmFjdGlvbiBkZXNpZ24sIHZpc3VhbCBkZXNpZ24sIGNyZWF0aXZlIGZhY2lsaXRhdGlvbiBhbmQgcHJvYmxlbSBkZWZpbml0aW9uPC9saT4KPGxpPllvdeKAmXJlIGNvbWZvcnRhYmxlIHdvcmtpbmcgYm90aCBhdXRvbm9tb3VzbHkgYW5kIGNvbGxhYm9yYXRpdmVseS4gWW914oCZcmUgYWJsZSB0byBndWlkZSB5b3VyIG93biB3b3JrIGFuZCBwcm9hY3RpdmVseSB0YWtlIGluaXRpYXRpdmUsIGFzIHdlbGwgYXMgZmluZCB2YWx1ZSB0aGUgZmVlZGJhY2sgYW5kIGlkZWFzIG9mIG90aGVycyBpbiB0aGUgdGVhbS48L2xpPgo8L3VsPgo8aDIgaWQ9ImFib3V0LXRoZS1iYmMiPkFib3V0IHRoZSBCQkM8L2gyPgo8cD5XZSBkb27igJl0IGZvY3VzIHNpbXBseSBvbiB3aGF0IHdlIGRvIOKAkyB3ZSBhbHNvIGNhcmUgaG93IHdlIGRvIGl0LiBPdXIgdmFsdWVzIGFuZCB0aGUgd2F5IHdlIGJlaGF2ZSBhcmUgaW1wb3J0YW50IHRvIHVzLiBQbGVhc2UgbWFrZSBzdXJlIHlvdeKAmXZlIHJlYWQgYWJvdXQgb3VyIHZhbHVlcyBhbmQgYmVoYXZpb3VycyBpbiB0aGUgZG9jdW1lbnQgYXR0YWNoZWQgYmVsb3cuPC9wPgo8cD5EaXZlcnNpdHkgbWF0dGVycyBhdCB0aGUgQkJDLiBXZSBoYXZlIGEgd29ya2luZyBlbnZpcm9ubWVudCB3aGVyZSB3ZSB2YWx1ZSBhbmQgcmVzcGVjdCBldmVyeSBpbmRpdmlkdWFsJ3MgdW5pcXVlIGNvbnRyaWJ1dGlvbiwgZW5hYmxpbmcgYWxsIG9mIG91ciBlbXBsb3llZXMgdG8gdGhyaXZlIGFuZCBhY2hpZXZlIHRoZWlyIGZ1bGwgcG90ZW50aWFsLjwvcD4KPHA+V2Ugd2FudCB0byBhdHRyYWN0IHRoZSBicm9hZGVzdCByYW5nZSBvZiB0YWxlbnRlZCBwZW9wbGUgdG8gYmUgcGFydCBvZiB0aGUgQkJDIOKAkyB3aGV0aGVyIHRoYXTigJlzIHRvIGNvbnRyaWJ1dGUgdG8gb3VyIHByb2dyYW1taW5nIG9yIG91ciB3aWRlIHJhbmdlIG9mIG5vbi1wcm9kdWN0aW9uIHJvbGVzLiBUaGUgbW9yZSBkaXZlcnNlIG91ciB3b3JrZm9yY2UsIHRoZSBiZXR0ZXIgYWJsZSB3ZSBhcmUgdG8gcmVzcG9uZCB0byBhbmQgcmVmbGVjdCBvdXIgYXVkaWVuY2VzIGluIGFsbCB0aGVpciBkaXZlcnNpdHkuIDwvcD4KPHA+V2UgYXJlIGNvbW1pdHRlZCB0byBlcXVhbGl0eSBvZiBvcHBvcnR1bml0eSBhbmQgd2VsY29tZSBhcHBsaWNhdGlvbnMgZnJvbSBpbmRpdmlkdWFscywgcmVnYXJkbGVzcyBvZiBhZ2UsIGdlbmRlciwgZXRobmljaXR5LCBkaXNhYmlsaXR5LCBzZXh1YWwgb3JpZW50YXRpb24sIGdlbmRlciBpZGVudGl0eSwgc29jaW8tZWNvbm9taWMgYmFja2dyb3VuZCwgcmVsaWdpb24gYW5kL29yIGJlbGllZi4gV2Ugd2lsbCBjb25zaWRlciBmbGV4aWJsZSB3b3JraW5nIHJlcXVlc3RzIGZvciBhbGwgcm9sZXMsIHVubGVzcyBvcGVyYXRpb25hbCByZXF1aXJlbWVudHMgcHJldmVudCBvdGhlcndpc2UuPC9wPgo8cD5UbyBmaW5kIG91dCBtb3JlIGFib3V0IERpdmVyc2l0eSBhbmQgSW5jbHVzaW9uIGF0IHRoZSBCQkMsIHBsZWFzZSBjbGljayA8YSBocmVmPSJodHRwOi8vd3d3LmJiYy5jby51ay9kaXZlcnNpdHkvIj5oZXJlPC9hPjwvcD4KPGgyIGlkPSJhdHRhY2hlZC1kb2N1bWVudHMiPkF0dGFjaGVkIGRvY3VtZW50czwvaDI+CjxwPnBkZiA8YSBocmVmPSJodHRwczovL2NhcmVlcnNodWIuYmJjLmNvLnVrL21lbWJlcnMvbW9kdWxlcy9qb2JWMi9mZG93bmxvYWQucGhwP2o9ZTk2NDJjOGIwMzg4OWZhOSZhbXA7Zj03MDRkOTIwMGNhZTQxYzgzIj5PdXIgQkJDIFZhbHVlcy5wZGY8L2E+PC9wPgoKcG9zdGVkRGF0ZTogIjIwMjMtMDMtMjRUMDA6MDA6MDAuMDAwWiIKZGlyZWN0QXBwbHk6IGZhbHNlCmpvYkxvY2F0aW9uOiAKICBvcmlnaW5hbDogTG9uZG9uLCBIeWJyaWQKICB0ZXh0RGVzY3JpcHRpb246IEh5YnJpZCwgTG9uZG9uCiAgbG9jYXRpb25zOgogIC0gdGV4dERlc2NyaXB0aW9uOiBMb25kb24KICAgIGxvY2FsaXR5OiBMb25kb24KICAgIGNvdW50cnlOYW1lOiBVbml0ZWQgS2luZ2RvbQogICAgY291bnRyeUNvZGU6IEdCCiAgICBsYXRpdHVkZTogNTEuNTA3NAogICAgbG9uZ2l0dWRlOiAtMC4xMjc4CiAgCiAgd29ya3BsYWNlOiBQQVJUX1JFTU9URQpoaXJpbmdPcmdhbml6YXRpb246CiAgbmFtZTogQkJDCiAgbG9nbzogIi8vdXhicmkub3JnL2pvYnMvbG9nb3MvQkJDLWxvZ28uc3ZnIgogIGlkOiAxOTgKICBzaG9ydElkOiBya2ZON2pnMgogIHV1aWQ6IDgzOGE1OTQ0LTlkYWUtNGYyNC05NTVlLTVhMGI0YzMwODEyNwplbXBsb3ltZW50VHlwZToKICB0eXBlSW5mbzoKICAtIHRleHQ6IFBlcm1hbmVudAogICAgY29kZTogUEVSTUFORU5UCiAgICB0eXBlOiBjb250cmFjdAogIAogIG9yaWdpbmFsOiBQZXJtYW5lbnQKICB0ZXh0RGVzY3JpcHRpb246IFBlcm1hbmVudAphcHBsaWNhdGlvblVybDogaHR0cHM6Ly9jYXJlZXJzaHViLmJiYy5jby51ay9tZW1iZXJzLz9qPTY3MDQxCmFwcGxpY2F0aW9uVHlwZTogbGluawpjbG9zZWREYXRlOiAiMjAyMy0wNC0yNFQwMDowMDowMC4wMDBaIgpzdGF0dXM6IExJVkUKcGVybWFsaW5rOiAiL2pvYnMyLzExOTgvc2VuaW9yLXV4LWRlc2lnbmVyLmh0bWwiCmxheW91dDogam9iCi0tLQo=
+
+---
+_id: 6422c2504576a1bbc6095e5b 
+id: 1198
+shortId: bbcyyhg87
+uuid: c59ed731-8b00-4bf9-a421-7479636ed14d
+title:
+  original: Senior UX Designer
+  textDescription: Senior User Experience Designer
+  urlSlug: senior-ux-designer
+  inferred:
+    canonicalTitle: Senior UX Designer
+    expandedTitle: Senior User Experience Designer
+    similiarTitles: 
+      - Senior User Interface Designer
+      - Senior Interaction Designer
+      - Senior Visual Designer
+      - Senior Product Designer
+      - Senior UX Researcher
+description: | 
+  <h2 id="package-description">Package Description</h2>
+<p><strong>Unfortunately we're unable to consider anyone without the eligibility/right to work in the UK and we cannot offer sponsorship</strong></p>
+<ul>
+<li><p>Band: D</p>
+</li>
+<li><p>An employer pension contribution of up to 10%.</p>
+</li>
+<li><p>Annual leave 26 days, (based on your working pattern 1 of which is a corporation day) + bank holidays of course with the option to buy an extra 5 days, a defined pension scheme and discounted dental, health care, gym and much more.</p>
+</li>
+<li><p>Family friendly flexible working arrangements, such as hybrid working, job sharing, flexi-time and compressed hours.</p>
+</li>
+<li><p>Learning and development tailored to your role this could include industry recognised qualifications, coaching and mentoring.</p>
+</li>
+<li><p>An inclusive and diverse environment with opportunities to join staff networks including: Women’s Network, National Disability Networks and many more.</p>
+</li>
+</ul>
+<p>This job role may be suitable for hybrid working, which is where an employee works part of the week in their BBC office and part of the week from home. This is a voluntary, non-contractual arrangement and your office will be your contractual place of work. The number of days that anyone will be able to work at home will be determined primarily by business need but personal circumstances and other relevant circumstances will also be taken into account. If you are successful, any opportunities for hybrid working, including whether a hybrid working arrangement is suitable for you, will be discussed with you prior to you taking up your post.</p>
+<h3 id="what-to-expect">What To Expect</h3>
+<ul>
+<li><strong>Stage 1: Application</strong><ul>
+<li>You will be asked to attach your CV and can submit a supporting statement (optional but can be useful ) outlining how your skills, experience and achievements align with the essential criteria below and provide evidence of your suitability for the role.</li>
+<li>You’ll fill out some eligibility criteria as well.</li>
+<li>Guestimation time for application ≤ 10 mins.</li>
+</ul>
+</li>
+<li><strong>Stage 2: Interview</strong><ul>
+<li>If you’re successful and make it through to interview, you’ll be invited to a video interview via Zoom. There, you will be assessed against the criteria listed in ‘Are you the right candidate?’ section.</li>
+<li>You will also be assessed on strengths/competency based questions.</li>
+</ul>
+</li>
+<li><strong>Stage 3: Offer</strong><ul>
+<li>If we have more successful candidates than roles then a reserve list may be held for a period of 3 months from which further appointments can be made.</li>
+</ul>
+</li>
+</ul>
+<p><strong>CLICK APPLY for further information and to start an application on our BBC Careers page.</strong></p>
+<p>#LI-ME1</p>
+<h2 id="job-introduction">Job Introduction</h2>
+<p><strong>“There’s no point in being grown up if you can’t act childish sometimes.” – 4th Doctor</strong></p>
+<p><strong>Designing a digital public service used by everyone, every day. This is OUR BBC. Join us and design your future!</strong></p>
+<ul>
+<li>Are you a passionate and empathetic designer with a user centric approach?</li>
+<li>Do you like to have fun whilst you work? Being able to explore, discover and fail forward. </li>
+<li>Are you an all rounder UX practitioner with strengths in UX, UI and user research?</li>
+</ul>
+<p>The BBC has produced some of the most memorable content and brands (think Doctor Who) that have unified generations of people and contributed to the culture. Side note, who's excited for the new series?</p>
+<p>Whilst we understand the legacy, power and pull of our brands, we know we have some work to do in providing user centred and product led experience. </p>
+<p>To learn more about UX&amp;D at the BBC check out our <a href="https://www.bbc.co.uk/gel/features/about-bbc-uxd">Global Experience Language (GEL) website</a>. We have some great videos featuring the different teams across the BBC.</p>
+<h2 id="main-responsibilities">Main Responsibilities</h2>
+<p>You’ll be leading the UX Research and Design in a new product group (contain your excitement) that sits across a number of our brands’ websites, for example Bluey, Doctor Who and BBC Earth. This is a real opportunity, of course, to make your mark.</p>
+<p>We’re just starting a dedicated UX practice in this product area and as such the successful candidate will be able to make a significant difference in the way people experience these websites. By understanding our users’ needs, the new designer will be able to improve the overall user experience for millions of people who visit these global websites.</p>
+<p>In building out our UX practice, we want to create experiences with our brands that are intuitive, engaging, and easy to use, and that give our users a seamless and enjoyable experience. This is an exciting opportunity for a talented UX Designer to play a key role in shaping the future of these iconic brands and to have a significant impact on the overall user experience of millions of people who visit these websites.</p>
+<p>Here @ the BBC we mitigate against micro-management and nurture an environment of psychological safety and continuous validation.</p>
+<h2 id="who-we-are">Who we are</h2>
+<p>Hi! We're the BBC UX Team and we're a multi-disciplinary team united by a human-centred approach, we work together to design the BBC’s digital experience.</p>
+<p>We think this is an amazing opportunity and here's why. </p>
+<p>We design the BBC’s amazing digital experiences, from apps to websites, from iPlayer to TopGear.com.</p>
+<p>Our ace team of UX designers, architects and researchers collaborate closely with product, editorial and technical teams from across the BBC and BBC Studios. BBC Studios is a global content company with bold British creativity at its heart. We've been responsible for creating high quality, award-winning content across an extraordinary range of genres and specialisms. Recent credits, made by BBC Studios Productions and its indie labels, include Happy Valley 3, Extraordinary, Frozen Planet II, Strictly Come Dancing/Dancing with the Stars, Killing Eve, Somewhere Boy, Fight the Power: How Hip Hop Changed the World, Grenfell: The Untold Story, Prehistoric Planet, Life in Ten Pictures, Hungry For It,  Top Gear, The One Show and royal and ceremonial events. <strong>Together</strong> we create elegant, delightful (not to mention award-winning) digital experiences on a range of different platforms.</p>
+<p>We’re looking for designers who can bring imagination and curiosity to help bring some of the BBC’s strongest brands and shows to audiences that love them.</p>
+<h3 id="day-to-day-your-role-is-varied-and-you-can-expect-to">Day to day, your role is varied and you can expect to</h3>
+<ul>
+<li>Engage the wider team and key stakeholders in the user-centred design process</li>
+<li>You take a broader view – considering design conceptually and looking end to end, not just downwards.</li>
+<li>Instigate projects, prioritise your own workload, and plan your work</li>
+<li>Supporting the development of other more junior UX practitioners</li>
+<li>Proactively try out ideas, methods and designs with users and with the team to ensure we’re solving the right problems, the right way.</li>
+<li>Support a positive working environment that considers the needs of a diverse team.</li>
+</ul>
+<h2 id="are-you-the-right-candidate">Are you the right candidate?</h2>
+<ul>
+<li>You care about making great experience for people and are driven to learn and grow to support this.</li>
+<li>Your portfolio tells your story and informs of how you go about your design process from ideation/concept to delivery. Great UI is nice but we’re more interested in your design process – tell us your story!</li>
+<li>We’re looking for someone who can show they have the passion and experience to take the lead on UX design.</li>
+<li>Your portfolio is full of consistently great work across different screens and experiences – be they on mobile, connected TV, tablet, desktop or connected device. </li>
+<li>Strong skills in user research, interaction design, visual design, creative facilitation and problem definition</li>
+<li>You’re comfortable working both autonomously and collaboratively. You’re able to guide your own work and proactively take initiative, as well as find value the feedback and ideas of others in the team.</li>
+</ul>
+<h2 id="about-the-bbc">About the BBC</h2>
+<p>We don’t focus simply on what we do – we also care how we do it. Our values and the way we behave are important to us. Please make sure you’ve read about our values and behaviours in the document attached below.</p>
+<p>Diversity matters at the BBC. We have a working environment where we value and respect every individual's unique contribution, enabling all of our employees to thrive and achieve their full potential.</p>
+<p>We want to attract the broadest range of talented people to be part of the BBC – whether that’s to contribute to our programming or our wide range of non-production roles. The more diverse our workforce, the better able we are to respond to and reflect our audiences in all their diversity. </p>
+<p>We are committed to equality of opportunity and welcome applications from individuals, regardless of age, gender, ethnicity, disability, sexual orientation, gender identity, socio-economic background, religion and/or belief. We will consider flexible working requests for all roles, unless operational requirements prevent otherwise.</p>
+<p>To find out more about Diversity and Inclusion at the BBC, please click <a href="http://www.bbc.co.uk/diversity/">here</a></p>
+<h2 id="attached-documents">Attached documents</h2>
+<p>pdf <a href="https://careershub.bbc.co.uk/members/modules/jobV2/fdownload.php?j=e9642c8b03889fa9&amp;f=704d9200cae41c83">Our BBC Values.pdf</a></p>
+
+postedDate: "2023-03-24T00:00:00.000Z"
+directApply: false
+jobLocation: 
+  original: London, Hybrid
+  textDescription: Hybrid, London
+  locations:
+  - textDescription: London
+    locality: London
+    countryName: United Kingdom
+    countryCode: GB
+    latitude: 51.5074
+    longitude: -0.1278
+  
+  workplace: PART_REMOTE
+hiringOrganization:
+  name: BBC
+  logo: "//uxbri.org/jobs/logos/BBC-logo.svg"
+  id: 198
+  shortId: rkfN7jg2
+  uuid: 838a5944-9dae-4f24-955e-5a0b4c308127
+employmentType:
+  typeInfo:
+  - text: Permanent
+    code: PERMANENT
+    type: contract
+  
+  original: Permanent
+  textDescription: Permanent
+applicationUrl: https://careershub.bbc.co.uk/members/?j=67041
+applicationType: link
+closedDate: "2023-04-24T00:00:00.000Z"
+status: LIVE
+permalink: "/jobs2/1198/senior-ux-designer.html"
+layout: job
+---

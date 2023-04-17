@@ -1,1 +1,117 @@
-Ci0tLQpfaWQ6IDY0MjJjMjQyNDU3NmExYmJjNjA5NWU1MSAKaWQ6IDExOTQKc2hvcnRJZDogdWpkZ2V0d3c1Ngp1dWlkOiBiOTY2NjNjYy1hODYxLTQ0NDMtOWZjZC0yYzljZjE1MTViY2IKdGl0bGU6CiAgb3JpZ2luYWw6IFByb2R1Y3QgRGVzaWduZXIKICB0ZXh0RGVzY3JpcHRpb246IFByb2R1Y3QgRGVzaWduZXIKICB1cmxTbHVnOiBwcm9kdWN0LWRlc2lnbmVyCiAgaW5mZXJyZWQ6CiAgICBjYW5vbmljYWxUaXRsZTogUHJvZHVjdCBEZXNpZ25lcgogICAgZXhwYW5kZWRUaXRsZTogUHJvZHVjdCBEZXNpZ25lcgogICAgc2ltaWxpYXJUaXRsZXM6IAogICAgICAtIFByb2R1Y3QgRGV2ZWxvcGVyCiAgICAgIC0gUHJvZHVjdCBNYW5hZ2VyCiAgICAgIC0gVVggRGVzaWduZXIKICAgICAgLSBVSSBEZXNpZ25lcgogICAgICAtIFNvZnR3YXJlIERlc2lnbmVyCmRlc2NyaXB0aW9uOiB8IAogIDxoMiBpZD0iYWJvdXQtbmFwbyI+QWJvdXQgTmFwbzwvaDI+CjxwPk5hcG8gaXMgYSBwZXQgaW5zdXJhbmNlIGNvbXBhbnkgd2l0aCBvbmUgc2ltcGxlIG1pc3Npb246IHRvIGhlbHAgZXZlcnkgcGV0IG93bmVyIGtlZXAgdGhlaXIgcGV0cyBoZWFsdGh5IGFuZCBoYXBweS4gV2UgYXJlIGluIHRoZSBidXNpbmVzcyBvZiBzZWxsaW5nIHBlYWNlIG9mIG1pbmQgYW5kIHdhbnQgcGVvcGxlIHRvIGtub3cgdGhhdCBOYXBvIGlzIGEgc3lub255bSBmb3IgcXVhbGl0eS4gVGhlIHBldCBpbnN1cmFuY2Ugc3BhY2UgaGFzIHN1ZmZlcmVkIGZyb20gbG93IHF1YWxpdHkgYW5kIG1pc2xlYWRpbmcgcHJvZHVjdHMsIGFuZCB3ZSB3YW50IHRvIGVuc3VyZSB0aGF0IGFsbCB0aGUgTmFwbyBwcm9kdWN0cyBhcmUgc2ltcGxlIGFuZCB0cnVzdHdvcnRoeS4gV2XigJlyZSBkaWdpdGFsIGZpcnN0IC0gY3VzdG9tZXJzIGNhbiBkbyBhbnl0aGluZyB0aGV5IG5lZWQgb25saW5lLCBidXQgaWYgdGhleSBuZWVkIHRvIHRhbGsgdG8gdXMsIHdlIGhhdmUgYSA2LXN0YXIgY3VzdG9tZXIgc3VwcG9ydCB0ZWFtIHRvIGFuc3dlciB0aGUgcGhvbmUuPC9wPgo8aDIgaWQ9InRoZS1yb2xlIj5UaGUgUm9sZTwvaDI+CjxwPkFzIGEgUHJvZHVjdCBkZXNpZ25lciBpbiBHcm93dGgsIHlvdeKAmWxsIGNyYWZ0IGFuZCBvcHRpbWlzZSBhIGNvaGVzaXZlIG1hcmtldGluZyBhbmQgYnV5aW5nIGV4cGVyaWVuY2UgZm9yIHBvdGVudGlhbCBOYXBvIGN1c3RvbWVycy48L3A+CjxwPldpdGggYSBsZWFybmluZyBtaW5kc2V0LCB5b3XigJlsbCBjb2xsYWJvcmF0ZSB3aXRoIGEgbXVsdGlkaXNjaXBsaW5hcnkgc3F1YWQgdG8gc29sdmUgaW1wYWN0ZnVsIHByb2JsZW1zIGFuZCBkZWxpdmVyIHJlYWwgaW1wYWN0LiBZb3XigJlsbCBicmluZyBpZGVhcyBhbmQgaGF2ZSBvd25lcnNoaXAgb2YgcHJvamVjdHMsIGJlIGN1c3RvbWVyIGNlbnRyaWMgYW5kIHdvcmsgd2l0aCBhIGhpZ2ggYmFyIGZvciBkZXNpZ24gZXhjZWxsZW5jZS48L3A+CjxoMiBpZD0ic2tpbGxzLXdlLXRoaW5rLXlvdS1uZWVkIj5Ta2lsbHMgd2UgdGhpbmsgeW91IG5lZWQ8L2gyPgo8dWw+CjxsaT5CdWlsZCBlbXBhdGh5IGFuZCBpbW1lcnNlIHlvdXJzZWxmIGluIG91ciBjb3JlIGN1c3RvbWVyIHNlZ21lbnRzIHRvIHVuZGVyc3RhbmQgaG93IGFuZCB3aHkgdGhleSBpbnRlcmFjdCB3aXRoIE5hcG8uIFVzZSBpbnNpZ2h0IGFuZCBkYXRhIHRvIGl0ZXJhdGUsIHdoaWxzdCBiZWluZyBhYmxlIHRvIHJhdGlvbmFsaXNlIGFuZCBhcnRpY3VsYXRlIHlvdXIgZGVzaWduIGNob2ljZXM8L2xpPgo8bGk+RGVzaWduIGlubm92YXRpdmUsIGludHVpdGl2ZSBhbmQgY29oZXNpdmUgZXhwZXJpZW5jZXMgdGhhdCBwb3RlbnRpYWwgY3VzdG9tZXJzIGxvdmU8L2xpPgo8bGk+Q29sbGFib3JhdGUgd2l0aCBwcm9kdWN0LCByZXNlYXJjaCBhbmQgZW5naW5lZXJpbmcgY291bnRlcnBhcnRzIHRvIHJhdGlvbmFsaXNlLCBldm9sdmUgYW5kIHZhbGlkYXRlIGlubm92YXRpdmUgaWRlYXMgcXVpY2tseSwgYW5kIGNvbGxhYm9yYXRlIHdpdGggZW5naW5lZXJzIHRvIGltcGxlbWVudCBhbmQgaXRlcmF0ZSBvbiBkZXNpZ25zPC9saT4KPGxpPlVzZSBGaWdtYSBleHBlcnRseSwgd2l0aCBhIHBhc3Npb24gZm9yIGRlbGl2ZXJpbmcgaGlnaGx5IHBvbGlzaGVkIFVJIGRlc2lnbjwvbGk+CjxsaT5Fdm9sdmUgdGhlIE5hcG8gZGVzaWduIHN5c3RlbSBieSByZS1kZWZpbmluZyBleGlzdGluZyBhbmQgY3JlYXRpbmcgbmV3IGRlc2lnbiBwYXR0ZXJuczwvbGk+CjwvdWw+CjxoMiBpZD0iZXhwZXJpZW5jZS10aGF0LWlzLWltcG9ydGFudC10by11cyI+RXhwZXJpZW5jZSB0aGF0IGlzIGltcG9ydGFudCB0byB1czwvaDI+Cjx1bD4KPGxpPjMrIHllYXJzIGV4cGVyaWVuY2Ugd29ya2luZyBhcyBhIHByb2R1Y3Qgb3IgVVgvVUkgZGVzaWduZXIgaW4gYW4gaW50ZXJkaXNjaXBsaW5hcnkgcHJvZHVjdCB0ZWFtPC9saT4KPGxpPkV4cGVyaWVuY2Ugb2YgdGhlIGZ1bGwgcHJvZHVjdCBsaWZlY3ljbGU8L2xpPgo8L3VsPgo8aDIgaWQ9ImJlaGF2aW91cnMtb3V0c2lkZS1vdXItdmFsdWVzLfCfmYItLXRvLWJlLXN1Y2Nlc3NmdWwtaW4tdGhlLXJvbGUiPkJlaGF2aW91cnMgKG91dHNpZGUgb3VyIHZhbHVlcyDwn5mCICkgdG8gYmUgc3VjY2Vzc2Z1bCBpbiB0aGUgcm9sZTwvaDI+Cjx1bD4KPGxpPkhhdmUgZXhjZWxsZW50IGludGVycGVyc29uYWwgc2tpbGxzIGFuZCBlbmpveSBsZWFybmluZyBmcm9tIGRpZmZlcmVudCBwZXJzcGVjdGl2ZXM8L2xpPgo8bGk+QWJsZSB0byBhY3QgYXMgYWR2b2NhdGUgZm9yIHRoZSBiZXN0IHF1YWxpdHkgb2YgZGVzaWduIHdpdGggYm90aCBpbnRlcm5hbCBhbmQgZXh0ZXJuYWwgc3Rha2Vob2xkZXJzPC9saT4KPGxpPkJlIG9yZ2FuaXNlZCwgc2VsZi1tb3RpdmF0ZWQgYW5kIGFibGUgdG8gd29yayBpbmRlcGVuZGVudGx5PC9saT4KPC91bD4KPGgyIGlkPSJ3aGF0LXdlLW9mZmVyIj5XaGF0IHdlIG9mZmVyPC9oMj4KPHVsPgo8bGk+RXZlcnlvbmUgaXMgYW4gb3duZXIgYXQgTmFwbzsgeW91IHdpbGwgcmVjZWl2ZSBzdG9jayBvcHRpb25zIG9uIGRheSAxPC9saT4KPGxpPkZsZXhpYmxlIGFuZCByZW1vdGUtZnJpZW5kbHkgd29yayBlbnZpcm9ubWVudCAoZm9yIG5vdywgd2Ugd291bGQgaWRlYWxseSBsb3ZlIHRvIGhhdmUgcGVvcGxlIGluIHRoZSBvZmZpY2UgdHdvIGRheXMgcGVyIHdlZWsgLSB3ZSBoYXZlIGEgZnJpZW5kbHkgb2ZmaWNlIGluIGNlbnRyYWwgTG9uZG9uKTwvbGk+CjxsaT5GbGV4aWJsZSBsZWF2ZSBwb2xpY3kgKDI1IGRheXMgYW5udWFsIGhvbGlkYXlzICsgYmFuayBob2xpZGF5cyksIGFuZCB3ZSB0aGluayB5b3Ugc2hvdWxkIGdldCB5b3VyIGJpcnRoZGF5IGFzIGEgaG9saWRheS48L2xpPgo8bGk+QnVkZ2V0IGZvciBwZXJzb25hbCBncm93dGggYW5kIHRyYWluaW5nPC9saT4KPGxpPlNvbWUgb2Ygb3VyIGJlbmVmaXRzOjwvbGk+CjxsaT5CVVBBIGhlYWx0aCBpbnN1cmFuY2U8L2xpPgo8bGk+UGVuc2lvbiBzY2hlbWU8L2xpPgo8bGk+VW5saW1pdGVkIEdQIHZpZGVvIGNvbnN1bHRhdGlvbiAoZnJlZSBCYWJ5bG9uIEhlYWx0aCBtZW1iZXJzaGlwKTwvbGk+CjwvdWw+CjxoMiBpZD0ib3VyLXZhbHVlcyI+T3VyIHZhbHVlczwvaDI+Cjx1bD4KPGxpPjxzdHJvbmc+QmUgY2FuZGlkIGFuZCBhdXRoZW50aWMuPC9zdHJvbmc+PHVsPgo8bGk+V2UgYnJpbmcgb3VyIHRydWUgc2VsdmVzIHRvIHdvcmsgLSB3aG8gd2Ugd2hvbGx5IGFyZS48L2xpPgo8bGk+V2UgYXJlIHRyYW5zcGFyZW50IGFuZCBhcmUgbm90IGFmcmFpZCB0byBzaGFyZSBpbmZvcm1hdGlvbiB3aXRoIGVhY2ggb3RoZXIgLSBnb29kIGFuZCBiYWQgbmV3cy48L2xpPgo8L3VsPgo8L2xpPgo8bGk+PHN0cm9uZz5UcnVzdCBhbmQgY2FyZSBmb3IgZWFjaCBvdGhlci48L3N0cm9uZz48dWw+CjxsaT5XZSB0cnVzdCBlYWNoIG90aGVyIHRvIGRvIHRoZSByaWdodCB0aGluZy48L2xpPgo8bGk+V2UgYXJlIG5vdCBhZnJhaWQgdG8gbWFrZSBtaXN0YWtlcywgYW5kIHdlIGFzayBmb3IgaGVscCB3aGVuIHdlIG5lZWQgaXQuPC9saT4KPGxpPldlIGVuY291cmFnZSBlYWNoIG90aGVyOyB3aGVuIHBlb3BsZSBzdHJ1Z2dsZSwgd2UgaGVscCB0aGVtLjwvbGk+CjwvdWw+CjwvbGk+CjxsaT48c3Ryb25nPkRvIHRoZSByaWdodCB0aGluZy48L3N0cm9uZz48dWw+CjxsaT5XZSBhcmUgZmFpciB0byBvdXIgY3VzdG9tZXJzLCBhbmQgd2UgY2FyZSBhYm91dCB0aGUgd2VsbC1iZWluZyBvZiB0aGVpciBwZXRzLjwvbGk+CjxsaT5XaGVuIGZhY2luZyBkaWZmaWN1bHQgZGVjaXNpb25zLCB3ZSBwdXQgZXRoaWNzIGFib3ZlIHByb2ZpdHMuPC9saT4KPGxpPldlIGFsd2F5cyBhY3QgaW4gdGhlIGJlc3QgaW50ZXJlc3Qgb2YgdGhlIGNvbXBhbnkuPC9saT4KPC91bD4KPC9saT4KPGxpPjxzdHJvbmc+V2UgYXJlIGFsbCBvd25lcnMgYW5kIG9wdGltaXNlIGZvciBpbXBhY3QuPC9zdHJvbmc+PHVsPgo8bGk+V2UgYXJlIGFsd2F5cyBsb29raW5nIGZvciB0aGUgbW9zdCBpbXBhY3RmdWwgdGhpbmcgdG8gd29yayBvbi48L2xpPgo8bGk+V2UgdGFrZSByZXNwb25zaWJpbGl0eSwgYW5kIHdl4oCZcmUgcHJvYmxlbSBzb2x2ZXJzIC0gaG9sZCB5b3Vyc2VsZiBhbmQgb3RoZXJzIGFjY291bnRhYmxlLjwvbGk+CjxsaT5Ob3RoaW5nIGlzIHNvbWVib2R5IGVsc2XigJlzIHByb2JsZW07IHdlIGFyZSBjb2xsYWJvcmF0aXZlIGFuZCBhbHdheXMganVtcCBpbiB0byBoZWxwIHdoZXJlIG5lZWRlZC48L2xpPgo8L3VsPgo8L2xpPgo8L3VsPgoKcG9zdGVkRGF0ZTogIjIwMjMtMDMtMjBUMDA6MDA6MDAuMDAwWiIKZGlyZWN0QXBwbHk6IGZhbHNlCmpvYkxvY2F0aW9uOiAKICBvcmlnaW5hbDogTG9uZG9uLCBIeWJyaWQKICB0ZXh0RGVzY3JpcHRpb246IEh5YnJpZCwgTG9uZG9uCiAgbG9jYXRpb25zOgogIC0gdGV4dERlc2NyaXB0aW9uOiBMb25kb24KICAgIGxvY2FsaXR5OiBMb25kb24KICAgIGNvdW50cnlOYW1lOiBVbml0ZWQgS2luZ2RvbQogICAgY291bnRyeUNvZGU6IEdCCiAgICBsYXRpdHVkZTogNTEuNTA3NAogICAgbG9uZ2l0dWRlOiAtMC4xMjc4CiAgCiAgd29ya3BsYWNlOiBQQVJUX1JFTU9URQpoaXJpbmdPcmdhbml6YXRpb246CiAgbmFtZTogTmFwbwogIGxvZ286ICIvL3V4YnJpLm9yZy9qb2JzL2xvZ29zL2xvZ28tbmFwby1wZXQtaW5zdXJhbmNlLTE2Njc4MzUzNzguc3ZnIgogIGlkOiA2NjIKICBzaG9ydElkOiA1ZDltNUtvRwogIHV1aWQ6IGM4YzQ5ZDY1LWIzMTUtNDk2Ni05ZWQ5LTE0OGEwNDlmY2Y0OAplbXBsb3ltZW50VHlwZToKICB0eXBlSW5mbzoKICAtIHRleHQ6IFBlcm1hbmVudAogICAgY29kZTogUEVSTUFORU5UCiAgICB0eXBlOiBjb250cmFjdAogIAogIG9yaWdpbmFsOiBQZXJtYW5lbnQKICB0ZXh0RGVzY3JpcHRpb246IFBlcm1hbmVudAphcHBsaWNhdGlvblVybDogaHR0cHM6Ly9jYXJlZXJzLm5hcG8ucGV0L2pvYnMvMjU2NTM2Mi1wcm9kdWN0LWRlc2lnbmVyCmFwcGxpY2F0aW9uVHlwZTogbGluawpjbG9zZWREYXRlOiAiMjAyMy0wNC0yMFQwMDowMDowMC4wMDBaIgpzdGF0dXM6IExJVkUKcGVybWFsaW5rOiAiL2pvYnMyLzExOTQvcHJvZHVjdC1kZXNpZ25lci5odG1sIgpsYXlvdXQ6IGpvYgotLS0K
+
+---
+_id: 6422c2424576a1bbc6095e51 
+id: 1194
+shortId: ujdgetww56
+uuid: b96663cc-a861-4443-9fcd-2c9cf1515bcb
+title:
+  original: Product Designer
+  textDescription: Product Designer
+  urlSlug: product-designer
+  inferred:
+    canonicalTitle: Product Designer
+    expandedTitle: Product Designer
+    similiarTitles: 
+      - Product Developer
+      - Product Manager
+      - UX Designer
+      - UI Designer
+      - Software Designer
+description: | 
+  <h2 id="about-napo">About Napo</h2>
+<p>Napo is a pet insurance company with one simple mission: to help every pet owner keep their pets healthy and happy. We are in the business of selling peace of mind and want people to know that Napo is a synonym for quality. The pet insurance space has suffered from low quality and misleading products, and we want to ensure that all the Napo products are simple and trustworthy. We’re digital first - customers can do anything they need online, but if they need to talk to us, we have a 6-star customer support team to answer the phone.</p>
+<h2 id="the-role">The Role</h2>
+<p>As a Product designer in Growth, you’ll craft and optimise a cohesive marketing and buying experience for potential Napo customers.</p>
+<p>With a learning mindset, you’ll collaborate with a multidisciplinary squad to solve impactful problems and deliver real impact. You’ll bring ideas and have ownership of projects, be customer centric and work with a high bar for design excellence.</p>
+<h2 id="skills-we-think-you-need">Skills we think you need</h2>
+<ul>
+<li>Build empathy and immerse yourself in our core customer segments to understand how and why they interact with Napo. Use insight and data to iterate, whilst being able to rationalise and articulate your design choices</li>
+<li>Design innovative, intuitive and cohesive experiences that potential customers love</li>
+<li>Collaborate with product, research and engineering counterparts to rationalise, evolve and validate innovative ideas quickly, and collaborate with engineers to implement and iterate on designs</li>
+<li>Use Figma expertly, with a passion for delivering highly polished UI design</li>
+<li>Evolve the Napo design system by re-defining existing and creating new design patterns</li>
+</ul>
+<h2 id="experience-that-is-important-to-us">Experience that is important to us</h2>
+<ul>
+<li>3+ years experience working as a product or UX/UI designer in an interdisciplinary product team</li>
+<li>Experience of the full product lifecycle</li>
+</ul>
+<h2 id="behaviours-outside-our-values-🙂--to-be-successful-in-the-role">Behaviours (outside our values 🙂 ) to be successful in the role</h2>
+<ul>
+<li>Have excellent interpersonal skills and enjoy learning from different perspectives</li>
+<li>Able to act as advocate for the best quality of design with both internal and external stakeholders</li>
+<li>Be organised, self-motivated and able to work independently</li>
+</ul>
+<h2 id="what-we-offer">What we offer</h2>
+<ul>
+<li>Everyone is an owner at Napo; you will receive stock options on day 1</li>
+<li>Flexible and remote-friendly work environment (for now, we would ideally love to have people in the office two days per week - we have a friendly office in central London)</li>
+<li>Flexible leave policy (25 days annual holidays + bank holidays), and we think you should get your birthday as a holiday.</li>
+<li>Budget for personal growth and training</li>
+<li>Some of our benefits:</li>
+<li>BUPA health insurance</li>
+<li>Pension scheme</li>
+<li>Unlimited GP video consultation (free Babylon Health membership)</li>
+</ul>
+<h2 id="our-values">Our values</h2>
+<ul>
+<li><strong>Be candid and authentic.</strong><ul>
+<li>We bring our true selves to work - who we wholly are.</li>
+<li>We are transparent and are not afraid to share information with each other - good and bad news.</li>
+</ul>
+</li>
+<li><strong>Trust and care for each other.</strong><ul>
+<li>We trust each other to do the right thing.</li>
+<li>We are not afraid to make mistakes, and we ask for help when we need it.</li>
+<li>We encourage each other; when people struggle, we help them.</li>
+</ul>
+</li>
+<li><strong>Do the right thing.</strong><ul>
+<li>We are fair to our customers, and we care about the well-being of their pets.</li>
+<li>When facing difficult decisions, we put ethics above profits.</li>
+<li>We always act in the best interest of the company.</li>
+</ul>
+</li>
+<li><strong>We are all owners and optimise for impact.</strong><ul>
+<li>We are always looking for the most impactful thing to work on.</li>
+<li>We take responsibility, and we’re problem solvers - hold yourself and others accountable.</li>
+<li>Nothing is somebody else’s problem; we are collaborative and always jump in to help where needed.</li>
+</ul>
+</li>
+</ul>
+
+postedDate: "2023-03-20T00:00:00.000Z"
+directApply: false
+jobLocation: 
+  original: London, Hybrid
+  textDescription: Hybrid, London
+  locations:
+  - textDescription: London
+    locality: London
+    countryName: United Kingdom
+    countryCode: GB
+    latitude: 51.5074
+    longitude: -0.1278
+  
+  workplace: PART_REMOTE
+hiringOrganization:
+  name: Napo
+  logo: "//uxbri.org/jobs/logos/logo-napo-pet-insurance-1667835378.svg"
+  id: 662
+  shortId: 5d9m5KoG
+  uuid: c8c49d65-b315-4966-9ed9-148a049fcf48
+employmentType:
+  typeInfo:
+  - text: Permanent
+    code: PERMANENT
+    type: contract
+  
+  original: Permanent
+  textDescription: Permanent
+applicationUrl: https://careers.napo.pet/jobs/2565362-product-designer
+applicationType: link
+closedDate: "2023-04-20T00:00:00.000Z"
+status: LIVE
+permalink: "/jobs2/1194/product-designer.html"
+layout: job
+---

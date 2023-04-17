@@ -1,1 +1,103 @@
-Ci0tLQpfaWQ6IDY0MjJjMjQ0NDU3NmExYmJjNjA5NWU1MyAKaWQ6IDExOTUKc2hvcnRJZDogaWhzZ3R0dHQ1NQp1dWlkOiBkYzQ0MjU2MS04MzAyLTRmNTAtOTdmOS04NzdmOWNlZjNiMGMKdGl0bGU6CiAgb3JpZ2luYWw6IFNlbmlvciBVWCBSZXNlYXJjaGVyCiAgdGV4dERlc2NyaXB0aW9uOiBTZW5pb3IgVXNlciBFeHBlcmllbmNlIFJlc2VhcmNoZXIKICB1cmxTbHVnOiBzZW5pb3ItdXgtcmVzZWFyY2hlcgogIGluZmVycmVkOgogICAgY2Fub25pY2FsVGl0bGU6IFNlbmlvciBVWCBSZXNlYXJjaGVyCiAgICBleHBhbmRlZFRpdGxlOiBTZW5pb3IgVXNlciBFeHBlcmllbmNlIFJlc2VhcmNoZXIKICAgIHNpbWlsaWFyVGl0bGVzOiAKICAgICAgLSBTZW5pb3IgVXNlciBJbnRlcmZhY2UgUmVzZWFyY2hlcgogICAgICAtIFNlbmlvciBVc2FiaWxpdHkgUmVzZWFyY2hlcgogICAgICAtIFNlbmlvciBVc2VyIFJlc2VhcmNoIEFuYWx5c3QKICAgICAgLSBTZW5pb3IgVXNlciBFeHBlcmllbmNlIEFuYWx5c3QKICAgICAgLSBTZW5pb3IgVXNlciBJbnRlcmZhY2UgQW5hbHlzdApkZXNjcmlwdGlvbjogfCAKICA8cD5EYXJ3aW4gaXMgcGFydCBvZiBNZXJjZXIgTWFyc2ggQmVuZWZpdHMgKE1NQiksIGEgNywwMDAtcGVyc29uIHN0cm9uZyBjb21tdW5pdHkgb2Ygc3BlY2lhbGlzdHMgaW4gaGVhbHRoLCBiZW5lZml0cywgYW5kIGVtcGxveWVlIHdlbGxiZWluZy4gVGhpcyBhZmZvcmRzIHVzIGEgbWFzc2l2ZSBvcHBvcnR1bml0eSB0byBpbXBhY3QgdGhlIGxpdmVzIG9mIHRlbnMgb2YgbWlsbGlvbnMgb2YgcGVvcGxlIGFyb3VuZCB0aGUgd29ybGQuIERhcndpbiBpcyBjaGFuZ2luZyBiZW5lZml0cyBmb3IgZ29vZCBpbiBlaWdodCBvdXQgb2YgdGhlIHRvcCB0ZW4gdGVjaG5vbG9neSBjb21wYW5pZXMgaW4gdGhlIHdvcmxkIGFuZCBoYXMgYSB3ZWFsdGggb2YgY2xpZW50cyBhY3Jvc3MgYSBkaXZlcnNlIHJhbmdlIG9mIHNlY3RvcnMuIEluIGZhY3QsIG1vcmUgdGhhbiAyIG1pbGxpb24gcGVvcGxlIGFyZSBhbHJlYWR5IHVzaW5nIG91ciBwbGF0Zm9ybS48L3A+CjxwPldlIGFyZSBjdXJyZW50bHkgbG9va2luZyBmb3IgYSBTZW5pb3IgVVggUmVzZWFyY2hlciB0byBqb2luIG91ciB0YWxlbnRlZCBVWCB0ZWFtLCB3aG8gYnJpbmcgdGhlIHJlc2VhcmNoIGRpc2NpcGxpbmUgdG8gbGlmZSBpbiBhbiBvcmdhbmlzYXRpb24gdGhhdCBtb3JlIGFuZCBtb3JlIGlzIGxlYW5pbmcgb24gZGF0YSB0byBtYWtlIHRoZSByaWdodCBkZWNpc2lvbnMuPC9wPgo8cD5JZiB5b3UgYXJlIHBhc3Npb25hdGUgYWJvdXQgdW5kZXJzdGFuZGluZyB0aGUgdXNlcnMgYW5kIHRoZWlyIGJlaGF2aW91cnMsIGluIHNwcmVhZGluZyB0aGUgZ29zcGVsIG9mIHJlc2VhcmNoIGFuZCBpdHMgaW1wb3J0YW5jZSBpbiBkZXNpZ24gYW5kIHByb2R1Y3QgZGV2ZWxvcG1lbnQsIGluIG1lYXN1cmluZyBwcm9ncmVzcyBpbiB0aGUgVVggYW5kIHByb2R1Y3QgaW1wcm92ZW1lbnRzIGluIGEgbWVhbmluZ2Z1bCBhbmQgc2hhcmFibGUgd2F54oCmLmxvb2sgbm8gZnVydGhlciwgd2UgYXJlIGhlcmUgZm9yIHlvdS48L3A+CjxwPllvdSBhcmUgZ29pbmcgdG8gYmUgdGhlIGZpcnN0IGZ1bGwgdGltZSByZXNlYXJjaCBmb3IgdGhlIERhcndpbiBNTUIgVVggdGVhbS4gU28gZmFyLCB0aGUgVVggZGVzaWduZXJzIGhhdmUgZG9uZSByZXNlYXJjaCBhcyBwYXJ0IG9mIHRoZSBkZXNpZ24gcHJvY2Vzcy4gQnV0IHRoZSBuZWVkIGZvciBtb3JlIHNwZWNpYWxpc2VkLCBkaXZlcnNlLCBlZmZpY2llbnQgcmVzZWFyY2gsIGhhcyBjcmVhdGUgdGhlIG5lZWQgZm9yIGEgZGVkaWNhdGUgcGVyc29uIHRvIHRha2Ugb24gdGhlIGNoYWxsZW5nZS48L3A+CjxwPllvdSB3aWxsIGJlIG93bmluZyB0aGUgcmVzZWFyY2ggYXJlYSwgc3VwcG9ydGVkIGJ5IHRoZSByZXN0IG9mIHRoZSB0ZWFtIG9mIGNvdXJzZS48L3A+CjxwPk91ciB0ZWFtIGhhcyBhIGdsb2JhbCBwcmVzZW5jZTsgb3VyIFNlbmlvciBVWCBSZXNlYXJjaGVyIGNvdWxkIHdvcmsgb3V0IG9mIGFueSBvZiBvdXIgVUsgb2ZmaWNlIGxvY2F0aW9ucywgd2l0aCBhIGRlZ3JlZSBvZiByZW1vdGUgd29ya2luZyBhbHNvIGF2YWlsYWJsZS48L3A+CjxoMiBpZD0id2hhdC1jYW4teW91LWV4cGVjdCI+V2hhdCBjYW4geW91IGV4cGVjdD88L2gyPgo8dWw+CjxsaT5UbyBqb2luIGEgY29sbGFib3JhdGl2ZSwgZ3Jvd2luZyBVWCB0ZWFtIGZvY3Vzc2VkIG9uIGhlbHBpbmcgaW1wcm92ZSB0aGUgbGl2ZXMgb2YgbWlsbGlvbnMgb2YgcGVvcGxlLjwvbGk+CjwvdWw+CjxoMiBpZD0id2hhdC15b3UtbmVlZC10by1oYXZlIj5XaGF0IHlvdSBuZWVkIHRvIGhhdmU8L2gyPgo8dWw+CjxsaT5FeHBlcmllbmNlIGluIGVzdGFibGlzaGluZyBjbG9zZSByZWxhdGlvbnNoaXBzIHdpdGggc3Rha2Vob2xkZXJzIOKAkyBtb3N0bHkgY2xpZW50cyBpbiB0aGlzIGNhc2UgLSB0byBjcmVhdGUg4oCcdXNlciByZXNlYXJjaCBwYW5lbHPigJ0gYXZhaWxhYmxlIGFuZCB3aWxsaW5nIHRvIHByb3ZpZGUgZmVlZGJhY2sgYW5kIHN1cHBvcnQgaW4gb3VyIHJlc2VhcmNoIHVuZGVydGFraW5ncy48L2xpPgo8bGk+RXhwZXJpZW5jZSBpbiBlc3RhYmxpc2hpbmcgc2hvcnQgYW5kIGxvbmctdGVybSB1c2VyIHJlc2VhcmNoIG5lZWRzIGFuZCBnb2FscywgcGxhbm5pbmcgcmVzZWFyY2ggYWN0aXZpdGllcywgYW5kIGlkZW50aWZ5aW5nIGFuZCBtYW5hZ2luZyB0b29scyB0aGF0IHdvdWxkIGhlbHAgc2hhcmUgdGhlIHBsYW5uaW5nIGFuZCB0aGUgZmluZGluZ3MgYXQgYSBkaWZmZXJlbnQgbGV2ZWwgd2l0aGluIHRoZSBvcmdhbmlzYXRpb24gYW5kIHBvc3NpYmx5IHdpdGggY2xpZW50cy48L2xpPgo8bGk+Q2FwYWJpbGl0eSB0byBwbGFuIGFuZCBzdXBwb3J0IGxvbmctdGVybSBhbmQgZXhwbG9yYXRpdmUgcmVzZWFyY2ggdG8gdW5kZXJzdGFuZCBsb2NhbCBtYXJrZXRzLCBmb3IgaW5zdGFuY2UsIGJ1dCBhbHNvIGJpZ2dlciBhcmVhcyBvZiB0aGUgcHJvZHVjdCB0aGF0IHdlIGFyZSB5ZXQgdG8gZXhwbG9yZS48L2xpPgo8bGk+UHJhY3RpY2UgaW4gc3VwcG9ydGluZyBhbmQgbWVudG9yaW5nIFVYIGRlc2lnbmVycyBpbiByZXNlYXJjaCBtZXRob2RvbG9naWVzIGFuZCBoZWxwIHRoZW0gaWRlbnRpZnkgdGhlIGJlc3QgdG9vbHMgZm9yIHRoZWlyIG5lZWRzLjwvbGk+CjxsaT5BYmlsaXR5IHRvIGNyZWF0ZSBhIHN1c3RhaW5hYmxlIHdheSB0byBnYXRoZXIgY29tcGV0aXRvcnPigJkgaW5zaWdodHMgaW4gYSBCMkIgbWFya2V0LjwvbGk+CjxsaT5BIHdpbGxpbmduZXNzIHRvIGV4cGxvcmUgcXVhbnRpdGF0aXZlIG1ldGhvZG9sb2dpZXMgYW5kIG90aGVyIGRhdGEtZ2F0aGVyaW5nIHRvb2xzIChlLmcuIFBlbmRvKSB0byB1bmRlcnN0YW5kIHRoZSBwcm9ncmVzcyBpbiB0aGUgVVggaW1wcm92ZW1lbnRzIGFuZCBwZXJjZWl2ZWQgcXVhbGl0eS48L2xpPgo8L3VsPgo8aDIgaWQ9IndoYXQtbWFrZXMteW91LXN0YW5kLW91dCI+V2hhdCBtYWtlcyB5b3Ugc3RhbmQgb3V0PzwvaDI+Cjx1bD4KPGxpPkV4cGVyaWVuY2UgaW4gYWRhcHRpbmcgdGhlIHJlc2VhcmNoIHByZXNlbnRhdGlvbiB0byBhIGRpZmZlcmVudCBhdWRpZW5jZSB0byBtYWtlIHRoZSBtb3N0IGltcGFjdC48L2xpPgo8bGk+S25vd2xlZGdlIG9mIGNvcmUgZGVzaWduIHRvb2xzIChlLmcuIEZpZ21hLCBTa2V0Y2gsIEFkb2JlIENyZWF0aXZlIFN1aXRlKS48L2xpPgo8bGk+QSBkZXNpcmUgdG8gZ2VuZXJhdGUgaW50ZXJlc3QgYXJvdW5kIGRlc2lnbiwgcmVzZWFyY2gsIGFuZCBkZXNpZ24gdGhpbmtpbmcgYnkgY3JlYXRpbmcgY29udGVudCB0aGF0IGNhbiBiZSB1c2VkIGluIGJsb2dzLCB0aG91Z2h0IGxlYWRlcnNoaXAsIGNsaWVudHPigJkgcHJlc2VudGF0aW9ucyBhbmQgbGVhZGVyc2hpcCBtZWV0aW5ncy48L2xpPgo8bGk+S25vd2xlZGdlIG9mIGhvdyB0byBjcmVhdGUgYW5kIG1haW50YWluIGEgbWFzdGVyIHJlc2VhcmNoIHBsYW4gdG8ga2VlcCB0cmFjayBvZiBhY3Rpdml0aWVzIGFuZCBwcm92aWRlIHZpc2liaWxpdHkgb2YgcHJvZ3Jlc3MgdG8gc3Rha2Vob2xkZXJzLjwvbGk+CjxsaT5Lbm93bGVkZ2Ugb2YgaG93IHRvIGFsaWduIHJlc2VhcmNoIGFjdGl2aXRpZXMgYWNyb3NzIHRlYW1zIHRvIG9yZ8KtYW5pc2F0aW9uYWwgZ29hbHMsIHRvIGluZm9ybSBsb25nLXRlcm0gc3RyYXRlZ3kgYW5kIHByb3Bvc2l0aW9uLjwvbGk+CjxsaT5FeHBlcmllbmNlIGluIHByZXNlbnRpbmcgcmVzZWFyY2ggb3V0Y29tZXMuPC9saT4KPGxpPkEgZGVlcCBkZXNpcmUgdG8gbGVhcm4gYW5kIGJlY29tZSB0aGUgYmVzdCBVWCByZXNlYXJjaGVyIHRoYXQgeW91IGNhbiBldmVyIGJlLjwvbGk+CjxsaT5TdHJvbmcgaW50ZXJlc3QgaW4gYmVpbmcgYW4gZXhwZXJ0IG9uIHRoZSBwcm9kdWN0LCB0aGUgdGVjaG5vbG9neSBhbmQgdGhlIHByb2Nlc3MgdGhhdCB3aWxsIGFsbG93IHlvdSB0byBoZWxwIGJyaW5nIGEgcHJvZHVjdCBpbnRvIHRoZSBtYXJrZXQuPC9saT4KPGxpPkJBL0JTYyBpbiBJbnRlcmFjdGlvbi9JbmR1c3RyaWFsIERlc2lnbiwgSENJLCBSZXNlYXJjaCwgR3JhcGhpYyBEZXNpZ24sIENvbXB1dGVyIFNjaWVuY2UsIFBzeWNob2xvZ3ksIG9yIHJlbGF0ZWQgZmllbGQuPC9saT4KPC91bD4KPHA+QXQgTWFyc2ggTWNMZW5uYW4sIHdlIHVuZGVyc3RhbmQgdGhlIGNvbXBsZXhpdHksIGFuZCB0aGUgcmVhbGl0eSwgb2YgdGhlIG1vZGVybiBjYXJlZXIgcGF0aC4gSWYgeW91ciBleHBlcmllbmNlIGxvb2tzIGEgbGl0dGxlIGRpZmZlcmVudCBmcm9tIHdoYXQgd2XigJl2ZSBpZGVudGlmaWVkIGFuZCB5b3UgdGhpbmsgeW91IHdvdWxkIGJlIGEgZ3JlYXQgZml0IGZvciB0aGUgcm9sZSwgd2Ugd291bGQgbG92ZSB0byBoZWFyIGZyb20geW91LjwvcD4KPGgyIGlkPSJ3ZS13aWxsLWNvdW50LW9uLXlvdS10byI+V2Ugd2lsbCBjb3VudCBvbiB5b3UgdG88L2gyPgo8dWw+CjxsaT5DcmVhdGUgYW5kIGV4cGFuZCB0aGUgVVggcmVzZWFyY2ggZGlzY2lwbGluZSB3aXRoaW4gdGhlIG9yZ2FuaXNhdGlvbjwvbGk+CjxsaT5JZGVudGlmeSBzaG9ydCBhbmQgbG9uZyB0ZWFtIHJlc2VhcmNoIG5lZWRzIGFuZCBwbGFucy48L2xpPgo8bGk+RXN0YWJsaXNoIGludGVyLXRlYW0gYW5kIGFjcm9zcyB0ZWFtc+KAmSBwcm9jZXNzZXMgdG8gaW50ZWdyYXRlIHJlc2VhcmNoIHdpdGhpbiB0aGUgcHJvZHVjdCBkZWxpdmVyeSBwcm9jZXNzLjwvbGk+CjxsaT5Vc2UgYWxsIHBvc3NpYmxlIG1ldGhvZG9sb2dpZXMgKHF1YWxpdGF0aXZlLCBxdWFudGl0YXRpdmUgZXRjKSwgYW5kIGRhdGEgZ2F0aGVyaW5nIHRvb2xzIChlLmcuIFBlbmRvKSB0byBjb2xsZWN0IGFuZCBtYWtlIHNlbnNlIG9mIGluc2lnaHRzIHRvIGhlbHAgdGhlIHRlYW0gYW5kIHRoZSBvcmdhbmlzYXRpb24gdW5kZXJzdGFuZCB3aGVyZSBhcmUgdGhlIGFyZWFzIG9mIGltcHJvdmVtZW50IGJ1dCBhbHNvIHRoZSBzdHJlbmd0aHMgb2YgdGhlIGN1cnJlbnQgYW5kIHBsYW5uZWQgZXhwZXJpZW5jZS48L2xpPgo8bGk+RXZhbmdlbGlzZSBVWCByZXNlYXJjaCB3aXRoaW4gdGhlIG9yZ2FuaXNhdGlvbiB3aGVuZXZlciB0aGF0IGlzIHBvc3NpYmxlLCBzaG93aW5nIGZsb3dsZXNzIHByb2Nlc3NlcywgYWNjdXJhdGUgbWV0aG9kb2xvZ2llcywgYW5kIHNvbGlkIG91dHB1dC48L2xpPgo8bGk+U2VsZWN0IGFuZCBtYWludGFpbiB0aGUgYmVzdCB0b29scyB0byBjb2xsZWN0LCBhbmFseXNlIGFuZCBzaGFyZSB0aGUgZGF0YSBmcm9tIHJlc2VhcmNoIHRvIGEgd2lkZXIgYXVkaWVuY2UgLSB0aGF0IHdvdWxkIGluY2x1ZGUgY2xpZW50cyBpbiBtb3JlIGFuZCBtb3JlIGNhc2VzLjwvbGk+CjwvdWw+CjxwPiNMSS1QSzE8L3A+CjxwPiNMSS1VWDwvcD4KPHA+I0xJLVVYUkVTRUFSQ0g8L3A+CjxwPk1lcmNlciBwcm92aWRlcyBpbnNpZ2h0cywgYWR2aWNlIGFuZCB0ZWNobm9sb2d5LWRyaXZlbiBzb2x1dGlvbnMgdG8gaGVscCBidWlsZCBicmlnaHRlciBmdXR1cmVzIGZvciBvdXIgY2xpZW50cywgY29sbGVhZ3VlcyBhbmQgY29tbXVuaXRpZXMuIFRvZ2V0aGVyLCB3ZeKAmXJlIHJlZGVmaW5pbmcgdGhlIHdvcmxkIG9mIHdvcmssIHJlc2hhcGluZyByZXRpcmVtZW50IGFuZCBpbnZlc3RtZW50IG91dGNvbWVzLCBhbmQgdW5sb2NraW5nIHJlYWwgaGVhbHRoIGFuZCB3ZWxsLWJlaW5nLiBNZXJjZXLigJlzIG1vcmUgdGhhbiAyNSwwMDAgZW1wbG95ZWVzIGFyZSBiYXNlZCBpbiA0NCBjb3VudHJpZXMsIGFuZCB0aGUgZmlybSBvcGVyYXRlcyBpbiBvdmVyIDEzMCBjb3VudHJpZXMuIE1lcmNlciBpcyBhIGJ1c2luZXNzIG9mIE1hcnNoICZhbXA7IE1jTGVubmFuIENvbXBhbmllcyAoTllTRTogTU1DKSwgdGhlIHdvcmxk4oCZcyBsZWFkaW5nIHByb2Zlc3Npb25hbCBzZXJ2aWNlcyBmaXJtIGluIHRoZSBhcmVhcyBvZiByaXNrLCBzdHJhdGVneSBhbmQgcGVvcGxlLCB3aXRoIDc2LDAwMCBjb2xsZWFndWVzIGFuZCBhbm51YWxpemVkIHJldmVudWUgYXBwcm9hY2hpbmcgJDE3IGJpbGxpb24uIFRocm91Z2ggaXRzIG1hcmtldC1sZWFkaW5nIGJ1c2luZXNzZXMsIGluY2x1ZGluZyBNYXJzaCwgR3V5IENhcnBlbnRlciBhbmQgT2xpdmVyIFd5bWFuLCBNYXJzaCAmYW1wOyBNY0xlbm5hbiBoZWxwcyBjbGllbnRzIG5hdmlnYXRlIGFuIGluY3JlYXNpbmdseSBkeW5hbWljIGFuZCBjb21wbGV4IGVudmlyb25tZW50LiA8L3A+CjxwPk1hcnNoICZhbXA7IE1jTGVubmFuIENvbXBhbmllcyBhbmQgaXRzIGFmZmlsaWF0ZXMgYWltIHRvIGF0dHJhY3QgYW5kIHJldGFpbiB0aGUgYmVzdCBwZW9wbGUgcmVnYXJkbGVzcyBvZiB0aGVpciBnZW5kZXIgZXhwcmVzc2lvbiBvciBpZGVudGl0eSwgbWFyaXRhbCBhbmQgY2l2aWwgcGFydG5lcnNoaXAgc3RhdHVzLCBldGhuaWMgb3JpZ2luLCBuYXRpb25hbGl0eSwgYWdlLCBiYWNrZ3JvdW5kLCBkaXNhYmlsaXR5LCBzZXh1YWwgb3JpZW50YXRpb24gb3IgYmVsaWVmcy48L3A+CjxwPjxzdHJvbmc+QXQgTWFyc2ggTWNMZW5uYW4sIHdlIHVuZGVyc3RhbmQgdGhlIGNvbXBsZXhpdHksIGFuZCB0aGUgcmVhbGl0eSwgb2YgdGhlIG1vZGVybiBjYXJlZXIgcGF0aC4gSWYgeW91ciBleHBlcmllbmNlIGxvb2tzIGEgbGl0dGxlIGRpZmZlcmVudCBmcm9tIHdoYXQgd2XigJl2ZSBpZGVudGlmaWVkIGFuZCB5b3UgdGhpbmsgeW91IHdvdWxkIGJlIGEgZ3JlYXQgZml0IGZvciB0aGUgcm9sZSwgd2Ugd291bGQgbG92ZSB0byBoZWFyIGZyb20geW91Ljwvc3Ryb25nPjwvcD4KCnBvc3RlZERhdGU6ICIyMDIzLTAzLTIwVDAwOjAwOjAwLjAwMFoiCmRpcmVjdEFwcGx5OiBmYWxzZQpqb2JMb2NhdGlvbjogCiAgb3JpZ2luYWw6IExvbmRvbgogIHRleHREZXNjcmlwdGlvbjogTG9uZG9uCiAgbG9jYXRpb25zOgogIC0gdGV4dERlc2NyaXB0aW9uOiBMb25kb24KICAgIGxvY2FsaXR5OiBMb25kb24KICAgIGNvdW50cnlOYW1lOiBVbml0ZWQgS2luZ2RvbQogICAgY291bnRyeUNvZGU6IEdCCiAgICBsYXRpdHVkZTogNTEuNTA3NAogICAgbG9uZ2l0dWRlOiAtMC4xMjc4CiAgCiAgd29ya3BsYWNlOiB1bmRlZmluZWQKaGlyaW5nT3JnYW5pemF0aW9uOgogIG5hbWU6IE1hcnNoTWNMZW5uYW4KICBsb2dvOiAiLy91eGJyaS5vcmcvam9icy9sb2dvcy9tYXJzaC1tY2xlbm5hbi1jb21wYW5pZXMtbG9nby12ZWN0b3ItMjAyMS5zdmciCiAgaWQ6IDY2MwogIHNob3J0SWQ6IGFaMjBFNGZ5CiAgdXVpZDogM2IyZTc1ZTgtYzBkZS00ZTc4LTg5NzctOWNkMjFhNDkxZDhjCmVtcGxveW1lbnRUeXBlOgogIHR5cGVJbmZvOgogIC0gdGV4dDogUGVybWFuZW50CiAgICBjb2RlOiBQRVJNQU5FTlQKICAgIHR5cGU6IGNvbnRyYWN0CiAgCiAgb3JpZ2luYWw6IFBlcm1hbmVudAogIHRleHREZXNjcmlwdGlvbjogUGVybWFuZW50CmFwcGxpY2F0aW9uVXJsOiBodHRwczovL2NhcmVlcnMubWFyc2htY2xlbm5hbi5jb20vZ2xvYmFsL2VuL2FwcGx5LzEvMT9qb2JTZXFObz1NQU1DR0xPQkFMUjIyMzQ5OUVYVEVSTkFMRU5HTE9CQUwKYXBwbGljYXRpb25UeXBlOiBsaW5rCmNsb3NlZERhdGU6ICIyMDIzLTA0LTIwVDAwOjAwOjAwLjAwMFoiCnN0YXR1czogTElWRQpwZXJtYWxpbms6ICIvam9iczIvMTE5NS9zZW5pb3ItdXgtcmVzZWFyY2hlci5odG1sIgpsYXlvdXQ6IGpvYgotLS0K
+
+---
+_id: 6422c2444576a1bbc6095e53 
+id: 1195
+shortId: ihsgtttt55
+uuid: dc442561-8302-4f50-97f9-877f9cef3b0c
+title:
+  original: Senior UX Researcher
+  textDescription: Senior User Experience Researcher
+  urlSlug: senior-ux-researcher
+  inferred:
+    canonicalTitle: Senior UX Researcher
+    expandedTitle: Senior User Experience Researcher
+    similiarTitles: 
+      - Senior User Interface Researcher
+      - Senior Usability Researcher
+      - Senior User Research Analyst
+      - Senior User Experience Analyst
+      - Senior User Interface Analyst
+description: | 
+  <p>Darwin is part of Mercer Marsh Benefits (MMB), a 7,000-person strong community of specialists in health, benefits, and employee wellbeing. This affords us a massive opportunity to impact the lives of tens of millions of people around the world. Darwin is changing benefits for good in eight out of the top ten technology companies in the world and has a wealth of clients across a diverse range of sectors. In fact, more than 2 million people are already using our platform.</p>
+<p>We are currently looking for a Senior UX Researcher to join our talented UX team, who bring the research discipline to life in an organisation that more and more is leaning on data to make the right decisions.</p>
+<p>If you are passionate about understanding the users and their behaviours, in spreading the gospel of research and its importance in design and product development, in measuring progress in the UX and product improvements in a meaningful and sharable way….look no further, we are here for you.</p>
+<p>You are going to be the first full time research for the Darwin MMB UX team. So far, the UX designers have done research as part of the design process. But the need for more specialised, diverse, efficient research, has create the need for a dedicate person to take on the challenge.</p>
+<p>You will be owning the research area, supported by the rest of the team of course.</p>
+<p>Our team has a global presence; our Senior UX Researcher could work out of any of our UK office locations, with a degree of remote working also available.</p>
+<h2 id="what-can-you-expect">What can you expect?</h2>
+<ul>
+<li>To join a collaborative, growing UX team focussed on helping improve the lives of millions of people.</li>
+</ul>
+<h2 id="what-you-need-to-have">What you need to have</h2>
+<ul>
+<li>Experience in establishing close relationships with stakeholders – mostly clients in this case - to create “user research panels” available and willing to provide feedback and support in our research undertakings.</li>
+<li>Experience in establishing short and long-term user research needs and goals, planning research activities, and identifying and managing tools that would help share the planning and the findings at a different level within the organisation and possibly with clients.</li>
+<li>Capability to plan and support long-term and explorative research to understand local markets, for instance, but also bigger areas of the product that we are yet to explore.</li>
+<li>Practice in supporting and mentoring UX designers in research methodologies and help them identify the best tools for their needs.</li>
+<li>Ability to create a sustainable way to gather competitors’ insights in a B2B market.</li>
+<li>A willingness to explore quantitative methodologies and other data-gathering tools (e.g. Pendo) to understand the progress in the UX improvements and perceived quality.</li>
+</ul>
+<h2 id="what-makes-you-stand-out">What makes you stand out?</h2>
+<ul>
+<li>Experience in adapting the research presentation to a different audience to make the most impact.</li>
+<li>Knowledge of core design tools (e.g. Figma, Sketch, Adobe Creative Suite).</li>
+<li>A desire to generate interest around design, research, and design thinking by creating content that can be used in blogs, thought leadership, clients’ presentations and leadership meetings.</li>
+<li>Knowledge of how to create and maintain a master research plan to keep track of activities and provide visibility of progress to stakeholders.</li>
+<li>Knowledge of how to align research activities across teams to org­anisational goals, to inform long-term strategy and proposition.</li>
+<li>Experience in presenting research outcomes.</li>
+<li>A deep desire to learn and become the best UX researcher that you can ever be.</li>
+<li>Strong interest in being an expert on the product, the technology and the process that will allow you to help bring a product into the market.</li>
+<li>BA/BSc in Interaction/Industrial Design, HCI, Research, Graphic Design, Computer Science, Psychology, or related field.</li>
+</ul>
+<p>At Marsh McLennan, we understand the complexity, and the reality, of the modern career path. If your experience looks a little different from what we’ve identified and you think you would be a great fit for the role, we would love to hear from you.</p>
+<h2 id="we-will-count-on-you-to">We will count on you to</h2>
+<ul>
+<li>Create and expand the UX research discipline within the organisation</li>
+<li>Identify short and long team research needs and plans.</li>
+<li>Establish inter-team and across teams’ processes to integrate research within the product delivery process.</li>
+<li>Use all possible methodologies (qualitative, quantitative etc), and data gathering tools (e.g. Pendo) to collect and make sense of insights to help the team and the organisation understand where are the areas of improvement but also the strengths of the current and planned experience.</li>
+<li>Evangelise UX research within the organisation whenever that is possible, showing flowless processes, accurate methodologies, and solid output.</li>
+<li>Select and maintain the best tools to collect, analyse and share the data from research to a wider audience - that would include clients in more and more cases.</li>
+</ul>
+<p>#LI-PK1</p>
+<p>#LI-UX</p>
+<p>#LI-UXRESEARCH</p>
+<p>Mercer provides insights, advice and technology-driven solutions to help build brighter futures for our clients, colleagues and communities. Together, we’re redefining the world of work, reshaping retirement and investment outcomes, and unlocking real health and well-being. Mercer’s more than 25,000 employees are based in 44 countries, and the firm operates in over 130 countries. Mercer is a business of Marsh &amp; McLennan Companies (NYSE: MMC), the world’s leading professional services firm in the areas of risk, strategy and people, with 76,000 colleagues and annualized revenue approaching $17 billion. Through its market-leading businesses, including Marsh, Guy Carpenter and Oliver Wyman, Marsh &amp; McLennan helps clients navigate an increasingly dynamic and complex environment. </p>
+<p>Marsh &amp; McLennan Companies and its affiliates aim to attract and retain the best people regardless of their gender expression or identity, marital and civil partnership status, ethnic origin, nationality, age, background, disability, sexual orientation or beliefs.</p>
+<p><strong>At Marsh McLennan, we understand the complexity, and the reality, of the modern career path. If your experience looks a little different from what we’ve identified and you think you would be a great fit for the role, we would love to hear from you.</strong></p>
+
+postedDate: "2023-03-20T00:00:00.000Z"
+directApply: false
+jobLocation: 
+  original: London
+  textDescription: London
+  locations:
+  - textDescription: London
+    locality: London
+    countryName: United Kingdom
+    countryCode: GB
+    latitude: 51.5074
+    longitude: -0.1278
+  
+  workplace: undefined
+hiringOrganization:
+  name: MarshMcLennan
+  logo: "//uxbri.org/jobs/logos/marsh-mclennan-companies-logo-vector-2021.svg"
+  id: 663
+  shortId: aZ20E4fy
+  uuid: 3b2e75e8-c0de-4e78-8977-9cd21a491d8c
+employmentType:
+  typeInfo:
+  - text: Permanent
+    code: PERMANENT
+    type: contract
+  
+  original: Permanent
+  textDescription: Permanent
+applicationUrl: https://careers.marshmclennan.com/global/en/apply/1/1?jobSeqNo=MAMCGLOBALR223499EXTERNALENGLOBAL
+applicationType: link
+closedDate: "2023-04-20T00:00:00.000Z"
+status: LIVE
+permalink: "/jobs2/1195/senior-ux-researcher.html"
+layout: job
+---
