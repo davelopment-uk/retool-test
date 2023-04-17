@@ -17,6 +17,7 @@ title:
       - Senior Visual Designer
       - Senior Product Designer
       - Senior UX Researcher
+# description starts here
 description: | 
   <h2 id="package-description">Package Description</h2>
 <p><strong>Unfortunately we're unable to consider anyone without the eligibility/right to work in the UK and we cannot offer sponsorship</strong></p>
@@ -104,6 +105,7 @@ description: |
 <h2 id="attached-documents">Attached documents</h2>
 <p>pdf <a href="https://careershub.bbc.co.uk/members/modules/jobV2/fdownload.php?j=e9642c8b03889fa9&amp;f=704d9200cae41c83">Our BBC Values.pdf</a></p>
 
+# description ends here
 postedDate: "2023-03-24T00:00:00.000Z"
 directApply: false
 jobLocation: 

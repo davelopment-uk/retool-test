@@ -17,6 +17,7 @@ title:
       - UX Designer
       - UI Designer
       - Software Designer
+# description starts here
 description: | 
   <h2 id="about-napo">About Napo</h2>
 <p>Napo is a pet insurance company with one simple mission: to help every pet owner keep their pets healthy and happy. We are in the business of selling peace of mind and want people to know that Napo is a synonym for quality. The pet insurance space has suffered from low quality and misleading products, and we want to ensure that all the Napo products are simple and trustworthy. We’re digital first - customers can do anything they need online, but if they need to talk to us, we have a 6-star customer support team to answer the phone.</p>
@@ -80,6 +81,7 @@ description: |
 </li>
 </ul>
 
+# description ends here
 postedDate: "2023-03-20T00:00:00.000Z"
 directApply: false
 jobLocation: 

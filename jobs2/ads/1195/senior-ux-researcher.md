@@ -17,6 +17,7 @@ title:
       - Senior User Research Analyst
       - Senior User Experience Analyst
       - Senior User Interface Analyst
+# description starts here
 description: | 
   <p>Darwin is part of Mercer Marsh Benefits (MMB), a 7,000-person strong community of specialists in health, benefits, and employee wellbeing. This affords us a massive opportunity to impact the lives of tens of millions of people around the world. Darwin is changing benefits for good in eight out of the top ten technology companies in the world and has a wealth of clients across a diverse range of sectors. In fact, more than 2 million people are already using our platform.</p>
 <p>We are currently looking for a Senior UX Researcher to join our talented UX team, who bring the research discipline to life in an organisation that more and more is leaning on data to make the right decisions.</p>
@@ -66,6 +67,7 @@ description: |
 <p>Marsh &amp; McLennan Companies and its affiliates aim to attract and retain the best people regardless of their gender expression or identity, marital and civil partnership status, ethnic origin, nationality, age, background, disability, sexual orientation or beliefs.</p>
 <p><strong>At Marsh McLennan, we understand the complexity, and the reality, of the modern career path. If your experience looks a little different from what we’ve identified and you think you would be a great fit for the role, we would love to hear from you.</strong></p>
 
+# description ends here
 postedDate: "2023-03-20T00:00:00.000Z"
 directApply: false
 jobLocation: 

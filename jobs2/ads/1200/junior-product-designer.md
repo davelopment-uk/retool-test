@@ -17,6 +17,7 @@ title:
       - Junior UX Designer
       - Junior UI Designer
       - Junior Software Designer
+# description starts here
 description: | 
   <p>At TSB, we're all here to give money confidence to our customers and communities. Wherever you work in TSB, you can make a real difference to your career, our business, and the wider community". we're looking for a Junior Product Designer who is passionate about customer centric design and innovation</p>
 <h2 id="what-we-need-today">What we need today</h2>
@@ -46,6 +47,7 @@ description: |
 <p> Inclusion matters at TSB. We want our colleagues to feel at home here, no matter their background . Diverse teams are what helps us deliver Money Confidence. For everyone, Every day.</p>
 <p>Did our job advert catch you eye, but you don't meet all the requirements? Don't let that put you off. If you meet some of the requirements and have an open curious mindset, we'd love to hear from you. </p>
 
+# description ends here
 postedDate: "2023-03-24T00:00:00.000Z"
 directApply: true
 jobLocation: 

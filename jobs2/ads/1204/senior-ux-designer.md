@@ -17,6 +17,7 @@ title:
       - Senior Visual Designer
       - Senior Product Designer
       - Senior UX Researcher
+# description starts here
 description: | 
   <h2 id="your-role-in-a-nutshell">Your role in a nutshell</h2>
 <p>The core purpose of the role is to manage all UX design activities and to own and drive customer-focussed usability, accessibility adherence with a target of WCAG AA and overall UX consistency across all of our digital estate. Also to be a champion of creative UI consistency and to participate in the evolving of said design language throughout the channels, maintaining an already flourishing link with the wider global creative “Greenhouse” team.</p>
@@ -80,6 +81,7 @@ description: |
 <h2 id="diversity-statement">Diversity Statement</h2>
 <p><em>At The Body Shop, we firmly believe that equality is a human right and that all people should have an equal opportunity to pursue their dreams and aspirations.  We are committed to attracting, developing, and retaining the very best people by offering a creative and inclusive workplace where talent is recognized. We value diversity and consider all applicants for employment without regard to race, religion, colour, national origin, sex, gender, gender expression, sexual orientation, age, marital status or disability status. We are proud to have a number of different active employee inclusion networks that serve not just as catalysts for change, but also to build a spirit of diversity, equality, inclusivity, and provide safe supportive spaces for engagement and solidarity for members of these communities.  The Body Shop is also committed to providing access, equal opportunity, and reasonable accommodations for individuals with disabilities in employment, its services, programs and activities. To request a reasonable accommodation, please let us know in your application or email us at <a href="mailto:UK.Recruitment@thebodyshop.com">UK.Recruitment@thebodyshop.com</a>.</em></p>
 
+# description ends here
 postedDate: "2023-03-27T23:00:00.000Z"
 directApply: false
 jobLocation: 

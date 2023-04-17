@@ -17,6 +17,7 @@ title:
       - Visual Designer
       - Product Strategist
       - User Researcher
+# description starts here
 description: | 
   <h2 id="about-the-role">About The Role</h2>
 <p>We are looking for a skilled and passionate mid-level Product Designer to help guide the evolution of our product. As a key member of our Product Team, you will work closely with Product Managers, Designers, and Engineers to define requirements by conducting research and analyzing insights. This role will require both design and research skills but we appreciate you may not be a master of all of these. 
@@ -103,6 +104,7 @@ We do this through a unique combination of powerful software, done-for-you servi
 <p>You can find out more about life at BrightLocal on our ‘Working at BrightLocal’ page, and check out our reviews and photos on <a href="https://www.glassdoor.co.uk/Jobs/BrightLocal-Jobs-E2096468.htm">Glassdoor</a> which shows you what it’s like to be a member of our team.</p>
 <p>We know that our future is packed with big challenges and exciting opportunities; and we need smart, passionate and committed people like you to help us realise them!</p>
 
+# description ends here
 postedDate: "2023-03-20T00:00:00.000Z"
 directApply: false
 jobLocation: 

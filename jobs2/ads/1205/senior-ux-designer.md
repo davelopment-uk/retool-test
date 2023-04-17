@@ -17,6 +17,7 @@ title:
       - Senior Visual Designer
       - Senior Product Designer
       - Senior UX Researcher
+# description starts here
 description: | 
   <h2 id="about-zava">About ZAVA</h2>
 <p>We're on a mission to provide our patients with healthcare that is accessible and dependable at a fraction of today's cost. </p>
@@ -121,6 +122,7 @@ This is a stand alone role and you will have the opportunity to own and deliver 
 <p><em>Diversity is everywhere and it makes the world a more interesting place. At ZAVA we encourage diversity, welcome difference and celebrate new ideas. Everyone is welcome to apply to ZAVA, regardless of origin, creed, disability, age, nationality, marital status, partnership status, sexual orientation, gender or other legally protected reasons. Additionally, research shows that generally, men are happy to apply for positions where they fit 60% of the requirements or higher, whereas women and underrepresented groups often will not apply unless they fit the requirements almost entirely. If you think you’d be great in this role, even if you don’t match all the requirements we have listed, we’d still love to hear from you!</em> </p>
 <p><em>Please note: certain positions will be subject to a satisfactory DBS check.</em></p>
 
+# description ends here
 postedDate: "2023-03-27T23:00:00.000Z"
 directApply: false
 jobLocation: 

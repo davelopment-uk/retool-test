@@ -17,6 +17,7 @@ title:
       - UX Designer
       - UI Designer
       - Software Designer
+# description starts here
 description: | 
   <p><strong>Lawo designs, manufactures, and sells cutting-edge networked video, audio, and control systems for television, radio, and live performance applications all over the world. Chances are, if you've watched a live event on TV, listened to the radio, or been to a live performance, then Lawo products have helped create the sound and pictures. Check us out at <a href="https://lawo.com/">https://lawo.com/</a></strong></p>
 <p>Lawo's customers bring the atmosphere of sporting events into supporters' living rooms, they quickly and clearly deliver breaking news, and they produce incredible live events that fans will remember for the rest of their lives. Our goal is to make our solutions effortless and invisible, getting them out of the way, so our customers can spend less time thinking about how to do something and focus all their effort on the product they're delivering.</p>
@@ -59,6 +60,7 @@ description: |
 </ul>
 <p>We look forward to hearing from you!</p>
 
+# description ends here
 postedDate: "2023-03-20T00:00:00.000Z"
 directApply: false
 jobLocation: 

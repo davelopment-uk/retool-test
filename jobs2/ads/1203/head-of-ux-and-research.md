@@ -12,6 +12,7 @@ title:
     canonicalTitle: undefined
     expandedTitle: undefined
     similiarTitles: undefined
+# description starts here
 description: | 
   <h2 id="role-purpose">Role purpose</h2>
 <p>The Head of UX &amp; Research is responsible for ensuring that the user experience across all digital platforms is exceptional. They are the guardian of the Staysure group customer journey and will create complimentary yet distinct design systems across all of the group’s major brands. This role exists to champion UX &amp; Research best practice and implement this new discipline into the business. The Head of UX and Research will play a key role in managing CRO and increase conversion through beautiful customer journeys.</p>
@@ -67,6 +68,7 @@ We'll support you with costs if you're someone who likes to cycle to work</li>
 Pass probation and get a private medical policy</li>
 </ul>
 
+# description ends here
 postedDate: "2023-03-26T23:00:00.000Z"
 directApply: false
 jobLocation: 
