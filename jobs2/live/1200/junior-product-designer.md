@@ -47,7 +47,7 @@ description: |
 <p>Did our job advert catch you eye, but you don't meet all the requirements? Don't let that put you off. If you meet some of the requirements and have an open curious mindset, we'd love to hear from you. </p>
 
 postedDate: "2023-03-24T00:00:00.000Z"
-directApply: false
+directApply: true
 jobLocation: 
   original: London
   textDescription: London
